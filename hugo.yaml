@@ -44,15 +44,8 @@ menu:
       pageRef: /
       weight: 1
     - identifier: about      
-      name: 关于我 ↗
-      pageRef: /about
-      weight: 2
-    - identifier: github   
-      name: 同性交友
-      weight: 3
-      url: "https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily"
-      params:
-        icon: github
+  
+     
 
 
 params:
@@ -114,7 +107,7 @@ params:
     type: giscus
 
     giscus:
-      repo: justlovemaki/Hextra-AI-Insight-Daily
+      repo: myanke/Hextra-AI-Insight-Daily
       repoId: R_kgDOO_2Owg
       category: Announcements
       categoryId: DIC_kwDOO_2Ows4Cr2Q0
