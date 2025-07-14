@@ -107,7 +107,7 @@ params:
     type: giscus
 
     giscus:
-      repo: myanke/Hextra-AI-Insight-Daily
+      repo: myanle/Hextra-AI-Insight-Daily
       repoId: R_kgDOO_2Owg
       category: Announcements
       categoryId: DIC_kwDOO_2Ows4Cr2Q0
