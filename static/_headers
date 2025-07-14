@@ -1,0 +1,54 @@
+# 允许索引所有内容，但禁止使用 Google 的 AI (Google-Extended)
+/*
+  X-Robots-Tag: googlebot: index, nofollow, google-extended: none
+
+# 阻止搜索引擎索引图片，但允许在搜索结果中显示（如果它们被其他页面引用）
+/images/*
+  X-Robots-Tag: noimageindex
+
+# Cloudflare 用cdn-cgi网址替换了电子邮件地址
+/cdn-cgi/*
+  X-Robots-Tag: noindex
+
+# -----------------------------------------------------------------
+# 添加的 noindex 规则 (Added noindex rules)
+# -----------------------------------------------------------------
+
+# 分类页面 (Categories Pages)
+/categories/
+  X-Robots-Tag: noindex
+/en/categories/
+  X-Robots-Tag: noindex
+/ja/categories/
+  X-Robots-Tag: noindex
+
+# 隐私政策页面 (Privacy Policy Pages)
+/privacy-policy/
+  X-Robots-Tag: noindex
+/en/privacy-policy/
+  X-Robots-Tag: noindex
+/ja/privacy-policy/
+  X-Robots-Tag: noindex
+
+# 服务条款页面 (Terms of Service Pages)
+/terms-of-service/
+  X-Robots-Tag: noindex
+/en/terms-of-service/
+  X-Robots-Tag: noindex
+/ja/terms-of-service/
+  X-Robots-Tag: noindex
+
+
+/2025-07/
+  X-Robots-Tag: noindex
+/en/2025-07/
+  X-Robots-Tag: noindex
+/ja/2025-07/
+  X-Robots-Tag: noindex
+
+/2025-06/
+  X-Robots-Tag: noindex
+/en/2025-06/
+  X-Robots-Tag: noindex
+/ja/2025-06/
+  X-Robots-Tag: noindex

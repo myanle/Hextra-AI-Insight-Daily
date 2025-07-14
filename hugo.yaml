@@ -1,0 +1,137 @@
+# Hugo configuration file
+title: 猿思网的AI日报 AI Daily AI信息一网打尽，洞悉行业新动向
+
+timezone: Asia/Shanghai
+enableRobotsTXT: true
+enableGitInfo: true
+enableEmoji: true
+hasCJKLanguage: true
+enableInlineShortcodes: true
+
+services:  
+  googleAnalytics:
+    ID: "G-SECWWMY8WQ"
+
+# outputs:
+#   home: [HTML, RSS]
+#   page: [HTML, RSS]
+#   section: [HTML, RSS]
+
+# import hextra as module
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - identifier: search
+      name: 搜索
+      weight: 10
+      params:
+        type: search
+    - identifier: documentation
+      name: AI日报
+      pageRef: /
+      weight: 1
+    - identifier: about      
+      name: 关于我 ↗
+      pageRef: /about
+      weight: 2
+    - identifier: github   
+      name: 同性交友
+      weight: 3
+      url: "https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily"
+      params:
+        icon: github
+
+
+params:
+  adsenseId: "ca-pub-8136412975724403"
+  ahrefsKey: "Qe0ZpZJ6/W8rgMFnLgk4kg"
+  description: 每日精选AI行业要闻、开源热点、学术前沿及大V观点。AI资讯；AI日报；AI知识库；AI教程；AI资讯日报；AI工具；AI Daily News
+  descriptionEn: Daily selection of AI industry news, open source hot spots, academic frontiers and big V opinions. AI information; AI daily; AI knowledge base; AI tutorials; AI information daily; AI tools;
+  descriptionJA: AI 業界のニュース、オープンソースのホットスポット、学術的フロンティア、ビッグ V の意見を毎日厳選。AI 情報、AI デイリー、AI ナレッジ ベース、AI チュートリアル、AI 情報デイリー、AI ツール;
+  logo: "images/logo.png"
+  
+  author:
+    name: "猿思网 AI信息一网打尽，每天3分钟，洞悉行业新动向"
+    bio: "去海边整点薯条"
+    email: ""
+    website: "https://yuansiwang.netlify.app/about/"
+  
+        
+  publisher:
+    type: "Person" 
+    name: "猿思网 AI信息一网打尽，每天3分钟，洞悉行业新动向"
+    url: https://yuansiwang.netlify.app/about/"
+ 
+      
+  displayUpdatedDate: true
+  dateFormat: "2025/01/02 15:04:05"
+
+  navbar:
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: images/logo.png
+      dark: images/logo-dark.png
+      width: 175
+      height: 50
+
+
+  footer:
+    displayCopyright: false
+    displayPoweredBy: false
+
+  # blog:
+  #   list:
+  #     displayTags: true  
+  
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: wide
+
+    # 搜索
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      # 按以下内容索引页面：content | summary | heading | title
+      index: content
+
+  comments:
+    enable: false
+    type: giscus
+
+    giscus:
+      repo: justlovemaki/Hextra-AI-Insight-Daily
+      repoId: R_kgDOO_2Owg
+      category: Announcements
+      categoryId: DIC_kwDOO_2Ows4Cr2Q0
+
+
+defaultContentLanguage: zh
+languages:
+  zh:
+    languageCode: zh-CN
+    contentDir: content/cn
+    languageName: 简体中文
+    weight: 1
+  en:
+    contentDir: content/en
+    languageName: English
+    weight: 2
+  ja:
+    contentDir: content/ja
+    languageName: 日本語
+    weight: 3
