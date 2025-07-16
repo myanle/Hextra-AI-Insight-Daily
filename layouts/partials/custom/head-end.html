@@ -13,9 +13,19 @@
 {{ end }}
 
 <script async src="//finicounter.eu.org/finicounter.js"></script>
-<script>
+<script src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/js/adview_pic_cpc_cpm_cpa_guanggao_gg_guge__ads_300x250.js" type="text/javascript"></script> 
+<script type="text/javascript">
+if (typeof(killads) == 'undefined') {
 
-     // --- 1. Define CSS and HTML Structure ---
+  // Creates a theme-aware ad blocker notice by injecting HTML and CSS.
+  function createEnhancedAdBlockNotice() {
+    
+    // If the pop-up already exists, do nothing.
+    if (document.getElementById('adblock-overlay')) {
+      return;
+    }
+
+    // --- 1. Define CSS and HTML Structure ---
 
     // All styles are now in this CSS block.
     const css = `
@@ -118,6 +128,8 @@
   window.addEventListener('DOMContentLoaded', createEnhancedAdBlockNotice);
 }
 </script>
+
+<script>
 
 // 这是一个自定义脚本，用于处理特定的页面逻辑和功能
 var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.createTemplateTagFirstArg=function(a){return a.raw=a};$jscomp.createTemplateTagFirstArgWithRaw=function(a,b){a.raw=b;return a};
