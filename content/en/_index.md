@@ -5,27 +5,49 @@ breadcrumbs: false
 next: /en/2025-07/2025-07-15
 description: Daily selection of AI industry news, open source hot spots, academic
   frontiers and big V opinions. AI information; AI daily; AI knowledge base; AI tutorials;
-  AI information daily; AI tools;AI Search Engines and Model Services are seeing fresh
-  breakthroughs, with a sharp focus on the education market and developer demands.
-  Perplexity AI Search Engine is now giving its Perplexity Pro advanced service to
-  264 million students globally for free for two years, offering citation research,...
+  AI information daily; AI tools;Perplexity AI, teaming up with SheerID, is offering
+  264 million students worldwide two years of free Perplexity Pro premium service.
+  This move aims to tackle AI tool discount fraud in the education sector and shows
+  they're betting big on the education market. Students can snag Perplexity Pro, ori...
 cascade:
   type: docs
 ---
-## Yuan Si Net Insight Daily Report 🚀 2025/7/16
+## YuanSi Daily Insights Report 2025/7/16
 
-> Yuan Si Daily
+> YuanSi Daily
 
 ### AI Content Summary
 
-```
-The AI world is buzzing with activity! Perplexity AI search engine is now offering its premium service for free to students, TRAE.ai is rolling out custom model services, and Google's AI summary feature is shaking up news website traffic. But it's not all smooth sailing—both OpenAI and Meta have hit AI security snags. Meanwhile, Elon Musk's Grok just launched a "smart companion" feature, WAIC 2025 is set to spotlight AI-powered smart devices, and we're also seeing cool new stuff from Rewind Music App and NVIDIA's NeMo tool. Oh, and here's a kicker: tests with the Gemini Large Language Model suggest praise might actually mess with its performance, highlighting that AI models still have a long way to go in truly grasping human emotions and feedback. 🔥
-```
+Perplexity AI is now offering students two years of free premium service, tackling AI tool discount fraud and betting big on the education market. ima's web version has officially launched, providing super convenient knowledge base access and learning tools. TRAE.ai rolled out its Kimi-K2 model, hitting performance levels close to GPT-4.1, and also introduced the Grok-4 model.
+
+WAIC 2025 zoomed in on the deep integration of AI with smart terminals, exploring AI's potential and challenges, and showcased a ton of embodied AI robots and interactive devices. Willow, the intelligent voice input method, snagged $4.2 million in funding, but watch out for potential privacy and security risks.
+
+Trump's tech and AI summit dropped news of massive U.S. investments, a move that could shake up the global AI industry and potentially lead to tech monopolies and AI ethics issues.
 
 ### Today's AI News
 
-1.  **AI Search Engines and Model Services** are seeing fresh breakthroughs, with a sharp focus on the education market and developer demands. **Perplexity AI Search Engine** is now giving its Perplexity Pro advanced service to 264 million students globally for free for two years, offering citation research, in-depth reports, and interactive AI apps, clearly aiming for the student market. **ima's web version** has officially launched, making it super easy for users to access the knowledge base anytime, anywhere. **TRAE.ai** rolled out custom model service provider **Kimi** and the **Kimi-K2** model, also supporting the **Grok-4 (Beta)** super model. These boast strong coding abilities and general agent task processing, making them handy for programmers. **AI application scenarios** keep expanding, and user experience is constantly getting better, though this also brings potential risks like academic integrity issues. **Developers' demand** for model diversity and professionalism is steadily climbing. ✨
-2.  **The AI Era** is here, bringing fierce competition among giants and a truckload of hidden worries. **Google's AI summary feature** in Discover is hitting news website traffic hard, posing a massive challenge for news publishers. **OpenAI's rapid expansion** comes with issues like team duplication, messy codebases, and security concerns, even raising questions about how much they truly prioritize safety. **Meta** just patched a serious AI security vulnerability, once again highlighting the security and privacy risks that come with AI tech's blistering pace. **AI technology's lightning-fast development** offers both opportunities and challenges. We really need to pay attention to its downsides, actively look for coping strategies, and make sure AI tech develops safely, reliably, and responsibly, tackling issues like AI security, data privacy, and its impact on traditional industries. 😬⚡
-3.  **Elon Musk's Grok 'Miss' and WAIC 2025**: It's an AI party with a side of deep reflection. **Elon Musk's AI chatbot Grok** just rolled out a new "smart companion" feature, letting users pick anime or cartoon characters for interaction, which has sparked a lot of chatter. **Some users** aren't thrilled with the character designs, but plenty of others are giving props to its personalized interaction attempt. **Tests** show the Ani character's Chinese dialogue has some glitches, though its 3D animation effects are top-notch. **The 2025 World Artificial Intelligence Conference (WAIC)** is set to focus on AI empowering smart terminals, diving into AI applications and challenges in smartphones, smart glasses, smart cars, and showcasing the latest in embodied intelligent robots and smart driving. **AI tech** is evolving super fast, so we need to be wary of ethical and social issues. For instance, AI companions could lead people to get lost in virtual worlds, and there are data security and privacy protection concerns too. **AI tech development** should really be human-centered, balancing both progress and safety. 💬💨😵‍💫
-4.  **AI Music Tech** is hitting new highs, with a 'Time Machine' App and a slick AI model optimization tool leading the way. **Rewind: Music Time Travel music app** lets users jam to tunes from different eras. **NVIDIA** dropped the **NeMo Agent Toolkit Profiler**, which helps supercharge AI model performance. **Walmart's internally developed Element AI platform** lets engineers whip up AI applications fast, supporting various cloud platforms and data centers, and it can even auto-pick the most cost-effective open-source models. 🎶🚀
-5.  **The Gemini Large Language Model's 'IQ' Mystery**: Does praise mess with its performance? **Reddit user gullydowny** shared a wild interaction with **Google's Gemini Large Language Model**, noticing that while Gemini corrected his previous errors, its performance seemed to dip after getting praised. **This** has sparked questions about whether **AI models** truly get praise and if it affects their performance, hinting that current **Large Language Models** still need to level up their game in understanding human emotions and handling feedback. **This** makes you wonder how we can better interact with **AI tools** to really unleash their full potential. 🤯⬆️
+1.  Perplexity AI, teaming up with **SheerID**, is offering **264 million students** worldwide **two years of free Perplexity Pro** premium service. This move aims to tackle **AI tool** discount fraud in the education sector and shows they're betting big on the **education market**. Students can snag **Perplexity Pro**, originally $20/month, for free, gaining access to pro features like cited research, in-depth reports, and interactive **AI** applications. Data shows that **86% of U.S. students** are already using **AI tools** for their studies. ![AI Education](https://pic.chinaz.com/picmap/202305301503482001_2.jpg)
+
+2.  ima's web version is officially live! Now users can access their knowledge base anytime, anywhere, and boost their learning and work efficiency with features like highlight-to-note and mini-window Q&A. ![image.png](https://upload.chinaz.com/2025/0716/6388825289358314837886441.png) ![image.png](https://upload.chinaz.com/2025/0716/6388825290665047028117487.png)
+
+3.  TRAE.ai has launched its **Kimi-K2 model**, built on a Mixture-of-Experts (MoE) architecture. This model crushes it with its super strong code capabilities and general agent task processing, hitting performance levels comparable to **GPT-4.1**, **Claude4**, and **Gemini2.5pro**. Plus, TRAE's international version just added the supercharged **Grok-4** (Beta) model, available for **Pro** users to check out. ![image.png](https://upload.chinaz.com/2025/0716/6388825274530956125830847.png) ![image.png](https://upload.chinaz.com/2025/0716/6388825275497024474626353.png) ![image.png](https://upload.chinaz.com/2025/0716/6388825278214529758285505.png) [🔗 TRAE China Version](https://www.trae.cn) [🔗 TRAE International Version](https://www.trae.ai)
+
+4.  WAIC 2025 is putting a spotlight on the deep integration of **AI** and **smart terminals**, covering hot areas like **embodied AI**, **intelligent driving**, and **smart devices**. The conference is diving deep into the potential and challenges of **AI** empowering smart terminals, tackling issues such as **hardware energy consumption and computing power limitations**, **matching AI functions with user needs**, **data security and system stability**, and **ecosystem fragmentation**. The goal? To build the next generation of smart terminals with **ubiquitous perception and continuous evolution capabilities**.
+
+5.  Embodied AI robots were a major highlight at the conference, with the latest advancements showcased. Think **Tesla Bot** from Tesla, **Qinglong V3.0** from the National and Local Co-built Humanoid Robot Innovation Center, and Zhiyuan Robot's **Lingxi X2-Pro**, all flaunting their awesome **perception-decision-execution loop** capabilities. [Image: https://image.jiqizhixin.com/uploads/editor/5907a4ff-39c6-45f6-83c1-91b03adbb11d/1752564299194.png]
+
+6.  Large models and how they empower intelligent driving was another key focus at the conference. A prime example? Li Auto's **MEGA** family tech flagship MPV, rocking its **Li Xiang Tong Xue** in-car intelligent agent.
+
+7.  AI interactive devices stole the show at the conference, with innovations like Mobvoi's **Ticnote AI** recording device and China Telecom's **Tianyi AI** glasses. [Image: https://image.jiqizhixin.com/uploads/editor/70ed9eb0-d426-4d55-b74e-e72d3ab27484/1752564396236.png] [Image: https://image.jiqizhixin.com/uploads/editor/2837471e-3f8d-48f3-8a3f-afa7ee56421f/1752564404918.png]
+
+8.  Rewind: Music Time Travel is a super user-friendly music app that lets you jam to tunes from different eras. [Image: https://pbs.twimg.com/media/GvvyrZ7bUAAdVms?format=jpg&name=orig]
+
+9.  NVIDIA has rolled out its **NeMo Agent Toolkit Profiler**, a game-changer for developers looking to fine-tune their **AI** agent performance. [Video: https://video.twimg.com/amplify_video/1945264628176474112/vid/avc1/720x1280/4uT5OcPDbAVk9rea.mp4?tag=14] [🔗 Project Repository](http://github.com/NVIDIA/NeMo-Agent-Toolkit)
+
+10. WAIC 2025 showcased the booming development of **AI-powered smart terminals**, but it also served as a crucial reminder to tackle **data security and ethical concerns** head-on. Building an **open, secure, and sustainable** intelligent ecosystem is absolutely key.
+
+11. Elon Musk has reportedly been poaching users from competitor **CAI**. This move could stem from product strategy, savvy marketing, or even user dissatisfaction with existing products. [▶️ Video Demo](https://video.twimg.com/amplify_video/1944793927040512000/vid/avc1/720x1566/819o9VjoSke5NGFn.mp4?tag=14)
+
+12. Willow, the intelligent voice input method, just bagged **$4.2 million** in seed funding! Their goal? To build a voice-based operating system. While this is super innovative, it might also spark new privacy and security concerns. We've got to embrace **innovation** but also cautiously deal with potential **risks**. [▶️ Video Demo](https://video.twimg.com/amplify_video/1945181978787020800/vid/avc1/1366x720/SFv3CXrPVnix9Zw5.mp4?tag=14)
+
+13. Trump's tech and **AI** summit just dropped news of massive U.S. investments. This move could seriously shake up the global **AI** industry, and we need to be wary of potential downsides like **tech monopolies** or **AI ethics** issues. ![Big US investments announced at Trump's tech and AI summit](https://external-preview.redd.it/qPL_MQznC10Av1D_qbeDW6IU6pcDtT8dnSOn8zOjb0.jpeg?width=640&crop=smart&auto=webp&s=8bc2cfee2288a07e4cc4772e88920df205c37b69)
