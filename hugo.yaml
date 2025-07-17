@@ -111,6 +111,11 @@ params:
       repoId: R_kgDOO_2Owg
       category: Announcements
       categoryId: DIC_kwDOO_2Ows4Cr2Q0
+      mapping: pathname
+      strict: true
+      reactionsEnabled: true
+      emitMetadata: false
+      inputPosition: bottom
 
 
 defaultContentLanguage: zh
