@@ -8,76 +8,92 @@ cascade:
   type: docs
 ---
 
-## 猿思网洞察日报 2025/7/18
+## AI洞察日报 2025/7/18
 
->  `猿思 日报` 
+>  `AI 日报` | `早八更新` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/)
 
 
 
 ### **AI内容摘要**
 
 ```
-Lightricks开源AI视频生成模型LTX-Video 13B，生成速度快，质量高，支持多种输入和精细化控制。ChatGPT macOS桌面应用录音模式全面开放，可语音转文字并生成会议纪要等。Anthropic估值突破千亿美元，年化收入增长四倍，AI编程助手Claude Code功不可没。
-MiniMax冲刺港股IPO，估值超40亿美元，专注于通用人工智能引擎系统。小米汽车上线"快捷找车”功能，利用AI图像识别技术精准识别车位信息，提升用户体验。
-深谋科技发布新一代人形机器人核心技术，包括意念控制系统和国内首款压电式六维力传感器，目标是打造真正为人类服务的人形机器人。
+近期AI资讯显示，小米推出快捷找车，谷歌搜索集成AI代打电话等实用功能。
+前沿研究聚焦效率与真实感，如谷歌MoR架构和赋予3D模型物理属性的技术。
+同时，AI行业人才竞争加剧，各类开源工具如ReadMeX也正赋能开发者。
 ```
 
 
 
-### **今日AI资讯**
+### AI产品与功能更新
 
-1. 🎉😱🚀🤩 **Lightricks开源AI视频生成模型LTX-Video 13B：速度与质量的完美结合**。Lightricks公司发布了其强大的开源AI视频生成模型——LTX-Video 13B。该模型生成质量高，速度惊人，比同类模型快30倍！它采用**多尺度渲染**技术，支持文本、图像、视频等多种输入，还能进行视频扩展和风格迁移。更重要的是，它可以通过**关键帧、动作、深度图和姿态控制**等方式进行精细化控制，并且可以在高端消费级显卡上运行，支持长达60秒的原生视频生成。[🔗 项目仓库](https://github.com/Lightricks/ltxv)
+1.  还在为找不到车而抓狂？🤯 最新的**AI资讯**显示，**小米汽车**正为YU7车主送上一剂"猛药”——**快捷找车**功能。只需在App中轻轻一点，锁车时车辆便会自动拍摄周围环境的五张"写真”，彻底告别在停车场里的迷茫。这不只是简单的拍照，其背后是小米自研的**图像理解**大模型在默默发力，能精准识别出车位号、楼层和地标，让你一眼看穿车在哪。更妙的是，只需呼叫"**超级小爱**同学”，它就能用语音和弹窗告诉你爱车的确切位置。这则**AI资讯**真正体现了"科技让懒人更快乐”的理念，是值得关注的**AI资讯**。这一功能的普及，将是**AI**领域的一大进步。
 
-2. 🎙️🥳🤯👍🤫 **ChatGPT macOS 桌面应用录音模式全面开放：语音转文字，会议纪要一键生成**。ChatGPT macOS桌面应用的录音模式已对Plus用户全面开放。用户可以直接对着电脑说话，ChatGPT会自动转录成文字并总结重点，还能将录音转换成会议纪要、邮件草稿、项目计划甚至代码。它支持最长两小时的录音，超时也会自动总结。
+    <br/>![AI资讯：小米AI寻车功能](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k0cgkdaeetst5ye4c84b6zja.avif)<br/>
 
-3. 💰💰🤔 **Anthropic估值突破千亿美元，AI收入激增四倍：AI商业化浪潮席卷而来**。人工智能公司Anthropic估值飙升至1000亿美元，年化收入增长四倍，突破40亿美元，这主要得益于其**AI编程助手Claude Code**的成功。虽然公司在云服务销售部分毛利率为负，但直接销售的毛利率高达60%，整体毛利率也在50%-55%之间。Anthropic的成功也带动了其他AI初创公司的发展，例如其竞争对手Cursor的年收入自去年11月以来增长了10倍。**AI行业是一个充满机遇和挑战的领域，技术创新和商业模式的探索都至关重要。**
+2.  分分合合终有时，Claude Sonnet 4"浪子回头”重返Windsurf！(o´ω'o)ﾉ 在经历了与**Anthropic**的"爱恨纠葛”后，**AI编码**神器**Windsurf**高调宣布，明星模型**Claude Sonnet 4**已重回其怀抱，付费用户可直接调用。这则**AI资讯**在开发者社区引发热议。此前，由于OpenAI的收购传闻，Anthropic一度对Windsurf设限，导致用户只能"曲线救国”，也让不少开发者转向竞品。这次"破镜重圆”不仅让程序员们能再次享受到Claude Sonnet 4强大的代码生成与重构能力，也预示着AI巨头间的竞争与合作关系正变得愈发微妙。这出"分手又复合”的大戏，最终还是用户成了最大赢家，是近期**AI资讯**中的一则趣闻。
 
-4. 🤖💰 **MiniMax冲刺港股IPO，估值超40亿美元！** 中国AI独角兽MiniMax秘密提交了港股IPO申请，目标估值超过40亿美元，并考虑A股上市。该公司最近完成近3亿美元融资，投资方包括阿里巴巴、腾讯等一线机构。MiniMax专注于**通用人工智能引擎系统**，核心业务涵盖大模型训练、AI基础设施建设等，并已推出新一代推理模型和视频生成模型。[图片: https://pic.chinaz.com/picmap/202501150943267809_0.jpg]
+3.  还在用搜索引擎手动查资料、打电话？你已经落伍了！**谷歌搜索**正迎来三大**AI**革新，誓要从信息入口变身你的全能生活管家。✨ 首先，**谷歌**为搜索的AI模式换上了**Gemini 2.5 Pro**这个"最强大脑”，复杂推理、编程算数不在话下，这则**AI资讯**令人振奋。其次，专为深度研究打造的**Deep Search**功能也将开放，一键生成带引用的深度报告，让你秒变专家。最令人惊叹的是，**AI代打电话**功能横空出世：只需搜索"附近的宠物美容”，AI便会自动联系商家、询问价格、预约时间，甚至可能帮你"砍个单”。这项率先在美国推出的功能，预示着**AI**正在重塑本地生活服务，未来的**AI资讯**将更多关注这类应用。以后接电话的可能都不是人类了！这无疑是本周最重磅的**AI资讯**之一。
 
-5. 🚗🤖 **小米汽车"快捷找车”功能上线，AI助力停车不再难！** 小米汽车App新增"快捷找车”功能，利用**AI图像识别技术**精准识别车位号、楼层等信息，用户还可通过小爱同学语音查询。该功能展现了小米在**AI视觉技术**方面的实力。[图片: https://upload.chinaz.com/2025/0717/6388835867809770288034817.png]
+    <br/>![AI资讯：AI帮你打电话](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k0cgkf68fkb9bc2kfyrjgytw.avif)<br/>
 
-6. 🤖 **深谋科技发布新一代人形机器人核心技术，意念控制成真？** 深谋科技将在WAIC发布新一代人形机器人核心技术，包括基于**声表面波（SAW）**的智能感知系统"OmniSense”，以及脑电驱动的闭环脑机交互系统"MindMover”，实现**意念控制**。他们还推出了国内首款压电式六维力传感器"弹起”，以及具备类人动态视觉理解能力的6D姿态视觉伺服系统。深谋科技的目标是打造真正为人类服务，并具备**类脑智能**的人形机器人。[图片: https://wechat2rss.xlab.app/img-proxy/?k=bfc0cd29&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_jpg%2FYicUhk5aAGtDOP2HA631ibUoTfJbHibu656LICYOklPEgp6XW7aCpyGWAFQgRt605qbz24Lm1hpcXSKAtbhUrm2bQ%2F0%3Fwx_fmt%3Djpeg][图片: https://wechat2rss.xlab.app/img-proxy/?k=ab2e7d88&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_jpg%2FYicUhk5aAGtCua8Ria4LTS1PTgHERjDp5VcLhtTax9zeZrUOHOoZY1ibXiactBmlfvTicxAwx5uhibjr6689EgzcILSw%2F640%3Fwx_fmt%3Djpeg%26from%3Dappmsg][图片: https://wechat2rss.xlab.app/img-proxy/?k=7d343f57&u=https%3A%2F%2Fmmbiz_qpic.cn%2Fmmbiz_png%2FYicUhk5aAGtCua8Ria4LTS1PTgHERjDp5VibYnbMUNuxyDkm0l4H3TtYIZwgqsBxWfn05ZFuOxRAN013K8OYOhfSQ%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg]
+4.  开会动嘴，**ChatGPT**动手！**macOS桌面应用**现已向Plus用户全面推送**录音模式**。🚀 无论你是开脑暴会还是随口记录灵感，它都能化身你的贴身会议纪要员，不仅能实时转录，还能自动提炼关键点，甚至直接生成任务清单和代码。这则**AI资讯**对生产力工具的未来意义重大。以后开会，老板再也不用担心你走神了，因为AI替你记笔记、做总结，效率直接拉满。这无疑是**AI资讯**领域的一大进步。快去[AI资讯：聊天窗口底部看看那个新按钮吧](https://x.com/imxiaohu/status/1945792034734018942)！
 
-7. 🎉🚀😎👏🎨💡💖 **教程 | 如何做出 X 上爆火的 AI 蓝图动画**。这篇教程讲解了如何利用 Midjourney 和其风格代码（**Sref Code**）制作爆款 AI 动画，分享了制作 **机械恐龙主题动画** 的经验，并详细解释了 **Midjourney 风格代码** 的使用方法。教程中展示了使用和未使用 Sref Code 后生成的图片对比，还分享了作者制作恐龙动画的 **具体提示词** 和一些小技巧，例如：提示词越详细，效果越好；**Midjourney V7** 用于图像生成，**Midjourney Animation V1** 用于动画生成。教程还提供了 **更多创作思路** 和一些优秀的创作者及资源网站 `midjourneysref.com`。
+    <br/>![AI资讯：ChatGPT录音模式](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k0cgkh88ea4vp2n6y468dt14.avif)<br/>
 
-8. 🍎🤝Nvidia🤔💪💻🏰👑🤔 **苹果向英伟达生态妥协了！MLX框架主动适配CUDA**。苹果公司宣布其机器学习框架 **MLX** 将支持 **CUDA**。这意味着苹果开发者可以使用英伟达的 GPU 来训练模型，然后部署到苹果设备上。苹果此举被认为是向英伟达强大的 **CUDA 生态** 妥协，因为 CUDA 已经成为 AI 开发领域的行业标准。苹果此举的官方理由是：CUDA 提供的 **统一内存支持** 方便了不同设备间的数据共享，提高了开发效率。这次 MLX 适配 CUDA，被解读为苹果在 AI 领域寻求突破的战略性举措，也反映出 **CUDA 生态的强大护城河**。
+### AI前沿研究
 
-9. 🎬🗣️👏🧐🤯🎉 **免剪辑直出！AI生成多角色同框对话视频，动态路由精准绑定音频**。研究人员提出了一个名为 **Bind-Your-Avatar** 的框架，可以生成多角色同框对话视频，并实现精准的音画同步，无需后期剪辑。该框架基于 **扩散 Transformer (MM-DiT)**，并引入了 **细粒度嵌入路由机制**，构建了首个针对多角色对话视频生成的数据集 **MTCC**。**Bind-Your-Avatar** 的核心创新在于其 **动态 3D 掩码路由设计**，它利用 **几何先验** 优化掩码质量。
+1.  大模型虽然强大，但高昂的计算成本一直是其难以普及的痛点。现在，**谷歌DeepMind**带来了破局者——全新的[**AI资讯：MoR架构**（Mixture-of-Recursions）](http://alphaxiv.org/abs/2507.10524)，有望成为传统**Transformer**模型的"效率杀手”。MoR的聪明之处在于，它不再对所有信息都"一视同仁”，而是通过动态路由机制，为每个数据（token）智能分配恰到好处的"思考深度”。这种"按需计算”的策略，结合先进的缓存机制，使得**MoR**能用不到一半的参数，就达到甚至超越**Transformer**的性能。这不只是简单的优化，更像是一次架构上的革命，预示着AI将进入一个更轻量、更高效、更易于大规模部署的新时代。这篇**AI资讯**值得所有从业者关注。
 
-10. 🎉![QQ20250717-101002](https://upload.chinaz.com/2025/0717/6388834871719890889260548.png) **医疗AI开源风暴来袭：OpenMed发布380+模型，免费开放！** OpenMed项目在Hugging Face平台上发布了380多个**医疗命名实体识别(NER)**模型，全部免费开源。这些模型性能卓越，在多个基准测试中表现出色，甚至超越了一些付费模型。这将加速**医疗AI**的发展，造福更多患者。
+    <br/>![AI资讯：MoR架构示意图](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k0cgkk2hfn7s03tnpxtsdkh6.avif)<br/>
 
-11. 🤖🤔![xAI，马斯克，人工智能，AI](https://pic.chinaz.com/picmap/202307180849462170_0.jpg) **马斯克的xAI要打造你的虚拟女友？** 马斯克的xAI公司正在招聘工程师，目标是开发AI驱动的动漫角色，特别是让人"爱不释手”的虚拟女友。这引发了人们对未来人机关系的思考。
+2.  AI终于告别"反应迟钝”了？🤔 两篇论文为**强化学习**装上"反射神经”。想象一下，如果AI玩格斗游戏，每出一拳都得"暂停思考”一秒，那场面该多尴尬。这正是当前强化学习（RL）在现实世界中的窘境。传统AI训练像个**回合制游戏**，环境和AI轮流"发呆”，导致机器人厨师烤焦煎蛋，自动驾驶汽车反应慢半拍。Mila实验室的两篇ICLR论文直击痛点，提出了一套天才方案，旨在终结AI的"**延迟**”和"**无动作**”两大顽疾。第一篇论文提出"**交错异步推理**”，好比给AI一个多核大脑，让多个"思考进程”轮班上岗，确保动作永不掉线。第二篇论文则借鉴CPU的**流水线设计**，创造了带"**时序跳跃连接**”的神经网络架构。两项技术合璧，意味着未来我们可以部署规模巨大却又**反应神速**的AI模型，让它们在瞬息万变的领域大显身手。这正是本期**AI资讯**深度关注的焦点。
 
-12. 📞![image](https://upload.chinaz.com/2025/0717/6388834094257702659206978.png)🧐 **谷歌AI智能拨号：一键获取商家信息！** 谷歌在美国推出了一项AI智能拨号功能，可以代替用户拨打电话，向商家询问服务信息和价格。这表明**AI**正在改变我们获取信息和服务的方式，但我们也要警惕AI可能带来的隐私问题和伦理挑战。
+    <br/>![AI资讯：AI实时反应模型](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k0cgknvxer9tps7bjgxh4c6q.avif)<br/>
+    <br/>![AI资讯：AI流水线架构](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k0cgkq96fz68q203hra9yzxp.avif)<br/>
 
-13. 🎉🤩 [图片: https://assets-v2.circle.so/tj2rk8jn1y8i7swm84j8sdi26gvp] **Runway新动作捕捉模型Act-Two：手机就能拍出大片级动画！** Runway推出了全新动作捕捉模型Act-Two，它在**动作精度、一致性和流畅性**方面有了巨大飞跃！你只需要一段用手机拍摄的表演视频和一张参考角色图片或视频，就能生成动画。
+3.  AI不光会"捏脸”，还要搞懂"筋骨”！一篇名为 [**AI资讯：《PhysX：基于物理的3D资产生成》**](https://arxiv.org/abs/2507.12465) 的新研究，正让3D模型拥有物理灵魂。目前的**3D生成AI**就像个顶级美工，能"捏”出精美绝伦的虚拟物品，但对物理属性一无所知。这让它们在**物理模拟**和**机器人训练**等严肃应用中成了"花瓶摆设”。研究者们推出了开创性范式`PhysX`，旨在为3D资产注入**物理灵魂**。为此，他们构建了首个带有系统性物理标注的3D数据集`PhysXNet`，并开发了`PhysXGen`框架，能够从一张简单的图片生成兼具逼真外观和可信物理属性的3D模型。这项工作标志着AI生成内容正从"虚拟美学”迈向"**物理真实**”，为创造更可靠的**数字孪生**和加速**具身智能**的研发铺平了道路，是**AI资讯**领域的前沿探索。
 
-14. 💻🎉 [🔗 项目仓库](https://modelers.cn/) **国产AI芯片迎来春天：魔乐社区让大模型"开箱即用”！** 魔乐社区(Modelers.cn) 解决了国产AI芯片与大模型适配难题，让开发者可以轻松地将数千个大模型适配到各种国产芯片上。
+### AI行业展望与社会影响
 
-15. 🚀🤔 **潜空间推理：大模型的"心智”升级，推理效率暴涨2700倍！** 最新研究表明，大模型的推理方式迎来重大突破——潜空间推理！它让大模型像人类一样进行"潜意识”推理，效率提升了惊人的2700多倍！这项技术不仅效率高，还能突破语言的限制。[论文地址](https://arxiv.org/abs/2507.06203)
+1.  **字节跳动**的AI棋局再起波澜，一场没有硝烟的"**人才战争**”正在上演。其豆包大模型视觉多模态负责人**杨建朝**宣布"暂时休息”，接替他的是来自阿里M6大模型的前技术负责人**周畅**。这场看似平静的人事变动，实则是全球AI人才战争的缩影，也是**AI资讯**持续追踪的热点。杨建朝的暂时离岗，折射出AI前沿领域难以想象的工作强度与跨国协作的压力。而周畅的加入，则显示了字节为稳固其**Seed视觉模型**团队，不惜重金在全球范围内"揽才”的决心。在这场巨头的博弈中，每一个核心人物的去留，都可能改变未来技术版图的走向。这类**AI资讯**揭示了行业竞争的激烈程度。
 
-16. 🚀 [🔗 项目仓库](https://github.com/microsoft/markitdown) **markitdown**: 微软出品的 Python 工具，能帮你把各种文件（包括 Office 文档）转换成 **Markdown** 格式。
+    <br/>![AI资讯：字节跳动AI团队](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k0cgks01ehp9d0f2aw96y24d.avif)<br/>
 
-17. 🔑 [🔗 项目仓库](https://github.com/gitleaks/gitleaks) **gitleaks**: 这个工具能帮你找出代码里隐藏的各种"秘密”，比如 API 密钥、密码等等。
+### 开源TOP项目
 
-18. 🎵 [🔗 项目仓库](https://github.com/maotoumao/MusicFree) **MusicFree**: 一款支持插件和自定义的免费音乐播放器，而且 **无广告**！
+1.  对于广大开发者而言，写代码是创造，写文档则是"修行”。现在，一款名为[**ReadMeX - AI资讯**](https://readmex.com/)的国产免费AI神器，正让这场"修行”变得轻松愉快。你只需扔给它一个**GitHub**项目地址，它就能像一位资深技术作家一样，迅速生成结构清晰、内容专业的**README**文件，还支持中英双语。其速度和质量甚至超越了同类知名工具。**ReadMeX**不仅能生成文档，还集成了多仓库管理和热门开源项目文档聚合功能，让它成为了一个强大的知识管理平台。这款工具的出现，无疑是给开发者社区的一份大礼，让大家能把更多精力投入到真正的创新中。这则**AI资讯**对开发者极具价值。
 
-19. 🎉 [🔗 项目仓库](https://github.com/PromtEngineer/localGPT) [🔗 项目仓库](https://github.com/vanna-ai/vanna) **本地化大模型应用蓬勃发展:**  `localGPT` 允许用户在本地设备上与文档进行交互，确保数据安全私密；`vanna` 则实现了与SQL数据库的自然语言交互。
+    <br/>![AI资讯：ReadMeX文档生成](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k0cgkvhcfbws7w254tscm2ej.avif)<br/>
 
-20. 🤔![亚马逊云科技AgentCore](https://image.jiqizhixin.com/uploads/editor/6ff84c6d-6432-4fcb-9a07-1ee7bb364da3/640.png) **亚马逊云科技引领Agent落地：** 亚马逊云科技发布了**Agentic AI**全套解决方案，旨在加速**AI Agent**从概念走向实际应用。这套方案的核心是 **Amazon Bedrock AgentCore**，它提供七项核心服务，涵盖Agent应用的构建、部署和运行全生命周期，并支持多种**大型语言模型**。
+2.  这里有三款改变游戏规则的开源神器，是**AI资讯**精选的开发者宝藏：
+    *   **数据正骨师**：面对像毛线团一样杂乱的 **JSON** 或 **YAML** 文件，是不是感觉眼睛快要"裂开”了？别急，让[**JSONCrack - AI资讯**](https://github.com/AykutSarac/jsoncrack.com) 来给你做个"数据正骨”。这个狂揽 **4万 Star** 的神器，能将多种数据格式一键转换为**交互式图表**，让数据结构瞬间清晰。
+    *   **SQL翻译官**：还在为写不出复杂的 **SQL 查询**而头疼吗？[**Vanna - AI资讯**](https://github.com/vanna-ai/vanna) 项目利用 **RAG** 和**大语言模型**技术，将自然语言精准翻译成 SQL。这则**AI资讯**表明，数据分析的门槛正在被 AI 无情地踏平。
+    *   **数字福尔摩斯**：想知道你的**用户名**在互联网上留下了多少足迹吗？[**Maigret - AI资讯**](https://github.com/soxoj/maigret) 能根据一个用户名，在数千个网站上搜寻你的"分身”，让你一窥**开源情报（OSINT）**的强大威力。
 
-21. 🚀 **多Agent协作时代来临：** 亚马逊云科技还推出了升级版的开源AI Agent开发工具 **Strands Agents V1.0**，支持多Agent系统构建。
+3.  如果你想开一家餐厅，是希望拥有一套规定好菜单的"加盟套餐”，还是一个能自由发挥的"中央厨房”？大多数开发者会选后者，而 [**Strapi - AI资讯**](https://github.com/strapi/strapi) 正是这样一个"中央厨房”。作为领先的开源**无头（Headless）CMS**，它将内容管理（后端）与内容呈现（前端）彻底分离。这意味着你可以随心所欲地将内容发布到任何地方。`Strapi`完全由 **JavaScript/TypeScript** 构建，拥有超过**6.7万**的GitHub Star，凭借其高度的可定制性，成为了无数追求灵活性的开发团队的首选。这则**AI资讯**对于构建现代应用至关重要。
 
-22. 💡 **Agent应用场景日益丰富：**  亚马逊云科技还推出了基于Claude的Agent代码编辑工具**Kiro**，以及面向不同场景的Agent应用工具。
+4.  AI智能体的搭建又添新"乐高”积木！备受欢迎的**开源**画布SDK **tldraw** 正式宣布，现已支持构建**Agentic Workflow**（智能体工作流）。这意味着开发者们又多了一个强大的可视化"沙盘”，可以像搭积木一样设计和调试复杂的AI代理。从本质上看，`tldraw`巧妙地将自由的**画布**和结构化的**流程图**合二为一，为创造下一代[**AI资讯：智能交互产品提供了无限可能**](https://x.com/tuturetom/status/1945781406363418799)。
 
-23. 🔮 **未来展望：** Agent技术的快速发展，预示着未来AI应用将从简单的单任务执行发展到复杂的协作。
+    <br/> <video src="https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/images/2025/07/news_01k0cgkyrsebcr3ym07pr386c5.mp4" controls="controls" width="100%"></video><br/>
 
-24. 🤖🔥✨😍 **马斯克的AI男友还在取名，开源AI女友"贝拉”已火了！** 马斯克Grok推出的AI伴侣，目前只有动漫形象Ani和卡通熊猫Rudy可用，男性伴侣"Chad”还在命名中。与此同时，网友Jackywine基于Grok的Ani形象，开源了3D AI女友"贝拉”项目：[🔗 项目仓库](https://github.com/Jackywine/Bella)。
+### 社媒分享
 
-25. 🧑‍🔬💡 [🔗 论文](https://arxiv.org/abs/2412.09645) [🔗 代码](https://github.com/Vchitect/Evaluation-Agent) [🔗 网页](https://vchitect.github.io/Evaluation-Agent-project/) **高效AI模型评估神器上线：Evaluation Agent**  上海人工智能实验室和新加坡南洋理工大学的研究者开发了Evaluation Agent，一个能像专业人士一样评估AI生成模型的工具。
+1.  不写一行代码，两天搭完一个项目？有网友分享了他使用国产新秀 **Kimi K2** 进行"氛围感编程”的奇妙体验。据他描述，Kimi K2不仅能写代码，审美还相当在线，会主动添加动效、寻找符合风格的素材，彻底摆脱了"直男AI”的刻板印象。它甚至能精准领会"沉浸感”这类玄学需求，在API对接上表现也相当稳健。这则**AI资讯**非常有趣。虽然速度和长对话记忆尚有不足，但考虑到其编程能力已接近**Claude Code**的八成，而成本却低到"令人发指”，可谓是[**AI资讯：国产AI在代码生成领域的一匹黑马**](https://m.okjike.com/originalPosts/687865237ee613ba5a349270)。
 
-26. 🏃💨 [🔗 论文](https://openreview.net/pdf?id=fXb9BbuyAD) [🔗 代码](https://github.com/CERC-AAI/realtime_rl) [🔗 论文](https://openreview.net/pdf?id=YOc5t8PHf2) [🔗 项目](https://github.com/avecplezir/realtime-agent) **强化学习的两大难题：延迟和缺失动作，终于被攻克！** Mila实验室的两篇ICLR 2025论文解决了实时强化学习中的两个难题：**无动作遗憾**和**延迟遗憾**。
+2. AI绘画界的王者 **Midjourney** 终于要亲自下场，给行业来一次"降维打击”了！官方宣布正在探索开放企业级 **API**，这意味着开发者未来能将 Midjourney 的"魔法画笔”直接集成到自己的产品中。[**AI资讯：目前，官方已开放申请通道**](https://x.com/op7418/status/1945636798153331084)，准备好迎接新一轮的创意大爆炸吧！
+    
+3. 与AI这位新伙伴的合作体验，并非总是那么丝滑。有网友分享了与 **AI编程** 协作的心路历程，堪称一场"心情过山车”🎢：从最初对 **Vibe Coding** 的惊艳，到被AI生成的Bug气到想"手撕代码”，再到最终无奈接受"也不是不能用”的现实。正如其所言，[**AI资讯：许多人正陷入AI编程的泥沼中**](https://x.com/dotey/status/1945518805188272458)：一边嫌弃它，一边又离不开它。
 
-27. 🤔🎉 [🔗 项目地址](https://lassopred.accre.vanderbilt.edu/) **套索肽结构预测新工具：LassoPred** 上海交大和范德堡大学的研究人员开发了一种名为 **LassoPred** 的新工具，可以预测套索肽（LaP）的三维结构。
+4. 不过，这种"折磨”或许正是AI带来的独特价值。另一位网友观察到，AI更像一位直言不讳的"损友”，专门治你的"想法模糊症”。它会用一个漏洞百出的原型demo来无情"打脸”，逼你把脑中的一厢情愿梳理成清晰逻辑。不同于和人类同事的反复争论，[**AI资讯：AI用赤裸裸的结果说话，倒逼着你升级思维**](https://x.com/wwwgoubuli/status/1945656567560593671)，让你在"被虐”中实现自我提升。
 
-28. 🚀🤔 [🔗 论文地址](https://arxiv.org/pdf/2506.13759) [🔗 GitHub 仓库](https://github.com/LiQiiiii/DLLM-Survey) **告别自回归：离散扩散语言模型的崛起** 新加坡国立大学的研究人员介绍了 **离散扩散语言模型 (dLLMs)**，它可以并行处理所有词语，从而实现更快的生成速度和更好的可控性。
+---
+
+## **收听语音版AI日报**
+
+| 🎙️ **小宇宙** | 📹 **抖音** |
+| --- | --- |
+| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)| 
+| ![小酒馆](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+
+    
+
