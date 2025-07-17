@@ -13,12 +13,7 @@ I'm stoked to hear from you! 👋 Whether you've got questions, partnership idea
 ## **Contact Info**
 
 *   **Email:**
-    *   [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
-
-*   **WeChat:**
-    *   {{< cards >}}
-        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="Personal WeChat" subtitle="Hit me up for a chat!" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
-        {{< /cards >}}
+    *   [764165941@qq.com](mailto:764165941@qq.com)
 
 *   **Office Hours:**
     *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
