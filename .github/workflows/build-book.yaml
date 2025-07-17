@@ -6,15 +6,15 @@ on:
       source_repo:
         description: '要拉取代码的源仓库 (格式: owner/repo)'
         required: true
-        default: 'myanle/CloudFlare-AI-Insight-Daily' # <<< 请修改为你的源仓库
+        default: 'justlovemaki/CloudFlare-AI-Insight-Daily' # <<< 请修改为你的源仓库
       source_branch:
         description: '要拉取的源分支'
         required: true
         default: 'book' # <<< 请修改为你的源分支
 
-  # 设置定时触发
+  # 也可以设置定时触发，例如每天凌晨1点 (UTC时间)
   schedule:
-    - cron: '*/5 * * * *' # 每5分钟运行一次，用于测试定时任务是否正常工作
+    - cron: '0 22 * * *' # 每天 UTC 时间 0 点运行 (北京时间早上6点)
 
 jobs:
   build-and-commit:
@@ -31,7 +31,7 @@ jobs:
       - name: Clone source repository
         uses: actions/checkout@v4
         with:
-          repository: ${{ github.event.inputs.source_repo || 'myanle/CloudFlare-AI-Insight-Daily' }} # Fallback to default if not provided by manual trigger
+          repository: ${{ github.event.inputs.source_repo || 'justlovemaki/CloudFlare-AI-Insight-Daily' }} # Fallback to default if not provided by manual trigger
           ref: ${{ github.event.inputs.source_branch || 'book' }} # Fallback to default
           path: 'clone'
 
@@ -61,7 +61,7 @@ jobs:
           TARGET_CONTENT_DIR="content/cn"
 
           # --- 新增: 读取默认 description ---
-          echo "--- 步骤 0: 读取默认描述信息 ---"
+          echo "--- 步骤 0.1: 读取默认描述信息 ---"
           DEFAULT_DESCRIPTION=""
           if [ -f "hugo.yaml" ]; then
             # 使用 yq (预装在 runner 上) 安全地解析 YAML 文件
@@ -77,6 +77,22 @@ jobs:
           else
             echo "警告: hugo.yaml 文件未找到，无法读取默认 description。"
             DEFAULT_DESCRIPTION="查看详情" # 提供一个最终的备用值
+          fi
+
+          echo "--- 步骤 0.2: 读取默认子标题 ---"
+          DEFAULT_SUBTITLE=""
+          if [ -f "hugo.yaml" ]; then
+            # 使用 yq 安全地解析 YAML 文件
+            DEFAULT_SUBTITLE=$(yq e '.params.subTitle' -N hugo.yaml || true)
+            if [ -n "$DEFAULT_SUBTITLE" ]; then
+              echo "从 hugo.yaml 中读取到默认 subTitle: $DEFAULT_SUBTITLE"
+            else
+              echo "警告: 在 hugo.yaml 中未找到 .params.subTitle 或其值为空。"
+              # 注意: 这里我们不设置备用值，如果未找到，DEFAULT_SUBTITLE 将保持为空字符串
+            fi
+          else
+            echo "警告: hugo.yaml 文件未找到，无法读取默认 subTitle。"
+            # 文件未找到时，DEFAULT_SUBTITLE 同样保持为空字符串
           fi
 
           # --- 1. 识别文件角色并立即提取所需信息 ---
@@ -99,19 +115,19 @@ jobs:
 
           echo "最新文件 (用于主页): $(basename $LATEST_NOTE)"
           
-          echo "正在为最新笔记提取 description..."
-          if grep -q "AI内容摘要" "$LATEST_NOTE"; then
-              LATEST_DESCRIPTION=$(grep -A 5 "AI内容摘要" "$LATEST_NOTE" | sed -n '/AI内容摘要/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:80])')
-              LATEST_DESCRIPTION="$DEFAULT_DESCRIPTION 。$LATEST_DESCRIPTION"
-          elif grep -q "AI产品与功能更新" "$LATEST_NOTE"; then
-              LATEST_DESCRIPTION=$(grep -A 5 "AI产品与功能更新" "$LATEST_NOTE" | sed -n '/AI产品与功能更新/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:80])')
-              LATEST_DESCRIPTION="$DEFAULT_DESCRIPTION 。$LATEST_DESCRIPTION"
-          else
-              echo "警告: 最新笔记 '$LATEST_NOTE' 中未找到摘要。将使用 hugo.yaml 中的默认 description。"
-              LATEST_DESCRIPTION="$DEFAULT_DESCRIPTION"
-          fi
+          # echo "正在为最新笔记提取 description..."
+          # if grep -q "AI内容摘要" "$LATEST_NOTE"; then
+          #     LATEST_DESCRIPTION=$(grep -A 5 "AI内容摘要" "$LATEST_NOTE" | sed -n '/AI内容摘要/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:80])')
+          #     LATEST_DESCRIPTION="$DEFAULT_DESCRIPTION 。$LATEST_DESCRIPTION"
+          # elif grep -q "AI产品与功能更新" "$LATEST_NOTE"; then
+          #     LATEST_DESCRIPTION=$(grep -A 5 "AI产品与功能更新" "$LATEST_NOTE" | sed -n '/AI产品与功能更新/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:80])')
+          #     LATEST_DESCRIPTION="$DEFAULT_DESCRIPTION 。$LATEST_DESCRIPTION"
+          # else
+          #     echo "警告: 最新笔记 '$LATEST_NOTE' 中未找到摘要。将使用 hugo.yaml 中的默认 description。"
+          #     LATEST_DESCRIPTION="$DEFAULT_DESCRIPTION"
+          # fi
           # 转义描述中的双引号以确保 YAML 格式正确
-          LATEST_DESCRIPTION=$(echo "$LATEST_DESCRIPTION" | sed 's/"/\\"/g')
+          LATEST_DESCRIPTION=$(echo "$DEFAULT_DESCRIPTION" | sed 's/"/\\"/g')
           echo "已提取并保存 description: $LATEST_DESCRIPTION"
 
           # --- 2. 归档除最新文件外的所有文件 (实际上是归档所有文件到其年月目录) ---
@@ -165,11 +181,11 @@ jobs:
               
               local_description=""
               if grep -q "AI内容摘要" "$source_file"; then
-                local_description=$(grep -A 5 "AI内容摘要" "$source_file" | sed -n '/AI内容摘要/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:80])')
-                local_description="$DEFAULT_DESCRIPTION 。$local_description"
+                local_description=$(grep -A 5 "AI内容摘要" "$source_file" | sed -n '/AI内容摘要/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:150])')
+                # local_description="$DEFAULT_SUBTITLE 。$local_description"
               elif grep -q "AI产品与功能更新" "$source_file"; then
-                local_description=$(grep -A 5 "AI产品与功能更新" "$source_file" | sed -n '/AI产品与功能更新/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:80])')
-                local_description="$DEFAULT_DESCRIPTION 。$local_description"
+                local_description=$(grep -A 5 "AI产品与功能更新" "$source_file" | sed -n '/AI产品与功能更新/!p' | sed 's/^[#* >]*//g' | python3 -c 'import sys; print(sys.stdin.read().replace("\n", " ").replace("```", "").strip()[:150])')
+                # local_description="$DEFAULT_SUBTITLE 。$local_description"
               else
                 echo "警告: 文件 '$source_file' 中未找到摘要。将使用 hugo.yaml 中的默认 description。"
                 local_description="$DEFAULT_DESCRIPTION"
@@ -179,7 +195,7 @@ jobs:
 
 
               (
-                printf -- "---\nlinkTitle: %s-%s-日刊\ntitle: %s-%s-日刊-AI日报\nweight: %d\nbreadcrumbs: false\ncomments: true\ndescription: \"%s\"\n---\n\n" \
+                printf -- "---\nlinkTitle: %s-%s-日报\ntitle: %s-%s-日报-AI资讯日报\nweight: %d\nbreadcrumbs: false\ncomments: true\ndescription: \"%s\"\n---\n\n" \
                   "$MONTH" "$DAY" "$MONTH" "$DAY" "$weight" "$local_description"
                 cat "$source_file"
               ) > "$TARGET_FILE"
@@ -240,7 +256,7 @@ jobs:
           echo "--- 步骤 4: 更新主索引页面 (content/cn/_index.md) ---"
           TARGET_INDEX="$TARGET_CONTENT_DIR/_index.md"
           
-          FRONTMATTER="---\nlinkTitle: Today's Daily\ntitle: Today's Daily-AI日报\nbreadcrumbs: false\n"
+          FRONTMATTER="---\nlinkTitle: AI Daily\ntitle: AI Daily-AI资讯日报\nbreadcrumbs: false\n"
           # The 'next' link should point to the second latest note, which is now an archived page.
           if [ -n "$SECOND_LATEST_NOTE" ] && [ "$LATEST_NOTE" != "$SECOND_LATEST_NOTE" ]; then # Ensure there IS a second latest note
             FILENAME_SECOND_LATEST=$(basename "$SECOND_LATEST_NOTE" .md)
