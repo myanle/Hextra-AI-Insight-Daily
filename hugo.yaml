@@ -50,7 +50,7 @@ menu:
 
 params:
   adsenseId: "ca-pub-8136412975724403"
-  ahrefsKey: "Qe0ZpZJ6/W8rgMFnLgk4kg"
+  #ahrefsKey: "Qe0ZpZJ6/W8rgMFnLgk4kg"
   description: 每日精选AI行业要闻、开源热点、学术前沿及大V观点。AI资讯；AI日报；AI知识库；AI教程；AI资讯日报；AI工具；AI Daily News
   descriptionEn: Daily selection of AI industry news, open source hot spots, academic frontiers and big V opinions. AI information; AI daily; AI knowledge base; AI tutorials; AI information daily; AI tools;
   descriptionJA: AI 業界のニュース、オープンソースのホットスポット、学術的フロンティア、ビッグ V の意見を毎日厳選。AI 情報、AI デイリー、AI ナレッジ ベース、AI チュートリアル、AI 情報デイリー、AI ツール;
