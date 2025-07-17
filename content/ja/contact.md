@@ -15,12 +15,8 @@ sidebar:
 ## **連絡先**
 
 *   **メール (Email):**
-    *   [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
+    *   [764165941@qq.com](mailto:764165941@qq.com)
 
-*   **個人WeChat (Wechat):**
-    *   {{< cards >}}
-        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="個人WeChat" subtitle="お気軽にどうぞ！" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
-        {{< /cards >}}
 
 *   **営業時間 (Office Hours):**
     *   月曜日～金曜日、午前9:00～午後6:00 (GMT+8)
