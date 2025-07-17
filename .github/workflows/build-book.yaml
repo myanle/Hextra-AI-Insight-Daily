@@ -14,7 +14,7 @@ on:
 
   # 也可以设置定时触发，例如每天凌晨1点 (UTC时间)
   schedule:
-    - cron: '37 0 * * *' # 每天 UTC 时间 0 点运行 (北京时间早上6点)
+    - cron: '45 0 * * *' # 每天 UTC 时间 0 点运行 (北京时间早上6点)
 
 jobs:
   build-and-commit:
