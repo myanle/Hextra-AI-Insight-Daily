@@ -2,52 +2,62 @@
 linkTitle: Today's Daily
 title: Today's Daily-AI日报
 breadcrumbs: false
-next: /en/2025-07/2025-07-15
-description: Daily selection of AI industry news, open source hot spots, academic
+next: /en/2025-07/2025-07-16
+description: 'Daily selection of AI industry news, open source hot spots, academic
   frontiers and big V opinions. AI information; AI daily; AI knowledge base; AI tutorials;
-  AI information daily; AI tools;Perplexity AI is teaming up with SheerID to offer
-  over 264 million students worldwide two years of free Perplexity Pro premium service!
-  This awesome move aims to tackle discount fraud for AI tools in education and really
-  shows they're betting big on the education market. Students can snag the ful...
+  AI information daily; AI tools;Google''s first text embedding model, gemini-embedding-001,
+  just dropped, and get this: it''s already crushed OpenAI on the MTEB leaderboard
+  to grab the top spot! This bad boy supports over 100 languages, making it a versatile
+  tool for AI tasks like search, classification, and recommendations. Plus...'
 cascade:
   type: docs
 ---
-## YuanSiNet Daily Insights 2025/7/16
+## YuanSi Network Insight Daily 2025/7/17 🚀
 
-> `YuanSi Daily`
+> YuanSi Daily 📰
 
 ### **AI Content Summary**
 
 ```
-Perplexity AI is offering two years of free premium service to students, tackling AI tool discount fraud. ima's web version is now live, providing convenient knowledge base access and learning tools. TRAE.ai has launched its Kimi-K2 model, with performance nearing GPT-4.1, and added the Grok-4 model.
-The WAIC 2025 conference is focusing on the deep integration of AI with smart terminals, exploring the potential and challenges of AI empowerment, and showcasing numerous embodied AI robots and AI interaction devices. Willow, a smart voice input method, has secured $4.2 million in funding, but potential privacy and security risks need attention.
-Trump's tech and AI summit announced massive investments, which could impact the global AI industry landscape, raising concerns about tech monopolies and AI ethics.
+Gemini-embedding-001, a text embedding model, outshines OpenAI, supporting over a hundred languages with wide-ranging applications; Runway's Act-Two motion capture model delivers high-quality animation generation; AI programming tools are shifting to terminal interfaces, boosting efficiency and expanding use cases, with Terminal-Bench providing performance evaluation standards.
+Multiple AI tools and models have been released, showcasing the rapid development of artificial intelligence technology across text processing, animation generation, and programming, though their potential risks warrant attention.
+The discovery of new "altermagnets" could revolutionize computer architecture, heralding significant future technological shifts.
 ```
 
-### **Today's AI News**
+### **Today's AI News** ⚡
 
-1. **Perplexity AI** is teaming up with **SheerID** to offer over 264 million students worldwide two years of free **Perplexity Pro** premium service! This awesome move aims to tackle discount fraud for **AI tools** in education and really shows they're betting big on the **education market**. Students can snag the full **Perplexity Pro** experience—normally $20/month—for free, getting access to pro features like cited research, in-depth reports, and interactive **AI** apps. Fun fact: 86% of US students are already using **AI tools** for their studies! ![AI Education](https://pic.chinaz.com/picmap/202305301503482001_2.jpg)
+1.  Google's first text embedding model, **gemini-embedding-001**, just dropped, and get this: it's already crushed OpenAI on the **MTEB leaderboard** to grab the top spot! This bad boy supports **over 100 languages**, making it a versatile tool for AI tasks like search, classification, and recommendations. Plus, it's seriously crushing it in specialized fields such as law, finance, and science. Talk about a game-changer! 🤯 ![Image](https://assets-v2.circle.so/skxegz5bhkw66sd3gg7q69zh1652)
 
-2. **ima's web version** has officially launched! Users can now access its knowledge base anytime, anywhere, and boost their learning and work efficiency with cool features like highlighting notes and a mini Q&A window. ![image.png](https://upload.chinaz.com/2025/0716/6388825289358314837886441.png) ![image.png](https://upload.chinaz.com/2025/0716/6388825290665047028117487.png)
+2.  Runway just dropped their next-gen motion capture model, **Act-Two**! 🚀 Imagine this: you can whip up high-quality animations using just a video shot on your phone and a reference image. This thing supports full-body tracking, even capturing nuanced **facial expressions, body movements, and finger gestures**. Pretty neat, huh? Just a heads-up though, it's currently only available for enterprises. ![Image](https://assets-v2.circle.so/tj2rk8jn1y8i7swm84j8sdi26gvp)
 
-3. **TRAE.ai** just dropped its **Kimi-K2 model**, built on a Mixture-of-Experts (MoE) architecture! This model boasts super strong coding capabilities and general agent task processing, with performance that's seriously close to **GPT-4.1**, **Claude4**, and **Gemini2.5pro**. Plus, **TRAE**'s international version now features a new super model, **Grok-4** (Beta), available for **Pro** users to try out. ![image.png](https://upload.chinaz.com/2025/0716/6388825274530956125830847.png) ![image.png](https://upload.chinaz.com/2025/0716/6388825275497024474626353.png) ![image.png](https://upload.chinaz.com/2025/0716/6388825278214529758285505.png) [🔗 TRAE China Version](https://www.trae.cn) [🔗 TRAE International Version](https://www.trae.ai)
+3.  AI programming tools are going full circle and heading straight for the **terminal interface**! 💻 Big players like Anthropic, DeepMind, and OpenAI are all rolling out command-line tools, making it feel like programmers are getting back to their "hacker era" roots. These terminal tools aren't just for writing and debugging code; they can tackle a whole lot more, like reverse engineering and even building Linux kernels. And to keep things legit, **Terminal-Bench** is stepping up as the new standard for evaluating how well these tools perform. So, pretty cool, right? ![Image](https://pic.chinaz.com/picmap/202310311604481503_3.jpg)
 
-4. **WAIC 2025** is putting the spotlight on the deep integration of **AI with smart terminals**, diving into hot topics like **embodied AI, intelligent driving, and smart devices**. The conference will explore the potential and challenges of AI-powered smart terminals, hitting on issues such as **hardware power consumption and computing power limitations, aligning AI features with user needs, data security and system stability, and ecosystem fragmentation**. They're also on the hunt for ways to build next-gen smart terminals with **ubiquitous sensing and continuous evolution capabilities**.
+4.  So, what's the big takeaway from these three news bits? 🤔 They all seriously highlight the rapid growth of **artificial intelligence** tech and how it's being used across different fields. The leaps in **text embedding models**, **motion capture models**, and **terminal programming tools** are basically a sneak peek into a future that's way smarter and more convenient. But hey, while all this is awesome, we also gotta put on our thinking caps and consider the potential risks and ethical issues that come with these new technologies. Just sayin'.
 
-5. The conference really showcased the latest breakthroughs in **embodied AI robots**, featuring cool stuff like Tesla's **Tesla Bot**, the National and Local Joint Humanoid Robot Innovation Center's **Qinglong V3.0**, and Zhiyuan Robot's **Lingxi X2-Pro**. These bad boys demonstrate impressive **perception-decision-execution loop** capabilities. [Image: https://image.jiqizhixin.com/uploads/editor/5907a4ff-39c6-45f6-83c1-91b03adbb11d/1752564299194.png]
+5.  **markitdown** ( [🔗 Project Repository](https://github.com/microsoft/markitdown) ): This Python tool from Microsoft is a total lifesaver! It can convert all sorts of files into **Markdown** format, which is super handy. Plus, it's already racked up a whopping 64,852 stars. Talk about popular! ✨
 
-6. The conference also zeroed in on how **large models** are powering up **intelligent driving**, with a prime example being Li Auto's **MEGA** family tech flagship MPV, which rocks the **Li Xiang Tong Xue** in-car intelligent agent.
+6.  **localGPT** ( [🔗 Project Repository](https://github.com/PromtEngineer/localGPT) ): Wanna chat with your documents right on your own computer and keep your data totally private? This tool lets you do just that! 🔒 It's already snagged 21,027 stars, so clearly, folks are digging it.
 
-7. Loads of innovative **AI** interaction devices were on display at the conference too! We saw cool gadgets like Mobvoi's **Ticnote AI** recording device and China Telecom's **Tianyi AI** glasses. [Image: https://image.jiqizhixin.com/uploads/editor/70ed9eb0-d426-4d55-b74e-e72d3ab27484/1752564396236.png] [Image: https://image.jiqizhixin.com/uploads/editor/2837471e-3f8d-48f3-8a3f-afa7ee56421f/1752564404918.png]
+7.  **MusicFree** ( [🔗 Project Repository](https://github.com/maotoumao/MusicFree) ): Get ready for a music player that's pure bliss! This freebie is **plugin-based, highly customizable, and totally ad-free**. What's not to love? It's already got 18,178 stars, so clearly, it hits all the right notes! 🎶
 
-8. **Rewind: Music Time Travel** is a super simple and user-friendly music app that lets you jam out to tunes from different eras. [Image: https://pbs.twimg.com/media/GvvyrZ7bUAAdVms?format=jpg&name=orig]
+8.  **DocsGPT** ( [🔗 Project Repository](https://github.com/arc53/DocsGPT) ): This open-source project is a game-changer for getting reliable answers from knowledge bases and, get this, avoiding those pesky "hallucination" issues! 🤩 It's already racked up over 16,000 stars on GitHub, so it's definitely a crowd-pleaser.
 
-9. **NVIDIA** has rolled out the **NeMo Agent Toolkit Profiler**, a handy tool designed to help developers fine-tune the performance of their **AI** agents. [Video: https://video.twimg.com/amplify_video/1945264628176474112/vid/avc1/720x1280/4uT5OcPDbAVk9rea.mp4?tag=14] [🔗 Project Repository](http://github.com/NVIDIA/NeMo-Agent-Toolkit)
+9.  Teams from Tianjin University and others have cooked up something pretty amazing: a **chemical toxicity prediction model called ToxACoL**! 🧪 This model boasts super high prediction accuracy while slashing data requirements by a whopping 70-80%. Talk about efficient! [🔗 Paper Link](https://www.nature.com/articles/s41467-025-60989-7) [🔗 Online Platform](https://toxacol.bioinforai.tech/) [🔗 Code Link](https://github.com/LuJiangTHU/Acute_Toxicity_FSL)
 
-10. **WAIC 2025** really showcased the booming development of **AI**-powered smart terminals, but it also gave us a crucial heads-up: we need to tread carefully with **data security and ethical concerns**. Building an **open, secure, and sustainably developing** intelligent ecosystem is absolutely critical!
+10. Mark your calendars! 📅 The 2025 ACL conference is hitting Vienna! And guess what? Machine Heart (机器之心) teamed up with a bunch of other organizations to host the "Yunfan・ACL 2025 AI Talent Meetup." Get ready to network and learn! ✨
 
-11. **Elon Musk** has reportedly poached a bunch of users from competitor **CAI**'s user base. This could be due to **product strategy**, savvy **marketing**, or perhaps users just weren't happy with existing products. [▶️ Video Demo](https://video.twimg.com/amplify_video/1944793927040512000/vid/avc1/720x1566/819o9VjoSke5NGFn.mp4?tag=14)
+11. Big news from Mira Murati's camp! 💰 Her Thinking Machines Lab just raked in a massive $2 billion in seed funding, pushing its post-money valuation to an eye-popping $12 billion. This company is all about building a killer AI development environment, and they're even promising to include **open-source components** and share their **top-notch research findings**. Now that's what I call a power move! 💪
 
-12. The smart voice input method **Willow** has just scooped up $4.2 million in angel funding, with its sights set on building a voice-based operating system. While that sounds super innovative, it might also bring new privacy and security headaches. So, we've gotta embrace the **innovation**, but also be super careful about potential **risks**! [▶️ Video Demo](https://video.twimg.com/amplify_video/1945181978787020800/vid/avc1/1366x720/SFv3CXrPVnix9Zw5.mp4?tag=14)
+12. Researchers from Chinese University of Hong Kong and Huawei have dropped a new benchmark called ReliableMath, designed to evaluate the **reasoning reliability of large models**. What's the scoop? This benchmark assesses how these massive models perform when faced with unsolvable math problems. And here's the kicker: the study found that current large models often churn out "hallucinations" when they hit a problem they can't solve. Food for thought, right? 🧐
 
-13. **Trump's tech and AI summit** has just dropped news of massive US investments, which could totally reshape the global **AI** industry landscape. On the flip side, we might see some negative impacts like **tech monopolies** or sticky **AI ethics** issues. ![Big US investments announced at Trump's tech and AI summit](https://external-preview.redd.it/qPL_MQznC10Av1D_qbeDW6IU6pcDtT8dnSOn8zOjb0.jpeg?width=640&crop=smart&auto=webp&s=8bc2cfee2288a07e4cc4772e88920df205c37b69)
+13. A Reddit user just dropped a cool workflow for achieving scene and character consistency using AI tools! 🎬 They're leveraging tools like SeedDream V3, Flux Kontext, and Veo 3. If you're into that, you gotta check it out! [▶️ Video Demo](https://www.youtube.com/watch?v=RtYlCe7ekvE)
+
+14. Meta's got some wild plans! 🤯 They're eyeing a data center the size of Manhattan, which clearly screams **massive investment** in AI. But, let's be real, it also raises some eyebrows about energy consumption and environmental impact. Food for thought, right? ![Image](https://external-preview.redd.it/hu62peakqt0AdAiqcKT_IEkC3Ykspz4-C-ulew8pKrc.jpeg?width=640&crop=smart&auto=webp&s=bae548b46816c02f42622c22de56a8b21b6f24a5)
+
+15. Check out this programmer who's been using AI to help develop a self-media writing tool! ✍️ The best part? This tool can **generate articles with just one click**. Talk about a time-saver! [▶️ Video Demo](https://video.twimg.com/amplify_video/1945356266995687424/vid/avc1/1228x720/WShOb3sGOYNXFVSE.mp4?tag=14)
+
+16. So, a blogger is apparently deep in thought, grappling with some stuff. Relatable, right? 😂 ![Image](https://pbs.twimg.com/media/GwAfNjHWQAAdp1b?format=jpg&name=orig)
+
+17. Scientists just hit the jackpot! 🎉 Researchers have discovered a new type of magnet, "**altermagnets**," and get this: they could totally revolutionize how computers are built. This is some serious sci-fi stuff turning into reality! 🤯 ![Image](https://cdn4.cdn-telegram.org/file/qzQsh2acuJ3Ec_LxwvYkndjLyV6SD4aiCFoorH7quWJQxgqvHyTJO9SVG9fl_7zDe_sTZM4wuq7M08eBsRD31yGTjmmd3qbwULGwXAMaMqizaJUjtVcfWmMrHdp9xSHUE65--HDKyePIM1i8G04ljdxSbDIW320vm87ag1mME1jTkYIssJeJvVa8mqC4ijK_YRrfpT_x7UvZnvPYSQBgSTerM0EQXRGJPJjTUYVCZma92IQBauBx-MUDDOvRnBPSBLEgEooqHlqZf46nlxqGBhJAQFkuetIZStgoSwP3AbX-KB155DZmQuhkbkRfQq2rUXa0X05E2FTG1eksScQYQ.jpg)
+
+18. Want to whip up icons of all sizes? 🎨 Just upload your image, and boom! You're all set. Super easy! ![Image](https://pbs.twimg.com/media/GwAI20nbbAEex0u?format=jpg&name=orig)
