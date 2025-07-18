@@ -14,7 +14,7 @@ cascade:
 ---
 ## AI Insights Daily 2025/7/18
 
-> AI Daily | 8 AM Update | All-Net Data Aggregation | Cutting-Edge Science Exploration | Industry Voice | Open-Source Innovation | AI & Humanity's Future | [Visit Web Version ↗️](https://ai.hubtoday.app/)
+> AI Daily | 8 AM Update | All-Net Data Aggregation | Cutting-Edge Science Exploration | Industry Voice | Open-Source Innovation | AI & Humanity's Future
 
 ### AI Content Summary
 
