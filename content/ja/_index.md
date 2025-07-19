@@ -87,10 +87,3 @@ OpenAIがChatGPT Agentをリリース、AIが自ら複雑なタスクを実行�
 5.  AI製品開発者の皆さん、ちょっと注目です！ベテランオブザーバーの歸藏(guizang.ai)さんが[核心を突く問いを投げかけました](https://x.com/op7418/status/1946222803432374538)。これは、現在の多くのAIアプリケーションが抱える痛点をまさに突き刺す質問です。彼が問うのは、「もしあなたの**AI製品**や**Agent**が、同じ基盤モデルと精巧に設計されたプロンプトを使っているのに、汎用チャットツールで簡単に実現できる機能さえ安定して再現できないとしたら、その独立した製品の『**核となる価値**』は一体どこにあるのか？」ということ。これは単に鋭い問題提起であるだけでなく、全ての業界関係者が深く反省すべき「製品価値の試金石」であり、私たちの原点に立ち返り、イノベーションの本質を考える助けになるでしょう。
 
 ---
-
-## 音声版AIニュースデイリーを聴く
-
-| 🎙️ **小宇宙** | 📹 **Douyin** |
-| --- | --- |
-| [来生小酒館](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [セルフメディアアカウント](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![コ酒場](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情報ステーション](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
