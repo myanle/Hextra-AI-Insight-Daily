@@ -93,10 +93,3 @@ Concurrently, the first AI malware, LameHug, emerged, using large models to stea
 5.  Attention, AI product developers! Veteran observer Guizang (guizang.ai) [posed a profound question](https://x.com/op7418/status/1946222803432374538) that hits right at the pain point for many current AI applications. He asked: If your AI product or Agent, even after using the same underlying model and meticulously crafted prompts, still can't consistently replicate a feature that a generic chat tool can easily pull off, then what on earth is the core value of your standalone product? This isn't just a sharp question; it's a "product value litmus test" that every professional in the field should deeply reflect on, helping us get back to basics and ponder the true essence of innovation. 🧐
 
 ---
-
-## Listen to the Audio Version of AI Daily
-
-| 🎙️ **Xiaoyuzhou FM** | 📹 **Douyin** |
-| --- | --- |
-| [Afterlife Bistro](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Bistro](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
