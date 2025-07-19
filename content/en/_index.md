@@ -14,7 +14,7 @@ cascade:
 ---
 ## AI Daily News - July 19, 2025
 
-> AI Daily | 8 AM Updates | Web-Wide Data Aggregation | Cutting-Edge Science Exploration | Industry Voices | Open Source Innovation | AI & Humanity's Future | [Visit Web Version](https://ai.hubtoday.app/)
+> AI Daily | 8 AM Updates | Web-Wide Data Aggregation | Cutting-Edge Science Exploration | Industry Voices | Open Source Innovation | AI & Humanity's Future | [Visit Web Version](https://yuansiwang.netlify.app/)
 
 ### AI Content Summary
 
