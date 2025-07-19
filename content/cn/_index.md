@@ -94,14 +94,6 @@ OpenAI发布ChatGPT Agent，标志着AI开始亲自动手执行复杂任务。
 
 5.  AI产品开发者们请注意，资深观察家歸藏(guizang.ai) [提出了一个灵魂拷问](https://x.com/op7418/status/1946222803432374538)，这个问题直击当前许多AI应用的痛点。他问道：如果你的**AI产品**或**Agent**，在使用了同样的底层模型和精心设计的提示词之后，其表现依然无法稳定复现一个通用聊天工具就能轻松实现的功能，那么你这款独立产品的**核心价值**究竟体现在哪里？这不仅仅是一个尖锐的问题，更是一个值得所有从业者深刻反思的“产品价值试金石”，帮助我们回归初心，思考创新的本质。
 
----
-
-## **收听语音版AI日报**
-
-| 🎙️ **小宇宙** | 📹 **抖音** |
-| --- | --- |
-| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)| 
-| ![小酒馆](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://cdn.jsdmirror.com/gh/justlovemaki/imagehub@main/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
 
     
 
