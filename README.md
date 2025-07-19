@@ -1,6 +1,6 @@
 # Hextra AI Insight Daily AI洞察日报前端 🤖
 
-一个基于 [Hextra Starter Template](https://github.com/imfing/hextra-starter-template) 和 [CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily) 的全自动化 AI 新闻发布项目。
+一个基于 [Hextra Starter Template](https://github.com/imfing/hextra-starter-template) 和 [CloudFlare-AI-Insight-Daily](https://github.com/myanle/CloudFlare-AI-Insight-Daily) 的全自动化 AI 新闻发布项目。
 
 > ✨ **项目愿景**：每日清晨，自动为您抓取、汇总并发布最新的 AI 行业动态，让您轻松掌握前沿资讯。
 
