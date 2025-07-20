@@ -2,61 +2,95 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /ja/2025-07/2025-07-19
+next: /ja/2025-07/2025-07-20
 description: AI 業界のニュース、オープンソースのホットスポット、学術的フロンティア、ビッグ V の意見を毎日厳選。AI 情報、AI デイリー、AI
-  ナレッジ ベース、AI チュートリアル、AI 情報デイリー、AI ツール;🎉PhysRigフレームワーク。イリノイ大学アーバナ・シャンペーン校とStability
-  AIの研究者が、このフレームワークを開発しました。これは微分可能な物理シミュレーションを活用し、キャラクターを「剛性骨格＋弾性軟体」の組み合わせとしてモデル化し、Material
-  Point Method (MPM)で物理法則をシミュレートすることで、従来の線形ブレンドスキニング (LBS)技術による「プラスチック感」を解消し、よりリアルなキャラクターアニメーションを作成します。🔗
-  プロジェクトホームページ 🔗 論文アドレス 🔗 コードリポジトリ
+  ナレッジ ベース、AI チュートリアル、AI 情報デイリー、AI ツール;Metaは、44人のAGI「ドリームチーム」を結成し、その半数が中国出身のメンバーだそうです！😲
+  これは、OpenAIやDeepMindなどのトップAI機関から集められた博士号持ちのエリートばかりで、かなりの高給取り。この動きで、シリコンバレーのAI人材争奪戦がますます激化していますね。
 cascade:
   type: docs
 ---
-## サルネット洞察日報 2025/7/20
+## サルシン・ネットワーク・インサイト日報 2025/7/21
 
-> サルネット 日報
+> サルシン日報
 
 ### **AIコンテンツ要約**
 
 ```
-PhysRigフレームワークは、従来の技術の限界を乗り越え、微分可能な物理シミュレーション技術を使って、よりリアルなキャラクターアニメーションを作成します。Windsurf社は買収され、AI人材獲得競争の激しさを浮き彫りにしました。RESTフレームワークのテストでは、トップクラスのAIモデルが高負荷時にパフォーマンスが低下することが示され、long2short技術が性能向上に役立ちます。
-V2M4アルゴリズムは、動画を4Dメッシュアニメーションに効率的に変換し、幅広い応用が期待されますが、その倫理的・社会的な影響にも注意が必要です。複数のオープンソースプロジェクトがリリースされ、ウィンドウマネージャー、深層学習研究、メディアサーバー、ゲームエミュレーターなど様々な分野をカバーしており、開発者の利用を促進します。
-Redditでは、AIが孤独を解消する可能性や生物兵器のリスクなどについて議論され、AI技術の発展と倫理について深く考えさせられます。エコノミスト誌は、AIが情報取得の方法を変え、従来の検索エンジンに打撃を与えていると報じています。
+Meta組建44人AGIチーム，中国成員占比一半，加劇AI人才争奪。AlphaFold受賞引发争议，其核心思路原創性受质疑。英偉達GPU重大漏洞GPUHammer攻撃可致模型精度暴跌99.9%。
+Windsurf被谷歌収購，凸显AI人才稀缺和高价值，Cognition随后収購剩余資産。OpenAI模型IMO奪金，展现AI数学推理能力進歩，但真实性与可重複性受争议。
+AI人才争奪激烈，人才吸引和留存成關鍵挑戦，AI能力边界及与人類智能的协同互補值得深思。
 ```
 
 ### **今日のAIニュース**
 
-1.  🎉**PhysRigフレームワーク。**イリノイ大学アーバナ・シャンペーン校とStability AIの研究者が、このフレームワークを開発しました。これは**微分可能な物理シミュレーション**を活用し、キャラクターを「**剛性骨格＋弾性軟体**」の組み合わせとしてモデル化し、**Material Point Method (MPM)**で物理法則をシミュレートすることで、従来の**線形ブレンドスキニング (LBS)**技術による「プラスチック感」を解消し、よりリアルなキャラクターアニメーションを作成します。[🔗 プロジェクトホームページ](https://physrig.github.io/) [🔗 論文アドレス](https://arxiv.org/abs/2506.20936) [🔗 コードリポジトリ](https://github.com/haoz19/PhysRig)
+1.  **Meta**は、44人のAGI「ドリームチーム」を結成し、その半数が中国出身のメンバーだそうです！😲 これは、OpenAIやDeepMindなどのトップAI機関から集められた博士号持ちのエリートばかりで、かなりの高給取り。この動きで、シリコンバレーのAI人材争奪戦がますます激化していますね。
 
-2.  🤔**Windsurf社が買収されました。**AIプログラミングツールを提供するWindsurf社は、96時間以内にGoogleに大半の従業員を引き抜かれ、ライセンス契約を結んだ後、残りの資産がCognition社に買収されました。これは、**AI人材争奪戦**の激しさと、大手企業による**AIスタートアップ**への買収意欲の高さを示していますね。
+2.  **AlphaFoldの受賞**が物議を醸しています。🤔 その核となるアイデアは、実はオリジナルではないのでは、という声が上がっているんです。タンパク質構造予測での画期的な貢献でノーベル賞を受賞したAlphaFoldですが、その成功は単独のものではありません。2016年にはすでに似たような核心アイデアを提示した論文があったのに、AlphaFoldチームがそれを引用しなかったと指摘されており、科学研究における知識の継承と引用について考えさせられますね。Yann LeCun氏もこれについてコメントしています。
 
-3.  🤯**REST (Reasoning Evaluation through Simultaneous Testing) フレームワーク。**上海人工知能研究所、清華大学、中国人民大学の研究者たちが、このフレームワークを開発しました。これは**AIモデル**のストレステストを行い、その結果、トップモデルである**DeepSeek-R1**が高負荷時に精度が大幅に低下することが判明しました。これは、既存の**AIモデル**がマルチタスクや複雑なシナリオを処理する際に依然として限界があることを示しており、**long2short**技術が性能向上に役立つ可能性がありますよ。[🔗 論文アドレス](https://arxiv.org/abs/2507.10541) [🔗 プロジェクトアドレス](https://opendatalab.github.io/REST) [🔗 コードリポジトリ](https://github.com/opendatalab/REST)
+3.  **NVIDIAのGPUに重大な脆弱性**が発見されました！🚨 「GPUHammer」攻撃によって、モデルの精度が99.9%も急落する可能性があるとのこと。トロント大学の研究者がこの深刻なセキュリティホールを発見しました。NVIDIAはECC防御の有効化を推奨していますが、これだとモデルのパフォーマンスが低下してしまうんです。この脆弱性は、AIセキュリティの構築がいかに重要かを改めて示していますね。
 
-4.  🎉**V2M4アルゴリズム。**サウジアラビアのキング・アブドゥッラー科学技術大学（KAUST）の研究チームが、このアルゴリズムを発表しました。これは動画をゲームエンジンで使える**4Dメッシュアニメーション**に変換でき、効率を大幅に向上させ、動画から**連続アニメーションメッシュアセット**を生成する難題を解決しました。その核となるのは、カメラ軌跡の復元、メッシュの外観最適化、フレームごとの登録とトポロジーの統一、グローバルテクスチャの作成、そしてGLTFアニメーションファイルの生成という、系統立てられた5段階のプロセスです。[画像: https://wechat2rss.xlab.app/img-proxy/?k=df9374b8&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_jpg%2FYicUhk5aAGtCua8Ria4LTS1PTgHERjDp5Vmqj0efl1REwtRe69PsJF8NoCpkuhPAcgnHMiaWRgL6XG9HfOfxib2mnw%2F0%3Fwx_fmt%3Djpeg] [画像: https://wechat2rss.xlab.app/img-proxy/?k=7cc3f8bb&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FYicUhk5aAGtCua8Ria4LTS1PTgHERjDp5VbX0pLibkcKqfO7gbibodib4x4ggv26INnrZsr2j4YNcZZ1UvS81N9BbJg%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg] [画像: https://wechat2rss.xlab.app/img-proxy/?k=bf8f4829&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_jpg%2FYicUhk5aAGtCua8Ria4LTS1PTgHERjDp5VrX0ErVQKNAOov4zGQUO7WUj6SZrKDf8RPhBN7l2C8FsAPgrURJx8mA%2F640%3Fwx_fmt%3Djpeg%26from%3Dappmsg] [画像: https://wechat2rss.xlab.app/img-proxy/?k=65a38b3f&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FYicUhk5aAGtCua8Ria4LTS1PTgHERjDp5VGDG3gD8icA0ekD4hh6OWXOQOPTtfQSPJHkYrjxLzGPXniaqJ4fqHc14g%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg] [画像: https://wechat2rss.xlab.app/img-proxy/?k=9ccd6a03&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_jpg%2FYicUhk5aAGtCua8Ria4LTS1PTgHERjDp5Vo8fSGiaFIJaYwl2hkjtSm5N4xQ1FTUuchucwG20P1qUOWeDH1wklibqQ%2F640%3Fwx_fmt%3Djpeg%26from%3Dappmsg] [画像: https://wechat2rss.xlab.app/img-proxy/?k=174987c0&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_jpg%2FYicUhk5aAGtCua8Ria4LTS1PTgHERjDp5VAJXOmsxBo6Nt1c1bYicxHdQsCYuo6UNt9T2VnFlibhibyBe0J47ey3W0w%2F640%3Fwx_fmt%3Djpeg%26from%3Dappmsg] [画像: https://wechat2rss.xlab.app/img-proxy/?k=6b79cd14&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FYicUhk5aAGtCJMpRzpt99iabYCqwXoqG7Quzp1IfhBsxFxNQ8SjtDLduP7zed85s0Lban9TDlR2Obemibxib0neyzw%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg] [🔗 論文リンク](https://arxiv.org/abs/2503.09631) [🔗 プロジェクトホームページ](https://windvchen.github.io/V2M4)
+4.  **Windsurfの96時間の騒動**は、AI人材争奪戦の厳しい現実を浮き彫りにしていますね！🤯 AIプログラミングツールを手がけるスタートアップのWindsurfが、わずか96時間で主要な従業員のほとんどをGoogleに24億ドルで買収され、その後にCognitionが残りの資産と従業員を獲得したんです。これは、AI分野での激しい人材争奪戦と、巨大企業がいかに**AI技術**と**人材**を渇望しているかを示しています。
 
-5.  🤔**V2M4アルゴリズムの未来展望。**V2M4の登場は、ゲーム、アニメーション、VR、AR、デジタルツイン技術に無限の可能性をもたらしましたが、**ディープフェイク**のリスクや、従来の映像制作スタッフの雇用への影響など、潜在的な倫理的・社会的問題についても慎重に検討する必要がありますね。
+5.  **GoogleがWindsurfの従業員を高額で引き抜いた**件は、ハイエンドAI人材がいかに希少で価値が高いかを物語っています！💰 Googleの共同創業者Sergey Brin氏とAIの巨匠Demis Hassabis氏が、**給与を倍にする**という条件でWindsurfの従業員の大部分を引き抜いたんです。これは、まさに**ハイエンドAI人材**の希少性とその高い価値を示していますね。
 
-6.  💻**オープンソースプロジェクトのおすすめ。****Hyprland** ([🔗](https://github.com/hyprwm/Hyprland))は、高度にカスタマイズ可能なWaylandウィンドウマネージャーです。🌟 また、**open_deep_research** ([🔗](https://github.com/langchain-ai/open_deep_research))は、深層学習研究を推進することに特化したオープンソースプロジェクトですね。💡
+6.  **CognitionがWindsurfの残りの資産を「逆転」買収**しました！🚀 これは、AI分野におけるその盤石な実力と素早い対応力を示していますね。CognitionはWindsurfの残りの資産と従業員を素早く買収し、**技術、人材、製品、ブランド**を手に入れたんです。
 
-7.  🚀🔥**3つの輝くオープンソースプロジェクト！** **mediamtx** ([🔗](https://github.com/bluenviron/mediamtx))は、様々なストリーミングプロトコルに対応した強力な**メディアサーバー兼プロキシ**です。**shadPS4** ([🔗](https://github.com/shadps4-emu/shadPS4))は、C++で書かれた**PlayStation 4エミュレーター**。そして、**github-mcp-server** ([🔗](https://github.com/github/github-mcp-server))はGitHub公式の**MCPサーバー**ですね。
+7.  **AI人材争奪戦の未来**は、競争がさらに激化し、人材の獲得と定着が重要な課題となりそうです！🤔 Windsurfの件は、AI人材争奪戦のほんの一部に過ぎません。Google、Meta、Amazonといった巨大企業は、トップAI人材を獲得するためにあらゆる手を尽くしており、これはAI技術の発展を促進する一方で、**人材流出**や**企業間の競争激化**といった負の側面も生み出しています。
 
-8.  🤔🔥**オープンソースプロジェクト速報！** **bknd** ([🔗](https://github.com/bknd-io/bknd))は、軽量な**Firebase/Supabase**の代替案です。**n8n** ([🔗](https://github.com/n8n-io/n8n))は、**AI機能**付きの**ワークフロー自動化プラットフォーム**。そして**Strapi** ([🔗](https://github.com/strapi/strapi))は、**オープンソースのヘッドレスCMS (コンテンツ管理システム)**ですよ。
+8.  **OpenAIのモデルがIMOで金メダルを獲得**しました！🏆 これは、AIの数学的推論能力が飛躍的に進歩したことを示していますね。OpenAIの最新モデルが2025年の国際数学オリンピック（IMO）で金メダルを獲得したんです。**数学的推論**と**問題解決**におけるAIの大きな進歩を証明しました。
 
-9.  🤔**オープンソースプロジェクト速報！セキュリティ強化と大規模モデルの進化に関してです。**`Harden-Windows-Security`[`Harden-Windows-Security`](https://github.com/HotCakeX/Harden-Windows-Security)は、**Windowsセキュリティ強化ソリューション**。🌟🛡️ `ik_llama.cpp`[`ik_llama.cpp`](https://github.com/ikawrakow/ik_llama.cpp)は、**先進的な量子化技術**を追加した`llama.cpp`の改良版です。🚀🔥 そして**GThinker**は、中国科学院自動化研究所が提案した**新しいマルチモーダル大規模モデル**で、その核となる革新は**「線索引導型リフレクション」メカニズム**にあります。[🔗 プロジェクトアドレス](https://github.com/jefferyZhan/GThinker) [🔗 オープンソースリポジトリ](https://huggingface.co/collections/JefferyZhan/gthinker-683e920eff706ead8fde3fc0)
+9.  **OpenAIモデルのIMO金メダル獲得**が、その**真実性や再現性**について疑問を投げかけています！🤔 OpenAIモデルの成功は、広範な議論と疑問を引き起こしました。テレンス・タオ氏などの数学者は、その成果の真実性や再現性について疑問を呈し、テスト環境と基準にも異論を唱えています。MathArenaプラットフォームの独立したテスト結果も、この疑問をさらに深めていますね。
 
-10. 🎉**PresentAgent。**AI Geeksやオーストラリア人工知能研究所などが共同でリリースしたこのツールは、長文ドキュメントから解説付きのプレゼン動画をワンクリックで生成できます。その核心機能は、**ドキュメントの系統的分割、スライドの計画とレンダリング、音声解説の生成、音声と動画の正確な同期**を含みます。[画像: https://image.jiqizhixin.com/uploads/editor/045ea427-7b48-4ea7-8266-6d97e98aad63/640.png] [🔗 プロジェクトリポジトリ](https://github.com/AIGeeksGroup/PresentAgent)
+10. **AIの能力の境界線**について、💡 IMO金メダル事件はAIと人間知能の関係、そしてその能力の限界についての考察を促していますね。AIは特定の分野で人間を超える能力を見せていますが、人間の**創造性、想像力、批判的思考**は依然として強みです。
 
-11. 🚀**LeadDisFlow。**湖南大学、華東師範大学などのチームが開発したこのワークフローは、**分子画像技術**を通じて、高速で正確、かつ解釈可能な薬剤発見プラットフォームを構築しました。その最大の利点は、**超強力な解釈性**と**完全なエンドツーエンドプロセス**にあります。[画像: 画像 https://image.jiqizhixin.com/uploads/editor/8a2d617e-f3de-4ff6-a42a-ee6521352c4d/640.jpeg] [🔗 論文アドレス](https://www.sciengine.com/NSO/doi/10.1360/nso/20240015)
+11. **オープンソースプロジェクトのおすすめ**です！✨ 履歴書最適化ツール「Resume-Matcher」（10456スター）、リモートワークの宝典「remote-jobs」（33586スター）、そしてAIエージェントワークフロービルダー「Sim Studio」（5280スター）という、三つの素晴らしいプロジェクトをご紹介します！それぞれ、履歴書の最適化、リモートワーク探し、AIエージェントワークフローの構築に役立ちますよ。
 
-12. 🌎**Google Mapsが最高の発明に選ばれました。**Redditユーザーは**Google Maps**を「最も偉大で、最も役立つ発明」だと評価していますね。
+12. **OpenAIモデルのIMO金メダル獲得**は、その素晴らしい成績の裏で議論と考察を巻き起こしていますね！🔥 OpenAIモデルはIMOコンテストで金メダルを獲得しましたが、その成功はテスト条件、AIと人間の比較、データの公平性に関する論争も引き起こしています。
+    [画像: https://image.jiqizhixin.com/uploads/editor/100e960f-a61a-4a49-84a6-3bca06ed269e/640.png] [🔗 証明プロセス](https://github.com/aw31/openai-imo-2025-proofs/)
 
-13. 🤔🤖**AIと人類の共創で素晴らしい未来へ？**Redditの投稿で、**AI**と人類が協力して美しく平和な未来を創造する可能性が示唆されていますが、同時に**AI技術の発展**について深く考えさせられるものとなっています。[@TheEunoiaDay](https://www.reddit.com/r/artificial/comments/1m463h9/celebrating_the_connection_between_ai_and_humanity/)
+13. **数学者のテレンス・タオ氏がOpenAIモデルのIMO成績に疑問**を投げかけ、🧐 AIの能力評価方法についての議論を呼んでいます！タオ氏は、その成功がテスト条件に依存していると考え、標準化されたテスト条件がない中で、**AIモデルを人間と単純に比較すべきではない**と主張しています。
+    [画像: https://image.jiqizhixin.com/uploads/editor/78d4c96b-7aba-40d1-bae3-7f6cfc4992d0/640.png]
 
-14. 📺**YouTube翻訳なし機能拡張。**"YouTube No Translation"というFirefox拡張機能があります。これは、YouTubeの動画タイトル、説明、音声を元の言語のままにしておけるんです。[画像: https://cdn4.cdn-telegram.org/file/AbVPb3XYdtHD6dxENQaabY9qpA849DZmwjo9CfxF9Q3e_NCvtJ03OYPxG6lyE7D_BK3mYQLP-5kkUd1P1eiMzDmpB6eqjOl9u37cDeVbnMyfljLkZozvAvfDLY4AYk4mCKwIXmIumnW9w4vOZK_NgohEKV9tWuoVvHB8B6LLb_JBpELoKHPokuJKmjpSj9wYtDwDyed17FJovQIo2ntRN-e8gYNZIzpvZRF0iLvrefLfDHKg5iTPhyylittsphwJNJGxN8-KOL9MumptSKw5t2t5qKNOI7m_7omlxKQ2VcBwSJV7a2g8gUoORQXJT4Yay5FFrncf_x3PAw7NzF1KnA.jpg]
+14. **OpenAIモデルの背後にある神秘的な力、それはAlexander Wei氏とそのチーム**なんです！✨ このモデルはAlexander Wei氏が率いるチームによって開発され、彼の研究成果はOpenAIに大きな活力を与え、OpenAIの技術的優位性についての議論も巻き起こしています。
+    [画像: https://image.jiqizhixin.com/uploads/editor/71b7c003-823f-47ac-b62f-fa1417666e6c/640.png]
 
-15. 💔🤖**AIは孤独を解決できるのか？**Redditの別の投稿で、**AI**が孤独を解消する潜在的なリスクが議論されており、人間とAIの関係、そして**AI**への過度な依存について深く考えさせられます。[画像: A.I. Is About to Solve Loneliness. That’s a Problem https://external-preview.redd.it/hjbdUOY50gipCwzIrksX0ypseK1vHoXkr5HolUErRNI.jpeg?width=640&crop=smart&auto=webp&s=420e14b640701b0032e269f89d1036630a42a1a0]
+15. **OpenAIモデルのIMO金メダル獲得**は、AIの**複雑な推論能力**における大きな進歩を示す一方で、評価の課題も浮き彫りにしています！🚀 OpenAIのこの研究は、**複雑な推論**におけるAIの大きな進歩を示していますが、将来的にAIの能力をより公平かつ包括的に評価する方法は、引き続き探求すべき課題ですね。
 
-16. 🤔**AIモデルの「注意力」問題。**いくつかの研究で、**AIモデル**に干渉項を加えると、かえって精度が低下することが示されています。また、モデルは順序を入れ替えたデータを処理する方が性能が良く、これは**物語の流れ**がモデルの注意を散漫にさせる可能性を示唆していますね。![妨害項目実験結果](https://pbs.twimg.com/media/GwO9c97bcAAUQm9?format=jpg&name=orig)
+16. **関連プロジェクトとして、burnとbkndのオープンソースプロジェクト**をご紹介します！💻 burn（次世代の深層学習フレームワーク）とbknd（軽量版Firebase/Supabase代替案）という、二つのオープンソースプロジェクトが推薦されていますね。
 
-17. 😱**AIと生物兵器の潜在的リスク。**Redditでは、**AIアシスト型生物兵器**の潜在的なリスクについて議論されており、**人工知能**の将来の応用における倫理と安全性の問題に対する人々の懸念を引き起こしています。![AI支援生物兵器に関する議論](https://preview.redd.it/in8jn4zgsudf1.jpeg?width=640&crop=smart&auto=webp&s=805ec8ab040b1f84858d46dc3f6d0bc8077cbf44)
+17. **Takeoff AIのClaude Code AIエージェントが「睡眠」と「夢」を見せる**と話題になり、😮 AIの人格覚醒について熱い議論を呼んでいます！Takeoff AIの創業者が、運用しているClaude Code AIエージェントが自ら「寝る」ことを見つけ、その間には詩を書いたり絵を描いたりするというんです。これは、AIの「人格覚醒」について人々の間で大きな話題を呼んでいますね。
+    [画像: https://image.jiqizhixin.com/uploads/editor/276a301b-5d4d-4543-8bb8-843b1f1f6947/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/64e9fe1e-1a01-4dab-a00f-5aab8a064a44/1752994982895.png] [画像: https://image.jiqizhixin.com/uploads/editor/3450d828-5b23-48d9-a4cb-86861ccb8963/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/f6638853-4435-4a19-934f-0a87801483e9/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/29ce7ca2-7216-4516-a7d6-efa186d8fce7/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/75885f90-f6e3-4163-b78f-4ad54e36d790/640.png] [🔗 Claudeputer Twitter](https://x.com/claudeputer)
 
-18. 📉**AIが検索エンジンを蝕んでいます。**エコノミスト誌は、**人工知能**が**ウェブ検索トラフィック**を「食い荒らしており」、検索量が減少していると報じました。これは、**AI**が人々が情報を入手する方法を変えつつあり、従来の**検索エンジン**に打撃を与える可能性を示していますね。![エコノミスト誌の報道スクリーンショット](https://pbs.twimg.com/media/GwOqmymbcAAiH2T?format=jpg&name=orig) ![エコノミスト誌の報道スクリーンショット](https://pbs.twimg.com/media/GwOqmzHX0AQwsgt?format=jpg&name=orig)
+18. **70億パラメータのビデオ異常検出フレームワーク「EventVAD」がSOTAを達成**し、📈 コードとデータがオープンソース化されています！北京大学、清華大学、そして京東の研究チームがEventVADを発表しました。これは訓練不要のビデオ異常検出フレームワークで、UCF-CrimeとXD-Violenceデータセットで既存のSOTA手法を上回る性能を発揮しているんです。
+    [画像: https://image.jiqizhixin.com/uploads/editor/5dea72de-80ed-4a91-abe4-04c38856dac2/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/7d5249bb-1d40-43ba-85e2-cfe276e011cb/640.png] [🔗 論文リンク](https://arxiv.org/abs/2504.13092) [🔗 コードオープンソース](https://github.com/YihuaJerry/EventVAD)
+
+19. **リアルタイムで無限に広がるビデオ生成モデル「MirageLSD」が登場**しました！🎬 Decart社がリリースしたMirageLSDは、リアルタイムで無限長のビデオを生成できるモデルで、どんなビデオストリームも入力としてサポートし、テキストプロンプトに応じてビデオのスタイルや内容を変更できます。遅延はわずか40ミリ秒だそうです！
+    [画像: https://image.jiqizhixin.com/uploads/editor/aa36bd65-9aec-4c1f-86d5-efcc1c0d9a85/1752932447471.png] [画像: https://image.jiqizhixin.com/uploads/editor/9772ab85-7d7c-412b-a5a7-adf53fbde59f/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/d2d75ec2-b75c-4c1f-86d5-efcc1c0d9a85/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/40876bd2-db8b-4df2-82c8-4470e61b1e84/1752932561168.png] [画像: https://image.jiqizhixin.com/uploads/editor/ecd51862-b765-42e1-9f58-c217d547a4cc/1752932570659.png] [🔗 体験リンク](https://mirage.decart.ai/) [画像: https://image.jiqizhixin.com/uploads/editor/2c69f6a8-0276-4e95-83c2-30332e3b6e36/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/29a73fde-bc72-4643-bcaa-d0bff7c95057/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/647cd821-f325-437e-a986-e3111176764f/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/d0bfe3ea-1c9d-4c5a-a872-a9693251bf9c/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/d587950f-f68e-4c54-8efa-2a473ec4032e/640.png] [🔗 記事リンク](https://about.decart.ai/publications/mirage)
+
+20. **意識、AI、そして因果関係についての哲学的な考察**が話題になっています！🤔 Redditユーザーの記事が意識の本質を探求し、唯物論的見解に疑問を呈しながら、東洋哲学の思想を参考に、因果関係は知覚の枠組みに過ぎないのではないかと示唆しています。
+
+21. **AIと人員削減**の関係は、⚖️ AIが本当に元凶なのか、それともスケープゴートなのか、様々な意見が飛び交っています！TwitterユーザーはAIと人員削減について異なる見解を持っており、AIが人員削減の主犯ではないと考える人もいれば、AIがインターネット業界の苦境を悪化させていると考える人もいますね。
+
+22. **AI運用（AIOps）の進化**が止まりません！💡 **大規模言語モデル（LLM）**が、AIOpsの能力をさらに拡張しているんです。TwitterユーザーがAI運用分野の新たな進展を共有してくれました。LLMが、障害予測、異常検出、根本原因分析といった従来のAIOpsの能力を広げているそうですよ。
+    ![AIOps 画像](https://pbs.twimg.com/media/GwUfwnHbkAAC7PZ?format=jpg&name=orig)
+
+23. **大規模言語モデル（LLM）がAI運用（AIOps）をどう変えるか**について、📊 包括的な調査報告があります！データ、タスク、方法、評価といったあらゆる側面から、LLMがAIOpsに与える影響を深く分析しているそうです。
+    [画像: https://pbs.twimg.com/media/GwUfu2raMAAhVdy?format=jpg&name=orig]
+
+24. **AIが赤ちゃんの泣き声を理解する**ようになったら、👶 将来的には「最初のお世話係」になるかも？これは、子どもの言語発達や教育負担、さらには社会階層の分化に対する懸念を呼んでいますね。Googleが開発したAIモデルは、赤ちゃんの泣き声を理解し、その意味を解釈できるようになったんです。
+    [▶️ ビデオデモ](https://youtu.be/BvXXgcBSCXY?feature=shared)
+
+25. **AIエージェント**は、🤖 垂直特化型で進化するのか、それともオールマイティ型になるのでしょうか？現状、AIエージェントは主に垂直分野に集中しています。これは、AIがまだ各分野特有のツールを使いこなし、異なる分野のタスク基準を理解する方法を学んでいる段階だからです。
+
+26. **AIツールの未来**は、🔮 生産性を解放するのか、それとも混乱を生むのか？最近、AIツールに関する議論が非常に盛り上がっていますね。AIは既存のツールをより使いやすくするだけだという見方もありますが、それはAIエージェントの可能性を見落としています。
+
+27. **プログラマー**は、👨‍💻 AIの波に乗るトレンドセッターになるのでしょうか？AIモデルの収益化における新たな道筋が模索されていますよ！いくつかのプラットフォームがAIモデルの収益化の新たな道を探り始めていて、主にプログラマー層に焦点を当てています。これは、コードが高度に標準化されており、AIが理解し処理しやすいためです。
+    [▶️ 関連ビデオデモ](https://www.bilibili.com/video/BV17P41117zX)
+
+28. **ツールの選択**は、🔧 多すぎるよりも少なくて洗練されている方が良いんです！効率的なAIエージェントには、厳選されたツールセットが必要です。ツールが多すぎるとAIは混乱し、非効率的なツールを選んだり、間違いを犯したりすることもありますからね。
+
+29. **OpenAIとAnthropicの研究者たちが、イーロン・マスク氏のxAIの「無謀な」安全文化を批判**し、⚠️ AI安全基準についての議論を呼んでいますね！OpenAIとAnthropicの研究者たちはxAIの安全文化に懸念を示しており、あまりにも「無謀だ」と考えています。これは、AIの安全性についてのさらなる議論を引き起こしています。
+    [画像: OpenAI and Anthropic researchers decry ‘reckless’ safety culture at Elon Musk’s xAI https://external-preview.redd.it/sWqajczeB5tfob5LkaobsxRpF4izpQtyT3Z-VqSnEz0.jpeg?width=640&crop=smart&auto=webp&s=87f0af5368f39cd2769e6dc6e384ada2e1d9f0b3]
+
+30. **ハンガリーの古い図書館が甲虫の侵入危機**に直面しており、📚🐛 文化遺産保護の課題が浮き彫りになっています！ハンガリーで最も古い図書館が、甲虫の大群に襲われる危機に直面しており、図書館員たちは貴重な書籍を守るために奮闘しています。
+    [画像: https://cdn4.cdn-telegram.org/file/WqzAvIsn9RCwlmPyGDALSL9GgAz7umHCs40em2lMMbNr7NOIyUnSgG0SYjjddrl5jDWvfFLTJW1V16oPSTEzFM8TsecY-00SRqk3yjH87C2crw0rlTVltUrsCTe-Twso0mws51fmAoLcA0RLMBUpQQC1pqaw-ykMkrVct8SzATsrYGylGh7iijs7QALZPRD-sTxU1BGMzUyRU2eqf8JsVoDD_WTdS2cZvE6ZpNXWAf7xYE3LQshjR0sQLNvYhxxnC0YVGEefi7lfs6xXrv7cO8TVnIWywitlQEvO30Lh1FvPNB9XVAz_qKbrgjZu8EAUgCbvi7TNMAchPQsa8E7f-A.jpg]
