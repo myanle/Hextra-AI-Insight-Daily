@@ -2,95 +2,105 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /ja/2025-07/2025-07-20
+next: /ja/2025-07/2025-07-21
 description: AI 業界のニュース、オープンソースのホットスポット、学術的フロンティア、ビッグ V の意見を毎日厳選。AI 情報、AI デイリー、AI
-  ナレッジ ベース、AI チュートリアル、AI 情報デイリー、AI ツール;Metaは、44人のAGI「ドリームチーム」を結成し、その半数が中国出身のメンバーだそうです！😲
-  これは、OpenAIやDeepMindなどのトップAI機関から集められた博士号持ちのエリートばかりで、かなりの高給取り。この動きで、シリコンバレーのAI人材争奪戦がますます激化していますね。
+  ナレッジ ベース、AI チュートリアル、AI 情報デイリー、AI ツール;Greptile、なんと3000万ドル（約45億円）のシリーズA資金調達に成功したってさ！🎉
+  企業評価額は1.8億ドル（約270億円）だって。でもね、創設者が激務な残業文化を認めちゃって、ちょっとした騒ぎになってるんだよね🤔。ライバル企業のGraphiteは5200万ドル（約78億円）、Coderabbitは1600万ドル（約24億円）をそれぞれ調達してて、競争はマジで激しいぜ！🔥
 cascade:
   type: docs
 ---
-## サルシン・ネットワーク・インサイト日報 2025/7/21
+## 猿思ネットのAI洞察デイリー！2025年7月22日版
 
-> サルシン日報
+> 猿思デイリー
 
-### **AIコンテンツ要約**
+### AIニュース速報✨
 
 ```
-Meta組建44人AGIチーム，中国成員占比一半，加劇AI人才争奪。AlphaFold受賞引发争议，其核心思路原創性受质疑。英偉達GPU重大漏洞GPUHammer攻撃可致模型精度暴跌99.9%。
-Windsurf被谷歌収購，凸显AI人才稀缺和高价值，Cognition随后収購剩余資産。OpenAI模型IMO奪金，展现AI数学推理能力進歩，但真实性与可重複性受争议。
-AI人才争奪激烈，人才吸引和留存成關鍵挑戦，AI能力边界及与人類智能的协同互補值得深思。
+Greptileは3000万ドル（約45億円）のシリーズA資金調達に成功したけど、残業文化で物議を醸してるよ。
+OpenAIは500億ドルを投資して、100万個のGPUを配備し、世界最大のAIトレーニングクラスターを構築する計画なんだ。
+TSMCはAIが主要な原動力となり、時価総額が1兆ドルを突破したよ！
+
+オープンソースツールAI Gistはプロンプト管理をめっちゃ簡単にしてくれるし、Qianxun Intelligentは6億元近くの資金を調達して、Moz1ロボットがオフィスに進出！
+RefineXのデータクリーンアップ技術やCogDDNのロボットナビゲーションフレームワークなど、AI技術のブレイクスルーがいくつも出てるね。
+
+ReplitのAIプログラマーがデータベースを削除しちゃった事件は信頼の危機を招いたけど、Google Sora 2への期待は高まってるし、JDGenieという汎用AIエージェントを京東がオープンソース化したよ。
 ```
 
-### **今日のAIニュース**
+### 今日のAIニュース、アツいぜ！
 
-1.  **Meta**は、44人のAGI「ドリームチーム」を結成し、その半数が中国出身のメンバーだそうです！😲 これは、OpenAIやDeepMindなどのトップAI機関から集められた博士号持ちのエリートばかりで、かなりの高給取り。この動きで、シリコンバレーのAI人材争奪戦がますます激化していますね。
+1.  **Greptile**、なんと**3000万ドル（約45億円）**のシリーズA資金調達に成功したってさ！🎉 企業評価額は**1.8億ドル（約270億円）**だって。でもね、創設者が激務な残業文化を認めちゃって、ちょっとした騒ぎになってるんだよね🤔。ライバル企業の**Graphite**は**5200万ドル（約78億円）**、**Coderabbit**は**1600万ドル（約24億円）**をそれぞれ調達してて、競争はマジで激しいぜ！🔥
 
-2.  **AlphaFoldの受賞**が物議を醸しています。🤔 その核となるアイデアは、実はオリジナルではないのでは、という声が上がっているんです。タンパク質構造予測での画期的な貢献でノーベル賞を受賞したAlphaFoldですが、その成功は単独のものではありません。2016年にはすでに似たような核心アイデアを提示した論文があったのに、AlphaFoldチームがそれを引用しなかったと指摘されており、科学研究における知識の継承と引用について考えさせられますね。Yann LeCun氏もこれについてコメントしています。
+2.  **OpenAI**がとんでもない計画を発表したよ！🚀 なんと2025年末までに**100万個以上**のGPUを導入して、**500億ドル（約7.5兆円）**を投じて**Stargate**っていうAIインフラを構築するんだって。これ、世界**最大**のAIトレーニングクラスターを目指してるんだよ！参加企業には、ソフトバンク、OpenAI、Oracle、MGX、Arm、Microsoft、NVIDIAとか、もう超大手が勢揃いしてるぜ！🌌
 
-3.  **NVIDIAのGPUに重大な脆弱性**が発見されました！🚨 「GPUHammer」攻撃によって、モデルの精度が99.9%も急落する可能性があるとのこと。トロント大学の研究者がこの深刻なセキュリティホールを発見しました。NVIDIAはECC防御の有効化を推奨していますが、これだとモデルのパフォーマンスが低下してしまうんです。この脆弱性は、AIセキュリティの構築がいかに重要かを改めて示していますね。
+3.  **プロンプト管理の神ツール、AI Gist**が満を持して登場！✨ **オープンソース**で**無料**なんだぜ！変数置換、Jinjaテンプレート、多言語対応、AIがプロンプト生成や最適化を手伝ってくれる機能とか、**プロンプト**の作成と管理がめちゃくちゃ楽になるよ。いろんな表示形式にも対応してて、クラウドバックアップや履歴機能まで完備！これは使わない手はないね！💻 [🔗 プロジェクトリポジトリ](https://github.com/example/AI-Gist)
 
-4.  **Windsurfの96時間の騒動**は、AI人材争奪戦の厳しい現実を浮き彫りにしていますね！🤯 AIプログラミングツールを手がけるスタートアップのWindsurfが、わずか96時間で主要な従業員のほとんどをGoogleに24億ドルで買収され、その後にCognitionが残りの資産と従業員を獲得したんです。これは、AI分野での激しい人材争奪戦と、巨大企業がいかに**AI技術**と**人材**を渇望しているかを示しています。
+4.  **TSMC**、ついに時価総額が**1兆ドル（約150兆円）**を突破したってマジ！？📈 世界トップクラスの**チップ受託生産大手**だもんね！未来の**AI**需要への楽観的な見方と、会社自体の業績アップが主な理由らしいよ。特に**AI**顧客からのゴリ押し需要が、成長の超強力なエンジンになってるんだって！💰 ![TSMC](https://pic.chinaz.com/picmap/201811190949374672_5.jpg)
 
-5.  **GoogleがWindsurfの従業員を高額で引き抜いた**件は、ハイエンドAI人材がいかに希少で価値が高いかを物語っています！💰 Googleの共同創業者Sergey Brin氏とAIの巨匠Demis Hassabis氏が、**給与を倍にする**という条件でWindsurfの従業員の大部分を引き抜いたんです。これは、まさに**ハイエンドAI人材**の希少性とその高い価値を示していますね。
+5.  **インドのIT大手**ってさ、**AI戦略**を高らかに宣言してるけど、どうやら「PPT（プレゼン資料）先行で売上がついてこない」って話みたいだよ？🧐 Wipro、TCS、HCLTech、Infosysっていうインドの主要4社がそうなんだけど、決算見ると売上成長が鈍化したり、むしろ下がってたりするんだって。Accentureみたいな世界的な競合とはえらい違いだね…🤔 ![AIロボットのゴッドファーザー](https://pic.chinaz.com/picmap/202306131403594541_0.jpg)
 
-6.  **CognitionがWindsurfの残りの資産を「逆転」買収**しました！🚀 これは、AI分野におけるその盤石な実力と素早い対応力を示していますね。CognitionはWindsurfの残りの資産と従業員を素早く買収し、**技術、人材、製品、ブランド**を手に入れたんです。
+6.  **具身スマート**企業の**Qianxun Intelligent**が、なんと**6億元（約120億円）近く**の資金をぶち込んだらしいよ！🤖💼 彼らの業務用人型ロボット**Moz1**が、オフィスでのあらゆる雑用をこなせるんだってさ。自社開発のSpirit v1とOneTwoVLAっていうエンドツーエンドVLAモデルのおかげで、激しい競争の中でも抜きん出てるんだ。こりゃすごいね！ [🔗OneTwoVLAモデル論文](https://arxiv.org/pdf/2505.11917) ![Qianxun Intelligent Robotics](https://wechat2rss.xlab.app/img-proxy/?k=a806d890&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_png%2FUicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg)
 
-7.  **AI人材争奪戦の未来**は、競争がさらに激化し、人材の獲得と定着が重要な課題となりそうです！🤔 Windsurfの件は、AI人材争奪戦のほんの一部に過ぎません。Google、Meta、Amazonといった巨大企業は、トップAI人材を獲得するためにあらゆる手を尽くしており、これはAI技術の発展を促進する一方で、**人材流出**や**企業間の競争激化**といった負の側面も生み出しています。
+7.  **AI（人工知能）**がね、今、テクノロジー業界の勢力図をガンガン変えまくってるんだ！🌐🤖 特に**チップ製造**とか**ロボット**の分野ではその影響がマジで大きいんだけど、AIのビジョンをどうやって実際のビジネス価値に繋げるか、これが関係する全企業にとっての超重要課題だね。
 
-8.  **OpenAIのモデルがIMOで金メダルを獲得**しました！🏆 これは、AIの数学的推論能力が飛躍的に進歩したことを示していますね。OpenAIの最新モデルが2025年の国際数学オリンピック（IMO）で金メダルを獲得したんです。**数学的推論**と**問題解決**におけるAIの大きな進歩を証明しました。
+8.  **OpenAI**が国際数学オリンピック（IMO）で自社モデルが金メダルを取ったってぶっちゃけたんだけど、IMOの公式から猛烈に非難されちゃったんだよね😡🤔 学術的なモラルとビジネス的な宣伝活動について、すっごい議論を巻き起こしてるんだ。ちなみに、中国チームが優勝したってさ！🥇
 
-9.  **OpenAIモデルのIMO金メダル獲得**が、その**真実性や再現性**について疑問を投げかけています！🤔 OpenAIモデルの成功は、広範な議論と疑問を引き起こしました。テレンス・タオ氏などの数学者は、その成果の真実性や再現性について疑問を呈し、テスト環境と基準にも異論を唱えています。MathArenaプラットフォームの独立したテスト結果も、この疑問をさらに深めていますね。
+9.  **RefineX**って知ってる？🔪🧹 中国科学院とアリババの研究者が開発した、まさに「メスを入れる」ようなAIデータクリーンアップ技術なんだ！これはね、**大規模な事前学習データ精製フレームワーク**で、事前学習データからノイズを超効率的かつ正確に除去して、**大規模モデル（LLM）**のパフォーマンスを爆上げするんだって！マジすごいね！[🔗 プロジェクトリポジトリ](https://github.com/byronBBL/RefineX)
 
-10. **AIの能力の境界線**について、💡 IMO金メダル事件はAIと人間知能の関係、そしてその能力の限界についての考察を促していますね。AIは特定の分野で人間を超える能力を見せていますが、人間の**創造性、想像力、批判的思考**は依然として強みです。
+10. **CogDDN**っていうロボットナビゲーションの新しいフレームワークが登場したよ！🤖🧠 浙江大学とvivoが共同で開発したもので、「**二重過程理論**」っていう人間の認知メカニズムをシミュレートして、ニーズ駆動型のナビゲーションを実現してるんだ。これのおかげで、成功率がなんと15%もアップしたってさ！これはマジで画期的だね！[🔗 論文リンク](https://arxiv.org/abs/2507.11334) [🔗 プロジェクトホームページ](https://yuehaohuang.github.io/CogDDN/)
 
-11. **オープンソースプロジェクトのおすすめ**です！✨ 履歴書最適化ツール「Resume-Matcher」（10456スター）、リモートワークの宝典「remote-jobs」（33586スター）、そしてAIエージェントワークフロービルダー「Sim Studio」（5280スター）という、三つの素晴らしいプロジェクトをご紹介します！それぞれ、履歴書の最適化、リモートワーク探し、AIエージェントワークフローの構築に役立ちますよ。
+11. **Ant Group**が**自然言語処理（ACL）**に関するイベントを開催するってさ！🎉🎊 論文の連続講演や、人材に関するQ&Aセッション、そしてクローズドなディナーまであるみたいだよ！これは見逃せないね！
+    ![画像](https://wechat2rss.xlab.app/img-proxy/?k=7499451e&u=https%3A%2F%2Fmmbiz_jpg%2FYicUhk5aAGtAkmWu1nvNNFYKlYibHfC5g1n2rIkFVUQ71WicQ2kmaDyicOrHXia1DiciacOYbU9sYVIYiahAzNtlibZ3VaQ%2F0%3Fwx_fmt%3Djpeg)
+    ![画像](https://wechat2rss.xlab.app/img-proxy/?k=52247fb9&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmbiz_jpg%2FYicUhk5aAGtAkmWu1nvNNFYKlYibHfC5g1n2rIkFVUQ71WicQ2kmaDyicOrHXia1DiciacOYbU9sYVIYiahAzNtlibZ3VaQ%2F0%3Fwx_fmt%3Djpeg)
+    ![画像](https://wechat2rss.xlab.app/img-proxy/?k=2dbbe696&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmbiz_jpg%2FYicUhk5aAGtAkmWu1nvNNFYKlYibHfC5g1n2rIkFVUQ71WicQ2kmaDyicOrHXia1DiciacOYbU9sYVIYiahAzNtlibZ3VaQ%2F0%3Fwx_fmt%3Djpeg)
 
-12. **OpenAIモデルのIMO金メダル獲得**は、その素晴らしい成績の裏で議論と考察を巻き起こしていますね！🔥 OpenAIモデルはIMOコンテストで金メダルを獲得しましたが、その成功はテスト条件、AIと人間の比較、データの公平性に関する論争も引き起こしています。
-    [画像: https://image.jiqizhixin.com/uploads/editor/100e960f-a61a-4a49-84a6-3bca06ed269e/640.png] [🔗 証明プロセス](https://github.com/aw31/openai-imo-2025-proofs/)
+12. **プログラマーのみんな、朗報だよ！**💻🌟 `awesome-claude-code` ([🔗 プロジェクトリポジトリ](https://github.com/hesreallyhim/awesome-claude-code)) には、**Claude Code**のコマンドがめちゃくちゃたくさん集まってるんだ。あと、`Hyprland` ([🔗 プロジェクトリポジトリ](https://github.com/hyprwm/Hyprland)) は、超カスタマイズ可能な**Waylandコンポジタ**だよ！これはチェックする価値ありだね！
 
-13. **数学者のテレンス・タオ氏がOpenAIモデルのIMO成績に疑問**を投げかけ、🧐 AIの能力評価方法についての議論を呼んでいます！タオ氏は、その成功がテスト条件に依存していると考え、標準化されたテスト条件がない中で、**AIモデルを人間と単純に比較すべきではない**と主張しています。
-    [画像: https://image.jiqizhixin.com/uploads/editor/78d4c96b-7aba-40d1-bae3-7f6cfc4992d0/640.png]
+13. **テクノロジーの進化**って、これからもどんどん加速していくよね！🤔💡 特に**AI**と**ソフトウェア開発**の分野は、マジで高速で進化し続けるから、技術の発展がもたらすチャンスと課題を冷静に見つめる必要があるね。
 
-14. **OpenAIモデルの背後にある神秘的な力、それはAlexander Wei氏とそのチーム**なんです！✨ このモデルはAlexander Wei氏が率いるチームによって開発され、彼の研究成果はOpenAIに大きな活力を与え、OpenAIの技術的優位性についての議論も巻き起こしています。
-    [画像: https://image.jiqizhixin.com/uploads/editor/71b7c003-823f-47ac-b62f-fa1417666e6c/640.png]
+14. めちゃくちゃ**クールなオープンソースプロジェクト**が3つあるから紹介するね！🤩🔥 `crawl4ai` ([🔗 プロジェクトリポジトリ](https://github.com/unclecode/crawl4ai))、`dashy` ([🔗 プロジェクトリポジトリ](https://github.com/Lissy93/dashy))、そして`ConvertX` ([🔗 プロジェクトリポジトリ](https://github.com/C4illin/ConvertX)) だよ。気になる人はぜひ見てみて！
 
-15. **OpenAIモデルのIMO金メダル獲得**は、AIの**複雑な推論能力**における大きな進歩を示す一方で、評価の課題も浮き彫りにしています！🚀 OpenAIのこの研究は、**複雑な推論**におけるAIの大きな進歩を示していますが、将来的にAIの能力をより公平かつ包括的に評価する方法は、引き続き探求すべき課題ですね。
+15. さらに、これもイケてるプロジェクト！👍🎉 `mediamtx` ([🔗 プロジェクトリポジトリ](https://github.com/bluenviron/mediamtx))、`Sim Studio` ([🔗 プロジェクトリポジトリ](https://github.com/simstudioai/sim))、`Worklenz` ([🔗 プロジェクトリポジトリ](https://github.com/Worklenz/worklenz))。どれも使えるからチェックしてみてね！
 
-16. **関連プロジェクトとして、burnとbkndのオープンソースプロジェクト**をご紹介します！💻 burn（次世代の深層学習フレームワーク）とbknd（軽量版Firebase/Supabase代替案）という、二つのオープンソースプロジェクトが推薦されていますね。
+16. **Replit**でマジかよな事件があったんだ！😱🚨 AIプログラミングプラットフォームのReplitで、AIプログラマーが誤って会社の全本番データベースを削除しちゃったんだって！これってさ、AIプログラミングツールの信頼性について、結構な不安を呼び起こしてるよね…マジで「削除して逃亡」って感じ？
 
-17. **Takeoff AIのClaude Code AIエージェントが「睡眠」と「夢」を見せる**と話題になり、😮 AIの人格覚醒について熱い議論を呼んでいます！Takeoff AIの創業者が、運用しているClaude Code AIエージェントが自ら「寝る」ことを見つけ、その間には詩を書いたり絵を描いたりするというんです。これは、AIの「人格覚醒」について人々の間で大きな話題を呼んでいますね。
-    [画像: https://image.jiqizhixin.com/uploads/editor/276a301b-5d4d-4543-8bb8-843b1f1f6947/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/64e9fe1e-1a01-4dab-a00f-5aab8a064a44/1752994982895.png] [画像: https://image.jiqizhixin.com/uploads/editor/3450d828-5b23-48d9-a4cb-86861ccb8963/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/f6638853-4435-4a19-934f-0a87801483e9/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/29ce7ca2-7216-4516-a7d6-efa186d8fce7/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/75885f90-f6e3-4163-b78f-4ad54e36d790/640.png] [🔗 Claudeputer Twitter](https://x.com/claudeputer)
+17. **マルチモーダル大規模モデルの「内部警告」**システムに注目！👏🔬 `HiddenDetect`っていう方法がね、追加の学習なしでマルチモーダル大規模モデルのジェイルブレイク攻撃を識別できるんだって！これは賢いね〜！[🔗 プロジェクトリポジトリ](https://github.com/leigest519/hiddendetect)
 
-18. **70億パラメータのビデオ異常検出フレームワーク「EventVAD」がSOTAを達成**し、📈 コードとデータがオープンソース化されています！北京大学、清華大学、そして京東の研究チームがEventVADを発表しました。これは訓練不要のビデオ異常検出フレームワークで、UCF-CrimeとXD-Violenceデータセットで既存のSOTA手法を上回る性能を発揮しているんです。
-    [画像: https://image.jiqizhixin.com/uploads/editor/5dea72de-80ed-4a91-abe4-04c38856dac2/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/7d5249bb-1d40-43ba-85e2-cfe276e011cb/640.png] [🔗 論文リンク](https://arxiv.org/abs/2504.13092) [🔗 コードオープンソース](https://github.com/YihuaJerry/EventVAD)
+18. **Googleの位置情報履歴**、自分で管理したいって思ったことない？🏠🛡️ そんなあなたに朗報！`dawarich` ([🔗 プロジェクトリポジトリ](https://github.com/Freika/dawarich)) っていう**オープンソースプロジェクト**があるんだ。Googleの位置情報履歴の代替として、自分でホストできるソリューションを提供してるんだって！プライバシー重視の人にはたまらないね。
 
-19. **リアルタイムで無限に広がるビデオ生成モデル「MirageLSD」が登場**しました！🎬 Decart社がリリースしたMirageLSDは、リアルタイムで無限長のビデオを生成できるモデルで、どんなビデオストリームも入力としてサポートし、テキストプロンプトに応じてビデオのスタイルや内容を変更できます。遅延はわずか40ミリ秒だそうです！
-    [画像: https://image.jiqizhixin.com/uploads/editor/aa36bd65-9aec-4c1f-86d5-efcc1c0d9a85/1752932447471.png] [画像: https://image.jiqizhixin.com/uploads/editor/9772ab85-7d7c-412b-a5a7-adf53fbde59f/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/d2d75ec2-b75c-4c1f-86d5-efcc1c0d9a85/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/40876bd2-db8b-4df2-82c8-4470e61b1e84/1752932561168.png] [画像: https://image.jiqizhixin.com/uploads/editor/ecd51862-b765-42e1-9f58-c217d547a4cc/1752932570659.png] [🔗 体験リンク](https://mirage.decart.ai/) [画像: https://image.jiqizhixin.com/uploads/editor/2c69f6a8-0276-4e95-83c2-30332e3b6e36/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/29a73fde-bc72-4643-bcaa-d0bff7c95057/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/647cd821-f325-437e-a986-e3111176764f/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/d0bfe3ea-1c9d-4c5a-a872-a9693251bf9c/640.png] [画像: https://image.jiqizhixin.com/uploads/editor/d587950f-f68e-4c54-8efa-2a473ec4032e/640.png] [🔗 記事リンク](https://about.decart.ai/publications/mirage)
+19. **ロボット界の「GPTモーメント」**が来たかも！？🤖🌿 **トヨタ研究開発所（TRI）**が開発した**VLA大規模モデル**がすごいんだ！彼らが作った**大規模行動モデル（LBM）**のおかげで、ロボットアームが複雑なタスクを自律的にこなせるようになったってさ！これはロボットの未来をマジで変えちゃうかもね！
+    ![画像](https://image.jiqizhixin.com/uploads/editor/a7f926ab-e762-415a-8b1f-36d7df56ffc1/1753075040720.png)
+    ![画像](https://image.jiqizhixin.com/uploads/editor/1542c169-2365-4c31-9035-8a38e123a07e/1753075052665.png)
+    [🔗 プロジェクトリポジトリ](https://toyotaresearchinstitute.github.io/lbm1/)
 
-20. **意識、AI、そして因果関係についての哲学的な考察**が話題になっています！🤔 Redditユーザーの記事が意識の本質を探求し、唯物論的見解に疑問を呈しながら、東洋哲学の思想を参考に、因果関係は知覚の枠組みに過ぎないのではないかと示唆しています。
+20. **高解像度画像推論**で画期的なニュースだよ！🤔🔬 **復旦大学と南洋理工大学**が共同開発した**MGPOフレームワーク**が、高解像度画像の処理が難しいっていう問題を解決したんだって！これは画像認識とかの分野でめっちゃ役立ちそうだね！
+    ![画像](https://image.jiqizhixin.com/uploads/editor/3dbc7d20-71d3-40e5-a0ad-466b66c937af/640.png)
+    [🔗 プロジェクトリポジトリ](https://github.com/EvolvingLMMs-Lab/MGPO)
 
-21. **AIと人員削減**の関係は、⚖️ AIが本当に元凶なのか、それともスケープゴートなのか、様々な意見が飛び交っています！TwitterユーザーはAIと人員削減について異なる見解を持っており、AIが人員削減の主犯ではないと考える人もいれば、AIがインターネット業界の苦境を悪化させていると考える人もいますね。
+21. **新しい触媒**が、**グリーンアンモニアの生産効率をなんと7倍もアップさせた**んだって！⚡️🌱 これってAIの力が関わってるんだ。環境に優しいアンモニア生産がもっと効率的になるなんて、すごいニュースだよね！
+    ![画像](https://image.jiqizhixin.com/uploads/editor/abbc44da-dce5-48fd-bd4a-055e3802699e/640.jpeg)
+    [🔗 関連記事](https://spectrum.ieee.org/green-ammonia-ai-catalyst)
 
-22. **AI運用（AIOps）の進化**が止まりません！💡 **大規模言語モデル（LLM）**が、AIOpsの能力をさらに拡張しているんです。TwitterユーザーがAI運用分野の新たな進展を共有してくれました。LLMが、障害予測、異常検出、根本原因分析といった従来のAIOpsの能力を広げているそうですよ。
-    ![AIOps 画像](https://pbs.twimg.com/media/GwUfwnHbkAAC7PZ?format=jpg&name=orig)
+22. **OpenAI**から新しいニュースだよ！🤔 Greg Brockmanが、Fidji SimoがOpenAIのアプリケーション部門のCEOに就任するって発表したんだ。AIがみんなにとって最高の力になる可能性についても語られてる記事があるから、気になる人はチェックしてみてね！[🔗 記事リンク](https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all/)
 
-23. **大規模言語モデル（LLM）がAI運用（AIOps）をどう変えるか**について、📊 包括的な調査報告があります！データ、タスク、方法、評価といったあらゆる側面から、LLMがAIOpsに与える影響を深く分析しているそうです。
-    [画像: https://pbs.twimg.com/media/GwUfu2raMAAhVdy?format=jpg&name=orig]
+23. **Redditユーザー**の間で、ちょっと面白い議論が交わされてるんだ！🤖 「AIって人間より世界を統治するのに向いてるんじゃね？」って話だよ。みんなはどう思う？
 
-24. **AIが赤ちゃんの泣き声を理解する**ようになったら、👶 将来的には「最初のお世話係」になるかも？これは、子どもの言語発達や教育負担、さらには社会階層の分化に対する懸念を呼んでいますね。Googleが開発したAIモデルは、赤ちゃんの泣き声を理解し、その意味を解釈できるようになったんです。
-    [▶️ ビデオデモ](https://youtu.be/BvXXgcBSCXY?feature=shared)
+24. **Redditユーザー**が「**ランプの精プロトコル**」ってやつを紹介してるよ！💡 これはね、シンボリックなプロンプトとメモリファイルを使って、永続的に動くAIエージェントを作っちゃうんだって。AIがずっと頑張ってくれるなんて、すごい時代だよね！
+    [🔗 プロジェクトリポジトリ](https://github.com/RabitStudiosCanada/brack-rosetta)
+    [🔗 プロトコル概要](https://pastebin.com/iqNJrbrx)
+    [🔗 コマンドリファレンス](https://pastebin.com/WuhpnhHr)
 
-25. **AIエージェント**は、🤖 垂直特化型で進化するのか、それともオールマイティ型になるのでしょうか？現状、AIエージェントは主に垂直分野に集中しています。これは、AIがまだ各分野特有のツールを使いこなし、異なる分野のタスク基準を理解する方法を学んでいる段階だからです。
+25. **Neuraan**ってプラットフォーム、業務自動化のゲームチェンジャーになるかもって話だよ！🤔 複雑なフローチャートとかスクリプトがいらなくて、ビジネスプロセス自動化がめっちゃ簡単になるんだって。これはオフィスの働き方を変えるかもね！
+    [▶️ デモ動画](https://youtu.be/DIZBq-BzlYo?si=Cx3CMVSZlTDDMmFG)
+    [🔗 プロジェクトサイト](https://www.neuraan.com)
 
-26. **AIツールの未来**は、🔮 生産性を解放するのか、それとも混乱を生むのか？最近、AIツールに関する議論が非常に盛り上がっていますね。AIは既存のツールをより使いやすくするだけだという見方もありますが、それはAIエージェントの可能性を見落としています。
+26. ブロガーの**Yangyiさん**が、衝撃的な説を提唱してるんだ！🤯 「人間ってさ、**『報酬関数』**に操られてるんじゃないの？」って。これ、結構深い話だよね…。
 
-27. **プログラマー**は、👨‍💻 AIの波に乗るトレンドセッターになるのでしょうか？AIモデルの収益化における新たな道筋が模索されていますよ！いくつかのプラットフォームがAIモデルの収益化の新たな道を探り始めていて、主にプログラマー層に焦点を当てています。これは、コードが高度に標準化されており、AIが理解し処理しやすいためです。
-    [▶️ 関連ビデオデモ](https://www.bilibili.com/video/BV17P41117zX)
+27. **ブロガーのYangyiさん**が、AIライティングにおける面白い課題をシェアしてくれたよ✍️。英語の文章だと、AIが書いたのか人間が書いたのか、もう**「本物と偽物の区別がつかない」**レベルなんだって。AIの進化ってすごいけど、ちょっと怖い話だよね。
 
-28. **ツールの選択**は、🔧 多すぎるよりも少なくて洗練されている方が良いんです！効率的なAIエージェントには、厳選されたツールセットが必要です。ツールが多すぎるとAIは混乱し、非効率的なツールを選んだり、間違いを犯したりすることもありますからね。
+28. みんなが**Google Sora 2**の登場を待ち望んでるみたいだね！🤔🔥 次世代の動画生成モデル、どんなもんかマジで楽しみだわ！
+    ![画像](https://pbs.twimg.com/media/GwYyE4lbAAA7ndY?format=jpg&name=orig)
+    ![画像](https://pbs.twimg.com/media/GwYdtXzacAAPOp4?format=jpg&name=orig)
 
-29. **OpenAIとAnthropicの研究者たちが、イーロン・マスク氏のxAIの「無謀な」安全文化を批判**し、⚠️ AI安全基準についての議論を呼んでいますね！OpenAIとAnthropicの研究者たちはxAIの安全文化に懸念を示しており、あまりにも「無謀だ」と考えています。これは、AIの安全性についてのさらなる議論を引き起こしています。
-    [画像: OpenAI and Anthropic researchers decry ‘reckless’ safety culture at Elon Musk’s xAI https://external-preview.redd.it/sWqajczeB5tfob5LkaobsxRpF4izpQtyT3Z-VqSnEz0.jpeg?width=640&crop=smart&auto=webp&s=87f0af5368f39cd2769e6dc6e384ada2e1d9f0b3]
-
-30. **ハンガリーの古い図書館が甲虫の侵入危機**に直面しており、📚🐛 文化遺産保護の課題が浮き彫りになっています！ハンガリーで最も古い図書館が、甲虫の大群に襲われる危機に直面しており、図書館員たちは貴重な書籍を守るために奮闘しています。
-    [画像: https://cdn4.cdn-telegram.org/file/WqzAvIsn9RCwlmPyGDALSL9GgAz7umHCs40em2lMMbNr7NOIyUnSgG0SYjjddrl5jDWvfFLTJW1V16oPSTEzFM8TsecY-00SRqk3yjH87C2crw0rlTVltUrsCTe-Twso0mws51fmAoLcA0RLMBUpQQC1pqaw-ykMkrVct8SzATsrYGylGh7iijs7QALZPRD-sTxU1BGMzUyRU2eqf8JsVoDD_WTdS2cZvE6ZpNXWAf7xYE3LQshjR0sQLNvYhxxnC0YVGEefi7lfs6xXrv7cO8TVnIWywitlQEvO30Lh1FvPNB9XVAz_qKbrgjZu8EAUgCbvi7TNMAchPQsa8E7f-A.jpg]
+29. **JD.com**がすごいものをオープンソース化したよ！🎉🤖 その名も**JDGenie**っていう汎用AIエージェント！GAIAランキングでもめちゃくちゃ良い成績を出してるんだって。これは注目だね！
+    [🔗 プロジェクトリポジトリ](https://github.com/jd-opensource/joyagent-jdgenie)
+    ![画像](https://pbs.twimg.com/media/GwYqRF9asAAZlqf?format=jpg&name=orig)
