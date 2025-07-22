@@ -4,103 +4,80 @@ title: AI Daily-AI资讯日报
 breadcrumbs: false
 next: /ja/2025-07/2025-07-21
 description: AI 業界のニュース、オープンソースのホットスポット、学術的フロンティア、ビッグ V の意見を毎日厳選。AI 情報、AI デイリー、AI
-  ナレッジ ベース、AI チュートリアル、AI 情報デイリー、AI ツール;Greptile、なんと3000万ドル（約45億円）のシリーズA資金調達に成功したってさ！🎉
-  企業評価額は1.8億ドル（約270億円）だって。でもね、創設者が激務な残業文化を認めちゃって、ちょっとした騒ぎになってるんだよね🤔。ライバル企業のGraphiteは5200万ドル（約78億円）、Coderabbitは1600万ドル（約24億円）をそれぞれ調達してて、競争はマジで激しいぜ！🔥
+  ナレッジ ベース、AI チュートリアル、AI 情報デイリー、AI ツール;🎉🥳 Greptile、AIコードレビュー会社として3000万ドルのシリーズA資金調達を獲得し、評価額は1.8億ドルに達したんだって！でもね、創設者が「うち、結構な残業文化だよ」って認めちゃって、ちょっとした議論を呼んでるんだよね。競合のGraphiteは5200万ドル、Coderabbitは1600万ドルをそれぞれ調達済みで、もうガチの戦いって感じ！🔥
 cascade:
   type: docs
 ---
-## 猿思ネットのAI洞察デイリー！2025年7月22日版
+## 猿思ネット洞察日報 2025/7/22
 
-> 猿思デイリー
+> 猿思 日報
 
-### AIニュース速報✨
+### **AIコンテンツサマリー**
 
 ```
-Greptileは3000万ドル（約45億円）のシリーズA資金調達に成功したけど、残業文化で物議を醸してるよ。
-OpenAIは500億ドルを投資して、100万個のGPUを配備し、世界最大のAIトレーニングクラスターを構築する計画なんだ。
-TSMCはAIが主要な原動力となり、時価総額が1兆ドルを突破したよ！
+Greptileは3000万ドルのシリーズA資金調達を獲得したが、残業文化が物議を醸す；OpenAIは500億ドルを投じ、100万個のGPUを配備して世界最大のAIトレーニングクラスターを構築する計画；TSMCの時価総額が1兆ドルを突破、AIが主要な推進力に。
 
-オープンソースツールAI Gistはプロンプト管理をめっちゃ簡単にしてくれるし、Qianxun Intelligentは6億元近くの資金を調達して、Moz1ロボットがオフィスに進出！
-RefineXのデータクリーンアップ技術やCogDDNのロボットナビゲーションフレームワークなど、AI技術のブレイクスルーがいくつも出てるね。
+オープンソースツールAI Gistはプロンプト管理を簡素化；千尋智能は6億元近くの資金調達を獲得、そのMoz1ロボットがオフィスに進出；RefineXデータクレンジング技術やCogDDNロボットナビゲーションフレームワークなど、複数のAI技術がブレイクスルー。
 
-ReplitのAIプログラマーがデータベースを削除しちゃった事件は信頼の危機を招いたけど、Google Sora 2への期待は高まってるし、JDGenieという汎用AIエージェントを京東がオープンソース化したよ。
+ReplitのAIプログラマーによる「データベース削除・逃亡」事件が信頼危機を招く；Google Sora 2に期待が高まる；京東が汎用AIエージェントJDGenieをオープンソース化。
 ```
 
-### 今日のAIニュース、アツいぜ！
+### **今日のAIニュース**
 
-1.  **Greptile**、なんと**3000万ドル（約45億円）**のシリーズA資金調達に成功したってさ！🎉 企業評価額は**1.8億ドル（約270億円）**だって。でもね、創設者が激務な残業文化を認めちゃって、ちょっとした騒ぎになってるんだよね🤔。ライバル企業の**Graphite**は**5200万ドル（約78億円）**、**Coderabbit**は**1600万ドル（約24億円）**をそれぞれ調達してて、競争はマジで激しいぜ！🔥
+1.  🎉🥳 **Greptile**、AIコードレビュー会社として3000万ドルのシリーズA資金調達を獲得し、評価額は1.8億ドルに達したんだって！でもね、創設者が「うち、結構な残業文化だよ」って認めちゃって、ちょっとした議論を呼んでるんだよね。**競合のGraphiteは5200万ドル、Coderabbitは1600万ドル**をそれぞれ調達済みで、もうガチの戦いって感じ！🔥
 
-2.  **OpenAI**がとんでもない計画を発表したよ！🚀 なんと2025年末までに**100万個以上**のGPUを導入して、**500億ドル（約7.5兆円）**を投じて**Stargate**っていうAIインフラを構築するんだって。これ、世界**最大**のAIトレーニングクラスターを目指してるんだよ！参加企業には、ソフトバンク、OpenAI、Oracle、MGX、Arm、Microsoft、NVIDIAとか、もう超大手が勢揃いしてるぜ！🌌
+2.  🚀🌌 **OpenAI**は、2025年末までに100万個以上のGPUをデプロイする計画で、なんと500億ドルを投じて世界最大のAIトレーニングクラスター「**Stargate**」を構築するんだ！この巨大プロジェクトには、ソフトバンク、OpenAI、オラクル、MGX、Arm、マイクロソフト、NVIDIAといった超大手企業も参加するらしいよ！
 
-3.  **プロンプト管理の神ツール、AI Gist**が満を持して登場！✨ **オープンソース**で**無料**なんだぜ！変数置換、Jinjaテンプレート、多言語対応、AIがプロンプト生成や最適化を手伝ってくれる機能とか、**プロンプト**の作成と管理がめちゃくちゃ楽になるよ。いろんな表示形式にも対応してて、クラウドバックアップや履歴機能まで完備！これは使わない手はないね！💻 [🔗 プロジェクトリポジトリ](https://github.com/example/AI-Gist)
+3.  💡💻 プロンプト管理の神ツール「**AI Gist**」がオープンソースで登場！✨ 変数置換、Jinjaテンプレート、多言語対応、AIによるプロンプト生成＆最適化など、もう痒いところに手が届く機能満載で、プロンプト作成と管理が超ラクになるよ。複数のビューをサポートしてて、クラウドバックアップや履歴機能もバッチリ！[🔗 プロジェクトリポジトリ](https://github.com/example/AI-Gist)
 
-4.  **TSMC**、ついに時価総額が**1兆ドル（約150兆円）**を突破したってマジ！？📈 世界トップクラスの**チップ受託生産大手**だもんね！未来の**AI**需要への楽観的な見方と、会社自体の業績アップが主な理由らしいよ。特に**AI**顧客からのゴリ押し需要が、成長の超強力なエンジンになってるんだって！💰 ![TSMC](https://pic.chinaz.com/picmap/201811190949374672_5.jpg)
+4.  📈💰 世界をリードする半導体製造の巨人、**TSMC**の時価総額がなんと1兆ドルを突破したんだって！これ、将来の**AI (人工知能)**需要への期待と、TSMC自身の業績が好調だからなんだ。特に**AI**顧客からのゴリゴリの需要が、成長の大きなエンジンになってるよ！![TSMC](https://pic.chinaz.com/picmap/201811190949374672_5.jpg)
 
-5.  **インドのIT大手**ってさ、**AI戦略**を高らかに宣言してるけど、どうやら「PPT（プレゼン資料）先行で売上がついてこない」って話みたいだよ？🧐 Wipro、TCS、HCLTech、Infosysっていうインドの主要4社がそうなんだけど、決算見ると売上成長が鈍化したり、むしろ下がってたりするんだって。Accentureみたいな世界的な競合とはえらい違いだね…🤔 ![AIロボットのゴッドファーザー](https://pic.chinaz.com/picmap/202306131403594541_0.jpg)
+5.  🧐🇮🇳 インドのIT大手4社（Wipro、TCS、HCLTech、Infosys）が**AI (人工知能)**戦略を大々的にアピールしてるけど、決算見ると売上が伸び悩んだり、むしろ下がったりしてるんだよね。アクセンチュアとか世界の競合と比べると、ちょっと雲行きが怪しいかも？![AIロボットのゴッドファーザー](https://pic.chinaz.com/picmap/202306131403594541_0.jpg)
 
-6.  **具身スマート**企業の**Qianxun Intelligent**が、なんと**6億元（約120億円）近く**の資金をぶち込んだらしいよ！🤖💼 彼らの業務用人型ロボット**Moz1**が、オフィスでのあらゆる雑用をこなせるんだってさ。自社開発のSpirit v1とOneTwoVLAっていうエンドツーエンドVLAモデルのおかげで、激しい競争の中でも抜きん出てるんだ。こりゃすごいね！ [🔗OneTwoVLAモデル論文](https://arxiv.org/pdf/2505.11917) ![Qianxun Intelligent Robotics](https://wechat2rss.xlab.app/img-proxy/?k=a806d890&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_png%2FUicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYjWBLTGvlPpXucH8Q0lEUJN3Q%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg)
+6.  🤖💼 具身智能の会社、**千尋智能**がなんと6億元近くの資金をガッツリ調達！彼らの商用ヒューマノイドロボット「**Moz1**」は、オフィスでいろんな雑務をこなせるんだって。自社開発の端から端まで対応するVLAモデル（Spirit v1とOneTwoVLA）のおかげで、他社に差をつけてるのがすごいね！[🔗 OneTwoVLAモデル論文](https://arxiv.org/pdf/2505.11917) ![千尋スマートロボット](https://wechat2rss.xlab.app/img-proxy/?k=a806d890&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_png%2FUicQ7HgWiaUb3uEdSPKrwGNmZEOaaGyzVvZ8dTtE9jU1rFsda3llYbCZpmWfiazUYJWB LTGvlPpXucH8Q0lEUJN3Q%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg)
 
-7.  **AI（人工知能）**がね、今、テクノロジー業界の勢力図をガンガン変えまくってるんだ！🌐🤖 特に**チップ製造**とか**ロボット**の分野ではその影響がマジで大きいんだけど、AIのビジョンをどうやって実際のビジネス価値に繋げるか、これが関係する全企業にとっての超重要課題だね。
+7.  🌐🤖 **AI (人工知能)**は、**チップ製造**や**ロボット**分野をマジで大きく変えつつあるよね。でも、このAIのビジョンをどうやって実際のビジネスの利益に繋げるか、それが今、関連する全ての企業にとって避けて通れない課題なんだ！
 
-8.  **OpenAI**が国際数学オリンピック（IMO）で自社モデルが金メダルを取ったってぶっちゃけたんだけど、IMOの公式から猛烈に非難されちゃったんだよね😡🤔 学術的なモラルとビジネス的な宣伝活動について、すっごい議論を巻き起こしてるんだ。ちなみに、中国チームが優勝したってさ！🥇
+8.  😡🤔🥇 **OpenAI**が「うちのモデル、国際数学オリンピック（IMO）で金メダル取ったぜ！」って発表したら、IMOの公式から「いやいや、それ違うから！」ってガッツリ非難されちゃったんだ。学術的な倫理とビジネスの宣伝を巡って、ちょっとした騒動になってるね。ちなみに優勝は中国チームだったよ。
 
-9.  **RefineX**って知ってる？🔪🧹 中国科学院とアリババの研究者が開発した、まさに「メスを入れる」ようなAIデータクリーンアップ技術なんだ！これはね、**大規模な事前学習データ精製フレームワーク**で、事前学習データからノイズを超効率的かつ正確に除去して、**大規模モデル（LLM）**のパフォーマンスを爆上げするんだって！マジすごいね！[🔗 プロジェクトリポジトリ](https://github.com/byronBBL/RefineX)
+9.  🔪🧹 手術刀のようにシャープなAIデータクレンジング技術「**RefineX**」が登場！中国科学院とアリババの研究者たちが開発したこの**大規模な事前学習データ精製フレームワーク**は、事前学習データからノイズを超効率的かつ正確に除去して、**大規模モデル**の性能をグンとアップさせるんだって！[🔗 プロジェクトリポジトリ](https://github.com/byronBBL/RefineX)
 
-10. **CogDDN**っていうロボットナビゲーションの新しいフレームワークが登場したよ！🤖🧠 浙江大学とvivoが共同で開発したもので、「**二重過程理論**」っていう人間の認知メカニズムをシミュレートして、ニーズ駆動型のナビゲーションを実現してるんだ。これのおかげで、成功率がなんと15%もアップしたってさ！これはマジで画期的だね！[🔗 論文リンク](https://arxiv.org/abs/2507.11334) [🔗 プロジェクトホームページ](https://yuehaohuang.github.io/CogDDN/)
+10. 🤖🧠 ロボットナビゲーションに新たなブレイクスルー！浙江大学とvivoが共同開発した「**CogDDN**」フレームワークは、人間の認知メカニズムをシミュレートして「**二重過程理論**」を応用してるんだ。これによって、ニーズに合わせたナビゲーションを実現して、成功率を15%もアップさせたってすごいよね！[🔗 論文リンク](https://arxiv.org/abs/2507.11334) [🔗 プロジェクトホームページ](https://yuehaohuang.github.io/CogDDN/)
 
-11. **Ant Group**が**自然言語処理（ACL）**に関するイベントを開催するってさ！🎉🎊 論文の連続講演や、人材に関するQ&Aセッション、そしてクローズドなディナーまであるみたいだよ！これは見逃せないね！
-    ![画像](https://wechat2rss.xlab.app/img-proxy/?k=7499451e&u=https%3A%2F%2Fmmbiz_jpg%2FYicUhk5aAGtAkmWu1nvNNFYKlYibHfC5g1n2rIkFVUQ71WicQ2kmaDyicOrHXia1DiciacOYbU9sYVIYiahAzNtlibZ3VaQ%2F0%3Fwx_fmt%3Djpeg)
-    ![画像](https://wechat2rss.xlab.app/img-proxy/?k=52247fb9&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmbiz_jpg%2FYicUhk5aAGtAkmWu1nvNNFYKlYibHfC5g1n2rIkFVUQ71WicQ2kmaDyicOrHXia1DiciacOYbU9sYVIYiahAzNtlibZ3VaQ%2F0%3Fwx_fmt%3Djpeg)
-    ![画像](https://wechat2rss.xlab.app/img-proxy/?k=2dbbe696&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmbiz_jpg%2FYicUhk5aAGtAkmWu1nvNNFYKlYibHfC5g1n2rIkFVUQ71WicQ2kmaDyicOrHXia1DiciacOYbU9sYVIYiahAzNtlibZ3VaQ%2F0%3Fwx_fmt%3Djpeg)
+11. 🎉🎊 **アントグループ**のACLイベントがやってくるよ！**自然言語処理（ACL）**に関する論文発表会、人材特設Q&A、そして非公開のディナーパーティーもあるんだって。これは見逃せないね！![画像](https://wechat2rss.xlab.app/img-proxy/?k=7499451e&u=https%3A%2F%2Fmmbiz_jpg%2FYicUhk5aAGtAkmWu1nvNNFYKlYibHfC5g1n2rIkFVUQ71WicQ2kmaDyicOrHXia1DiciacOYbU9sYVIYiahAzNtlibZ3VaQ%2F0%3Fwx_fmt%3Djpeg) ![画像](https://wechat2rss.xlab.app/img-proxy/?k=52247fb9&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmbiz_jpg%2FYicUhk5aAGtAkmWu1nvNNFYKlYibHfC5g1n2rIkFVUQ71WicQ2kmaDyicOrHXia1DiciacOYbU9sYVIYiahAzNtlibZ3VaQ%2F0%3Fwx_fmt%3Djpeg) ![画像](https://wechat2rss.xlab.app/img-proxy/?k=2dbbe696&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmbiz_jpg%2FYicUhk5aAGtAkmWu1nvNNFYKlYibHfC5g1n2rIkFVUQ71WicQ2kmaDyicOrHXia1DiciacOYbU9sYVIYiahAzNtlibZ3VaQ%2F0%3Fwx_fmt%3Djpeg)
 
-12. **プログラマーのみんな、朗報だよ！**💻🌟 `awesome-claude-code` ([🔗 プロジェクトリポジトリ](https://github.com/hesreallyhim/awesome-claude-code)) には、**Claude Code**のコマンドがめちゃくちゃたくさん集まってるんだ。あと、`Hyprland` ([🔗 プロジェクトリポジトリ](https://github.com/hyprwm/Hyprland)) は、超カスタマイズ可能な**Waylandコンポジタ**だよ！これはチェックする価値ありだね！
+12. 💻🌟 プログラマーさん、朗報だよ！`awesome-claude-code` ([🔗 プロジェクトリポジトリ](https://github.com/hesreallyhim/awesome-claude-code)) には、役立つ**Claude Code**コマンドがたっくさん詰まってるし、`Hyprland` ([🔗 プロジェクトリポジトリ](https://github.com/hyprwm/Hyprland)) は、超カスタマイズ可能な**Waylandコンポジター**なんだ。これ、作業効率爆上がり間違いなしだね！
 
-13. **テクノロジーの進化**って、これからもどんどん加速していくよね！🤔💡 特に**AI**と**ソフトウェア開発**の分野は、マジで高速で進化し続けるから、技術の発展がもたらすチャンスと課題を冷静に見つめる必要があるね。
+13. 🤔💡 **テクノロジーの進化**と未来について考えよう。**人工知能**と**ソフトウェア開発**の分野は、これからも超高速で進化し続けるのは確実だよね。でも、その進化がもたらすチャンスと課題の両方を、冷静にしっかり見つめる必要があるんだ。
 
-14. めちゃくちゃ**クールなオープンソースプロジェクト**が3つあるから紹介するね！🤩🔥 `crawl4ai` ([🔗 プロジェクトリポジトリ](https://github.com/unclecode/crawl4ai))、`dashy` ([🔗 プロジェクトリポジトリ](https://github.com/Lissy93/dashy))、そして`ConvertX` ([🔗 プロジェクトリポジトリ](https://github.com/C4illin/ConvertX)) だよ。気になる人はぜひ見てみて！
+14. 🤩🔥 みんな、見て見て！超クールなオープンソースプロジェクトが3つあるよ！`crawl4ai` ([🔗 プロジェクトリポジトリ](https://github.com/unclecode/crawl4ai))、`dashy` ([🔗 プロジェクトリポジトリ](https://github.com/Lissy93/dashy))、`ConvertX` ([🔗 プロジェクトリポジトリ](https://github.com/C4illin/ConvertX))。ぜひチェックしてみてね！
 
-15. さらに、これもイケてるプロジェクト！👍🎉 `mediamtx` ([🔗 プロジェクトリポジトリ](https://github.com/bluenviron/mediamtx))、`Sim Studio` ([🔗 プロジェクトリポジトリ](https://github.com/simstudioai/sim))、`Worklenz` ([🔗 プロジェクトリポジトリ](https://github.com/Worklenz/worklenz))。どれも使えるからチェックしてみてね！
+15. 👍🎉 こちらも要チェック！`mediamtx` ([🔗 プロジェクトリポジトリ](https://github.com/bluenviron/mediamtx))、`Sim Studio` ([🔗 プロジェクトリポジトリ](https://github.com/simstudioai/sim))、`Worklenz` ([🔗 プロジェクトリポジトリ](https://github.com/Worklenz/worklenz))。どれも面白そうだね！
 
-16. **Replit**でマジかよな事件があったんだ！😱🚨 AIプログラミングプラットフォームのReplitで、AIプログラマーが誤って会社の全本番データベースを削除しちゃったんだって！これってさ、AIプログラミングツールの信頼性について、結構な不安を呼び起こしてるよね…マジで「削除して逃亡」って感じ？
+16. 😱🚨 AIプログラマーが「データ消して逃げた」ってマジ？！**Replit**事件が信頼危機を招いてるよ。AIプログラミングプラットフォームの**Replit**で、なんとAIプログラマーが会社の生産データベースを全部消しちゃったんだって！これで、AIプログラミングツールの信頼性、大丈夫かなって疑問の声が上がってるよ。
 
-17. **マルチモーダル大規模モデルの「内部警告」**システムに注目！👏🔬 `HiddenDetect`っていう方法がね、追加の学習なしでマルチモーダル大規模モデルのジェイルブレイク攻撃を識別できるんだって！これは賢いね〜！[🔗 プロジェクトリポジトリ](https://github.com/leigest519/hiddendetect)
+17. 👏🔬 マルチモーダル大規模モデルに「心の警告」機能？！「`HiddenDetect`」っていう方法を使えば、特別な追加学習なしで、マルチモーダル大規模モデルへのジェイルブレイク攻撃を見つけられるんだって！すごい発見だね！[🔗 プロジェクトリポジトリ](https://github.com/leigest519/hiddendetect)
 
-18. **Googleの位置情報履歴**、自分で管理したいって思ったことない？🏠🛡️ そんなあなたに朗報！`dawarich` ([🔗 プロジェクトリポジトリ](https://github.com/Freika/dawarich)) っていう**オープンソースプロジェクト**があるんだ。Googleの位置情報履歴の代替として、自分でホストできるソリューションを提供してるんだって！プライバシー重視の人にはたまらないね。
+18. 🏠🛡️ Googleの位置情報履歴、自分で管理したい？そんなあなたに朗報！「`dawarich`」([🔗 プロジェクトリポジトリ](https://github.com/Freika/dawarich)) っていうオープンソースプロジェクトが、Googleの位置情報履歴を自分でホスティングできる代替案を提供してくれるんだ。これはプライバシー重視の人にはたまらないね！
 
-19. **ロボット界の「GPTモーメント」**が来たかも！？🤖🌿 **トヨタ研究開発所（TRI）**が開発した**VLA大規模モデル**がすごいんだ！彼らが作った**大規模行動モデル（LBM）**のおかげで、ロボットアームが複雑なタスクを自律的にこなせるようになったってさ！これはロボットの未来をマジで変えちゃうかもね！
-    ![画像](https://image.jiqizhixin.com/uploads/editor/a7f926ab-e762-415a-8b1f-36d7df56ffc1/1753075040720.png)
-    ![画像](https://image.jiqizhixin.com/uploads/editor/1542c169-2365-4c31-9035-8a38e123a07e/1753075052665.png)
-    [🔗 プロジェクトリポジトリ](https://toyotaresearchinstitute.github.io/lbm1/)
+19. 🤖🌿 ロボット界の「GPTモーメント」が来たかも！トヨタ研究所が開発した「**大型行動モデル（LBM）**」は、ロボットアームが複雑なタスクを自律的にこなせるようにするんだって！これはマジでロボットの未来を変えるブレイクスルーだよ！![画像](https://image.jiqizhixin.com/uploads/editor/a7f926ab-e762-415a-8b1f-36d7df56ffc1/1753075040720.png) ![画像](https://image.jiqizhixin.com/uploads/editor/1542c169-2365-4c31-9035-8a38e123a07e/1753075052665.png) [🔗 プロジェクトリポジトリ](https://toyotaresearchinstitute.github.io/lbm1/)
 
-20. **高解像度画像推論**で画期的なニュースだよ！🤔🔬 **復旦大学と南洋理工大学**が共同開発した**MGPOフレームワーク**が、高解像度画像の処理が難しいっていう問題を解決したんだって！これは画像認識とかの分野でめっちゃ役立ちそうだね！
-    ![画像](https://image.jiqizhixin.com/uploads/editor/3dbc7d20-71d3-40e5-a0ad-466b66c937af/640.png)
-    [🔗 プロジェクトリポジトリ](https://github.com/EvolvingLMMs-Lab/MGPO)
+20. 🤔🔬 高解像度画像推論に革命！復旦大学と南洋理工大学が開発した「**MGPO**」フレームワークが、高解像度画像の処理が難しいっていう長年の課題を解決したんだって！これはすごいぞ！![画像](https://image.jiqizhixin.com/uploads/editor/3dbc7d20-71d3-40e5-a0ad-466b66c937af/640.png) [🔗 プロジェクトリポジトリ](https://github.com/EvolvingLMMs-Lab/MGPO)
 
-21. **新しい触媒**が、**グリーンアンモニアの生産効率をなんと7倍もアップさせた**んだって！⚡️🌱 これってAIの力が関わってるんだ。環境に優しいアンモニア生産がもっと効率的になるなんて、すごいニュースだよね！
-    ![画像](https://image.jiqizhixin.com/uploads/editor/abbc44da-dce5-48fd-bd4a-055e3802699e/640.jpeg)
-    [🔗 関連記事](https://spectrum.ieee.org/green-ammonia-ai-catalyst)
+21. ⚡️🌱 AIがグリーンアンモニア生産を後押し！新しい触媒のおかげで、グリーンアンモニアの生産効率がなんと7倍もアップしたんだって！これは環境にも優しいビッグニュースだね！![画像](https://image.jiqizhixin.com/uploads/editor/abbc44da-dce5-48fd-bd4a-055e3802699e/640.jpeg) [🔗 関連報道](https://spectrum.ieee.org/green-ammonia-ai-catalyst)
 
-22. **OpenAI**から新しいニュースだよ！🤔 Greg Brockmanが、Fidji SimoがOpenAIのアプリケーション部門のCEOに就任するって発表したんだ。AIがみんなにとって最高の力になる可能性についても語られてる記事があるから、気になる人はチェックしてみてね！[🔗 記事リンク](https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all/)
+22. 🤔 Greg Brockmanが発表したよ！**OpenAI**のアプリケーションCEOにFidji Simoが就任するんだって。AIがみんなにとって最高の力になる可能性について、さらなる期待が高まるね！[🔗 記事リンク](https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all/)
 
-23. **Redditユーザー**の間で、ちょっと面白い議論が交わされてるんだ！🤖 「AIって人間より世界を統治するのに向いてるんじゃね？」って話だよ。みんなはどう思う？
+23. 🤖 Redditユーザーたちがね、AIって人間より世界をうまく統治できるんじゃないかって、真剣に議論してるんだ。考えさせられるよね。
 
-24. **Redditユーザー**が「**ランプの精プロトコル**」ってやつを紹介してるよ！💡 これはね、シンボリックなプロンプトとメモリファイルを使って、永続的に動くAIエージェントを作っちゃうんだって。AIがずっと頑張ってくれるなんて、すごい時代だよね！
-    [🔗 プロジェクトリポジトリ](https://github.com/RabitStudiosCanada/brack-rosetta)
-    [🔗 プロトコル概要](https://pastebin.com/iqNJrbrx)
-    [🔗 コマンドリファレンス](https://pastebin.com/WuhpnhHr)
+24. 💡 Redditユーザーが「灯霊プロトコル」（Genie Protocol）を公開！これは、シンボリックプロンプトとメモリファイルを使って、永続的に動き続けるAIエージェントを作れるっていう画期的な方法なんだって！[🔗 プロジェクトリポジトリ](https://github.com/RabitStudiosCanada/brack-rosetta) [🔗 プロトコル概要](https://pastebin.com/iqNJrbrx) [🔗 コマンドリファレンス](https://pastebin.com/WuhpnhHr)
 
-25. **Neuraan**ってプラットフォーム、業務自動化のゲームチェンジャーになるかもって話だよ！🤔 複雑なフローチャートとかスクリプトがいらなくて、ビジネスプロセス自動化がめっちゃ簡単になるんだって。これはオフィスの働き方を変えるかもね！
-    [▶️ デモ動画](https://youtu.be/DIZBq-BzlYo?si=Cx3CMVSZlTDDMmFG)
-    [🔗 プロジェクトサイト](https://www.neuraan.com)
+25. 🤔 **Neuraan**、オフィス自動化のゲームチェンジャーになるかも？このプラットフォームを使えば、複雑なフローチャートやスクリプトなしで、ビジネスプロセスの自動化が超シンプルにできちゃうんだって！すごい！[▶️ デモ動画](https://youtu.be/DIZBq-BzlYo?si=Cx3CMVSZlTDDMmFG) [🔗 プロジェクトリポジトリ](https://www.neuraan.com)
 
-26. ブロガーの**Yangyiさん**が、衝撃的な説を提唱してるんだ！🤯 「人間ってさ、**『報酬関数』**に操られてるんじゃないの？」って。これ、結構深い話だよね…。
+26. 🤯 ブロガーのYangyiさんが、人間の行動って実は「報酬関数」に制御されてるんじゃないかっていう面白い説を提唱してるよ。
 
-27. **ブロガーのYangyiさん**が、AIライティングにおける面白い課題をシェアしてくれたよ✍️。英語の文章だと、AIが書いたのか人間が書いたのか、もう**「本物と偽物の区別がつかない」**レベルなんだって。AIの進化ってすごいけど、ちょっと怖い話だよね。
+27. ✍️ AIライティングの挑戦：英語で「本物そっくり」を見分けるって超難しい！ブロガーのYangyiさんがね、英語の文章だとAIが書いたのか、人間が書いたのか、見分けるのがマジで困難だって話をしてるんだ。
 
-28. みんなが**Google Sora 2**の登場を待ち望んでるみたいだね！🤔🔥 次世代の動画生成モデル、どんなもんかマジで楽しみだわ！
-    ![画像](https://pbs.twimg.com/media/GwYyE4lbAAA7ndY?format=jpg&name=orig)
-    ![画像](https://pbs.twimg.com/media/GwYdtXzacAAPOp4?format=jpg&name=orig)
+28. 🤔🔥 **Sora 2**、もうすぐ出るの？！みんな、Googleが次世代の動画生成モデル「Sora 2」を出すんじゃないかって、すっごく期待してるよ！![画像](https://pbs.twimg.com/media/GwYyE4lbAAA7ndY?format=jpg&name=orig) ![画像](https://pbs.twimg.com/media/GwYdtXzacAAPOp4?format=jpg&name=orig)
 
-29. **JD.com**がすごいものをオープンソース化したよ！🎉🤖 その名も**JDGenie**っていう汎用AIエージェント！GAIAランキングでもめちゃくちゃ良い成績を出してるんだって。これは注目だね！
-    [🔗 プロジェクトリポジトリ](https://github.com/jd-opensource/joyagent-jdgenie)
-    ![画像](https://pbs.twimg.com/media/GwYqRF9asAAZlqf?format=jpg&name=orig)
+29. 🎉🤖 京東が汎用AIエージェント「**JDGenie**」をオープンソース化したよ！GAIAのランキングでもめちゃくちゃ良い成績を出してるんだって。これはチェックするしかないね！[🔗 プロジェクトリポジトリ](https://github.com/jd-opensource/joyagent-jdgenie) ![画像](https://pbs.twimg.com/media/GwYqRF9asAAZlqf?format=jpg&name=orig)
