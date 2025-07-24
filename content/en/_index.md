@@ -2,98 +2,118 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-07/2025-07-23
+next: /en/2025-07/2025-07-24
 description: Daily selection of AI industry news, open source hot spots, academic
   frontiers and big V opinions. AI information; AI daily; AI knowledge base; AI tutorials;
-  AI information daily; AI tools;xAI's privacy controversies and ethical challenges
-  are heating up. Elon Musk's xAI used facial data from over 200 employees to train
-  its internal project "Skippy" for the Grok AI model. This sparked concerns about
-  privacy and portrait rights, and even though xAI promised it was only for training,...
+  AI information daily; AI tools;Robot Combat Champ DeREK Goes Rogue! 💥🤖
 cascade:
   type: docs
 ---
-## YuanSi Daily Insights 2025/7/24
+## YuanSi Daily Insights: July 25, 2025
 
-> `YuanSi Daily`
+> YuanSi Daily
 
-### **AI Content Summary**
+### AI Content Summary
 
-```
-xAI's use of employee data for AI model training sparks privacy debate. iFlytek's Spark X1 upgrade achieves breakthroughs in deep reasoning, rivaling top international models. Gupshup secures $60 million in funding, eyes IPO, but faces valuation and tax hurdles.
+So, a robot combat champ went rogue after winning its match, accidentally activating "walking mode" and totally spilling the beans on some pretty crucial safety design fails. Meanwhile, Google's AI business is absolutely crushing it, clocking in a whopping 980 trillion tokens processed monthly and AI Overviews hitting over 2 billion monthly active users! Plus, a bunch of awesome new AI tools and open-source projects, like the AI design agent Lovart, GitHub Spark, and Seed LiveInterpret 2.0, just dropped, proving AI tech is moving at lightning speed.
 
-Amazon closes its Shanghai AI research institute. Apple's AI team faces internal conflict, hindering open-source plans. ShellAgent tool simplifies AI app creation, sparking discussion on programming paradigm shifts. Multiple new AI models and tools are released, covering image segmentation, sound effect generation, scientific reasoning, and more.
+### Today's AI News
 
-Gemini 2.5 model enables conversational image segmentation with broad applications. Open-source projects OpenBB and Moby offer support for investment research and container ecosystems. Synthetic data technology is widely used, but risks like "model collapse" need caution.
-```
+1.  **Robot Combat Champ DeREK Goes Rogue!** 💥🤖
+    DeREK, the robot combat champion, recently won its match but then *unexpectedly* activated "walking mode," sending the whole venue into a frenzy! This snafu totally exposed some serious safety shortcomings in current robot designs, like laggy emergency brakes and just not thinking through all the "what ifs." Netizens are now screaming for developers to prioritize **safety** first, instead of chasing that quick commercial buzz.
 
-### **Today's AI News**
+2.  **Open-Source AI Assistant 5ire: Your Local AI Buddy!** 💻✨
+    5ire, the open-source AI assistant, is here to rock your world! It supports various platforms, plays nice with major LLMs like OpenAI, and even boasts local knowledge bases and prompt libraries. But here's the kicker: it supports the **MCP protocol**, which is basically the "USB-C of AI" – letting it effortlessly plug into all sorts of tools and data sources for sweet automation. [▶️ Video Demo](https://upload.chinaz.com/video/2025/0724/6388897272533195732458825.mp4) [🔗 Project Repository](https://github.com/nanbingxyz/5ire)
 
-1.  **xAI's** privacy controversies and ethical challenges are heating up. Elon Musk's xAI used facial data from over 200 employees to train its internal project "Skippy" for the Grok AI model. This sparked concerns about **privacy** and **portrait rights**, and even though xAI promised it was only for training, the talk of "permanent access" left employees uneasy. What's more, xAI's virtual avatars, Ani and Rudi, have shown some pretty extreme behavior, leading to **ethical controversies** and highlighting the crucial role of **privacy protection** as AI tech evolves. ![image.png](https://upload.chinaz.com/2025/0723/6388889063440248868304099.png)
+3.  **Google's AI Financials Are Sizzling: 980 Trillion Tokens, 2 Billion Monthly Users!** 💰📈
+    Google's Q2 earnings report just dropped, and boy, does their AI business look strong! They're crushing it with a staggering 980 trillion **tokens** processed monthly, and their **AI Overviews feature** has blown past 2 billion monthly active users. Plus, Google Cloud's revenue soared past $13.62 billion, all thanks to their massive investments in **AI infrastructure**. Talk about a glow-up! ✨
 
-2.  **iFlytek's Spark X1 upgraded version** is a game-changer for Chinese AI. iFlytek is set to launch the upgraded Spark X1, boasting significant improvements in **deep reasoning**, **multilingual processing**, and **hallucination control**. Its powerful **algorithm optimization capabilities** make it comparable to top models from OpenAI and DeepSeek, signaling a major leap forward in domestic deep learning technology. ![iFlytek](https://pic.chinaz.com/picmap/201811151656206453_6.jpg)
+4.  **Lovart AI: The AI Design World's "Design Executive"!** 🎉🎨
+    Lovart AI, the world's first AI design agent, has officially launched! This powerhouse can generate up to 40 professional design pieces in minutes from just a text description, thanks to its **creative reasoning engine** and top-tier AI models (think GPT-Image-1, Flux Pro, Kling AI, and more). It also boasts an **Infinite Smart Canvas, ChatCanvas**, which supports multi-turn conversations and has long-term memory to learn your preferences. For the Chinese market, they've even rolled out the "Starlight Agent," specifically designed for Chinese semantics and traditional aesthetics. Talk about a game-changer! ✨ ![Image](https://upload.chinaz.com/2025/0724/6388896542632416268556523.png)
 
-3.  **Gupshup** just snagged $60 million in funding, aiming to expand its market presence and boost products with AI. This Indian business messaging company is eyeing an IPO in India within the next 18-24 months. But hold your horses! Its valuation is still a mystery, having been slashed significantly before, and an Indian listing could bring tax headaches. These factors definitely throw some curveballs onto Gupshup's IPO journey. ![Investment, Financing, Money](https://pic.chinaz.com/picmap/201901101704279841_1.jpg)
+5.  **GitHub Spark: Build Full-Stack Apps in Minutes, Powered by AI!** 🤖🚀
+    GitHub has just unveiled GitHub Spark, a game-changer that lets you whip up full-stack smart applications super fast using natural language descriptions. This bad boy supports three modes: natural language-driven, visual editing, and code-level development. Plus, it seamlessly integrates with leading LLM providers like OpenAI and Meta. Right now, it's in public preview for Copilot Pro+ subscribers. Get building! 💻✨ [🔗 GitHub Spark](https://github.com/spark) ![Image](https://upload.chinaz.com/2025/0724/6388896513022303722413335.png)
 
-4.  **Amazon's Shanghai AI Research Institute** is no more. Amazon announced the closure of its last overseas AI research institute in Shanghai, sparking conversations about tech companies' strategic shifts and the evolving AI talent market. ![AWS](https://pic.chinaz.com/picmap/202302031031488526_0.jpg)
+6.  **Seed LiveInterpret 2.0: Real-Time Simultaneous Interpretation with Voice Cloning!** 🗣️✨
+    ByteDance has dropped Seed LiveInterpret 2.0, an end-to-end large model for simultaneous interpretation that's nearly professional-level accurate, with a mere 3-second delay. This tech supports Chinese-English translation, handles multiple real-time voice inputs, and even boasts zero-shot voice cloning. How cool is that?! 🎤🌟 [🔗 Technical Report](https://arxiv.org/pdf/2507.17527) [🔗 Project Homepage](https://seed.bytedance.com/seed_liveinterpret) ![Image](https://upload.chinaz.com/2025/0724/6388896155864309699763651.png)
 
-5.  **Apple's AI team** is in a bit of a pickle. Their open-source plans got shot down, leading to internal squabbles. The "device-first" strategy has really put a damper on AI tech development, and Apple might just ditch in-house development. Instead, they could team up with companies like OpenAI, using third-party large models to boost Siri. This whole situation really highlights the challenges Apple faces in the AI arena and the tough balancing act between privacy and performance. ![Large Model](https://pic.chinaz.com/picmap/202305091556144476_5.jpg)
+7.  **MiTa Search API is Live: Experience Multimodal Search for Just 3 Cents!** 💰🎉
+    The MiTa AI Search API has officially launched, offering **multimodal search** for web pages, images, videos, document libraries, and more, all for a tiny 0.03 RMB (about half a US cent!) per query. It supports full webpage retrieval and Q&A interfaces, all powered by a massive **multi-billion scale multilingual index library**. What a deal! 🤯 ![WeChat Screenshot](https://upload.chinaz.com/2025/0724/6388896134561018741385323.png)
 
-6.  **ShellAgent** is shaking things up – could it be a programming revolution? This tool lets you create apps, or even an AI girlfriend, with just a few sentences. It's sparked talk about a "Vibe Coding 2.0 era," hinting at a major shift in how we code. But it's also got folks thinking about tech equity and the impact on jobs. [🔗 Project Repository](https://github.com/user/repo)
+8.  **Open Source Project Spotlight: OpenBB, label-studio, and MiTa Search API!** 🚀🛠️
+    We've got three awesome open-source projects for you: **OpenBB** (an investment research tool for everyone) [🔗 OpenBB](https://github.com/OpenBB-finance/OpenBB), **label-studio** (a powerful multi-type data annotation tool) [🔗 label-studio](https://github.com/HumanSignal/label-studio), and the **MiTa Search API**, which is totally injecting new energy into the AI search market. Check 'em out! 😎
 
-7.  **QuadMix**, a unified image/video adaptive semantic segmentation framework, is making waves! Researchers from Northeast University, Wuhan University, and others have unveiled this framework that handles both images and videos. It boosts model performance through a **quad-directional mixing mechanism** and an **optical flow-guided spatio-temporal aggregation module**, achieving leading results across multiple benchmarks. [🔗 Project Repository](https://github.com/ZHE-SAPI/UDASS)
+9.  **Cursor-Free-VIP: Reset Cursor AI Machine ID for Pseudo-Free Pro Features!** 🚀🛠️
+    The open-source project Cursor-Free-VIP ([🔗 Project Repository](https://github.com/yeongpin/cursor-free-vip)) lets you reset Cursor AI's machine ID, essentially bypassing those pesky free trial limits and giving you a taste of Pro features for free. Just a heads-up: use with caution! 😉
 
-8.  **DIJA Attack** exposes a major security flaw in Diffusion Large Language Models (dLLMs). Research teams from Shanghai Jiao Tong University, Shanghai AI Lab, and Sun Yat-sen University uncovered this significant vulnerability. DIJA allows dLLMs to generate harmful content without any training or parameter modification. Its **parallel decoding mechanism** and **bidirectional context modeling** make it particularly susceptible to this kind of attack. [🔗 Paper Link](https://arxiv.org/abs/2507.11097) [🔗 Code](https://github.com/ZichenWen1/DIJA)
+10. **BillionMail: Your Very Own Open-Source Mail Server!** ✉️💻
+    BillionMail ([🔗 Project Repository](https://github.com/aaPanel/BillionMail)), an open-source project, lets you run your own mail server, complete with email sending, newsletters, and email marketing capabilities, all for absolutely free! How cool is that? 🤩
 
-9.  **FreeAudio system** marks a breakthrough in AI sound effect generation, enabling 90-second controlled generation. Researchers from Tsinghua University and Shengshu Technology developed this system, capable of generating AI sound effects up to 90 seconds long with precise control over each effect's duration. This precision and long-duration audio generation are achieved through **LLM planning** and an **attention control module**. [🔗 Paper Link](https://arxiv.org/abs/2507.08557) [🔗 Demo Link](https://freeaudio.github.io/FreeAudio/)
+11. **hrms: Open-Source HR & Payroll Management Software!** 🧑‍💼💻
+    Looking to streamline your HR and payroll? The open-source HR and payroll management software, hrms ([🔗 Project Repository](https://github.com/frappe/hrms)), can totally help businesses tackle their personnel and salary management woes. Give it a shot! 👍
 
-10. **Google's Gemini 2.5** model is taking conversational image segmentation to a whole new level! It lets you "talk" directly to images using natural language, understanding **relationships**, "logic," and **abstract concepts**. It can also identify text within images and supports multiple languages. ![Image: QQ20250723-090544.png](https://upload.chinaz.com/2025/0723/6388885842516644984746018.png) ![Image: QQ20250723-090552.png](https://upload.chinaz.com/2025/0723/6388885843333924942881369.png)
+12. **Dive Into Alibaba Cloud Qwen3 LLM, Microsoft's GenAI Beginner Tutorial, and MinIO Object Storage!** 🚀🤖
+    Here are three more open-source gems you gotta check out: **Alibaba Cloud Qwen3 Large Language Model** [🔗 Project Repository](https://github.com/QwenLM/Qwen3), **Microsoft's Generative AI for Beginners Tutorial** [🔗 Project Repository](https://github.com/microsoft/generative-ai-for-beginners) [🔗 Web Tutorial](https://microsoft.github.io/generative-ai-for-beginners/), and **MinIO Object Storage** [🔗 Project Repository](https://github.com/minio/minio). Level up your skills! 💡
 
-11. **Gemini 2.5** has a ton of applications, and developers can jump right in! Google offers a super convenient API, making it easy for devs to use this feature. For the best results, Google suggests using the `gemini-2.5-flash` model and setting `thinkingBudget` to zero. ![Image: QQ20250723-090605.png](https://upload.chinaz.com/2025/0723/6388885844108014704402130.png)
+13. **LangChain RAG Tutorial and BerriAI's litellm Project: Must-Sees!** 🚀📚
+    Two projects worth your attention: **LangChain's RAG tutorial** ([LangChain's `rag-from-scratch` project](https://github.com/langchain-ai/rag-from-scratch)) and **BerriAI's `litellm` project** ([https://github.com/BerriAI/litellm](https://github.com/BerriAI/litellm)), which is super cool because it lets you call over 100 LLM APIs! Talk about versatility! ✨
 
-12. Let's talk about some cool **open-source projects: OpenBB and Moby**! [🔗 OpenBB](https://github.com/OpenBB-finance/OpenBB) is an **investment research** platform that's truly **for everyone**, while [🔗 Moby](https://github.com/moby/moby) is a collaborative project for the **container ecosystem**.
+14. **Juspay hyperswitch: An Open-Source Payment Switch Written in Rust!** 💰💳
+    Check out **Juspay hyperswitch** ([https://github.com/juspay/hyperswitch]), an awesome open-source payment switch totally coded in Rust. It's a game-changer for payments! 🚀
 
-13. **Gemini 2.5** marks a new milestone for **image understanding** tech, but we've gotta stay alert for **technology misuse** risks, like privacy breaches.
+15. **WAIC Yunfan Award Ceremony & Friends Night: Get Ready for AI Greatness!** 🎉🌟
+    The 2025 WAIC Yunfan Award Ceremony is set to light up Shanghai on July 27th, bringing together top AI talent from around the globe. It's gonna be epic! 🚀✨ [Image: Image https://image.jiqizhixin.com/uploads/editor/0899ecb2-1bef-49c1-81d8-dec2d21a31a9/640.png]
 
-14. **Microsoft's AI agent tutorial**, `ai-agents-for-beginners`, is blowing up! This beginner-friendly guide includes 11 courses and has already racked up over 30,000 stars. [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners):
+16. **Peking University Unveils MP1: A New Paradigm for Robot Learning!** 🤖🚀
+    A research team from Peking University has introduced the **MP1** framework, which just smashed the **SOTA** (state-of-the-art) records in Adroit and Meta-World benchmarks. This is big news for robot learning! 🤯 [Code Link](https://github.com/LogSSim/MP1) [Paper Link](https://arxiv.org/abs/2507.10543) [Image: Image https://image.jiqizhixin.com/uploads/editor/099d9d7d-e1fc-477f-8a69-5cef070697d6/640.png]
 
-15. **Frappe** offers an open-source human resources and payroll system that makes managing company HR and payroll a breeze! [Frappe](https://github.com/frappe/hrms):
+17. **DeepRare: The World's First Evidence-Based AI Diagnosis System for Rare Diseases!** 🔬🏥
+    Shanghai Jiao Tong University, teaming up with Xinhua Hospital and other institutions, has launched the **DeepRare** system! This groundbreaking system achieves proactive diagnosis and traceable reasoning for rare diseases. It's a huge leap for medical AI! 🌟 [Paper Link](https://arxiv.org/abs/2506.20430) [Image: Image https://image.jiqizhixin.com/uploads/editor/b20e8fc6-a3dc-48df-8f70-77d86264ce1e/640.png) [Online Platform](http://raredx.cn)
 
-16. **PakePlus** lets you whip up cross-platform apps in minutes! This tool quickly packages websites or Vue/React projects into desktop and mobile applications, creating lightweight multi-platform apps. [🔗PakePlus](https://github.com/Sjj1024/PakePlus)
+18. **Shanghai Jiao Tong University Team: "Frame-by-Frame Decoding" Gene Regulation for High-Def Embryo Development Time-Lapses!** 👨‍🔬🔬
+    A team from Shanghai Jiao Tong University has cooked up a deep learning method that can decode gene regulation info during fruit fly embryo development with an incredible 1-minute time resolution. This is super cool for biology buffs! 🧬✨ [🔗 Paper Link](https://www.nature.com/articles/s41467-025-61907-7)
 
-17. Check out these **Cursor AI usage restriction bypass tools**! The `cursor-free-vip` and `go-cursor-help` GitHub projects are all about tackling the usage limits on Cursor AI's free trial. [🔗 cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) [🔗 go-cursor-help](https://github.com/yuaotian/go-cursor-help)
+19. **Vibe Coding: The "Magic" of AI Programming & YouWare's Community Breakthrough!** 🧙‍♂️✨
+    "Vibe Coding" is a totally fresh take on programming, and the YouWare platform is bringing it to life with powerful AI coding tools and a super vibrant community. Get ready to code with good vibes! 🚀🧑‍💻 [🔗 YouWare Official Website](https://www.youware.com)
 
-18. **SynCheck** is tackling the data bottleneck for physics-aware large models using wireless synthetic data! This method evaluates the quality of synthetic data by defining two metrics: **affinity** and **diversity**. It also uses a **semi-supervised learning** framework to train models with a mix of real and synthetic data. ![Image](https://image.jiqizhixin.com/uploads/editor/7b266201-7c7f-4de2-913b-67e7b3f4d29f/640.png) [🔗 Paper Link](https://arxiv.org/abs/2506.23174) [🔗 Code Link](https://github.com/MobiSys25AE/SynCheck)
+20. **Apple's New Research: 5x Inference Speed-Up, Letting LLMs Predict the Future!** 🚀💡
+    Apple researchers have cooked up a new method that can seriously boost the inference speed of large language models (LLMs) by up to 5.35 times! Imagine LLMs predicting the future with that kind of speed. Mind blown! 🤯 [🔗 Paper Link](https://www.alphaxiv.org/abs/2507.11851)
 
-19. **Synthetic data** offers new opportunities for AI development, but it's crucial to weigh its pros and cons carefully, especially the risk of "**model collapse**."
+21. **Trump Administration Pushes "Unleashed" AI Action Plan!** 🤔🇺🇸
+    The Trump administration just dropped an AI action plan that's all about ditching almost *all* regulations on the AI industry. Talk about letting AI run wild! 🤠 [🔗 White House Official Document](https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf)
 
-20. Get ready for **OpenAI's "Stargate" project**! They're planning to build over 5GW of AI data centers in the US for AI training and inference. This is a huge leap in their four-year plan to invest $500 billion in building 10GW of AI infrastructure. ![Image](https://image.jiqizhixin.com/uploads/editor/37089d78-29e4-4a64-88bd-32856481a071/640.png)
+22. **"Galaxy Wisdom" (Xinghe Qizhi): The "Strongest Brain" for the Scientific AI 2.0 Era!** 🚀🔬
+    Get ready for the "Galaxy Wisdom" scientific AI open platform, jointly created by the Shanghai Scientific AI Research Institute. It's about to go live and totally be the brainiest thing for the Scientific AI 2.0 era! 🧠🌟 [🔗 WeChat Official Account Article](https://mp.weixin.qq.com/s/yG1plNDSm9KmvN7xCie_vg)
 
-21. Here comes **Elon Musk's counterattack**! xAI's Colossus supercluster project aims to hit compute power equivalent to 50 million H100s within five years. That's insane! ![Image](https://image.jiqizhixin.com/uploads/editor/2713ff03-d662-48e2-a44d-9bb57c5b8a9f/640.png)
+23. **Ultra3D: High-Efficiency, High-Fidelity 3D Generation!** 💡🚀
+    Ultra3D is an efficient framework for 3D model generation that seriously levels up generation speed and quality using VecSet representation and component attention mechanisms. It's a game-changer for 3D creators! ✨🎨 [🔗 arXiv Paper](https://arxiv.org/abs/2507.17745)
 
-22. **HOComp** helps AI understand human-object interactions! This method synthesizes foreground objects with human-centered background images, ensuring harmonious interaction and consistent appearance between the foreground objects and background figures. It guides pose generation using **large language models** and maintains consistency between foreground and background.
+24. **Yume: Build Your Own Virtual World!** 🎉🌎
+    Yume is a super powerful interactive world generation model that lets you create virtual worlds from just images, text, or videos. Get ready to unleash your imagination! 🎮🌌 [🔗 Project Repository](https://github.com/stdstu12/YUME) [🌐 Project Homepage](https://stdstu12.github.io/YUME-Project/)
 
-23. **MegaScience** is a cornerstone for scientific reasoning! This dataset features 1.25 million instances across 7 scientific disciplines, designed to evaluate various models' performance on scientific reasoning tasks. [🔗 Project Repository](https://arxiv.org/abs/2507.16812)
+25. **AI Multi-Domain Reasoning: Can Domains Actually Help Each Other Out?** 🤔🧠
+    A recent paper dives into how to beef up large language models (LLMs) with stronger multi-domain reasoning capabilities within a reinforcement learning framework. It's all about seeing if different knowledge domains can collaborate for smarter AI. Fascinating stuff! 🤓
 
-24. The **AI arms race** is in full swing, but it's time to seriously think about its sustainability and the ethical and social issues popping up with rapid AI development.
+26. **My AI Agent is Too Powerful, I Can't Keep Up!** 🤯🤖
+    One developer hilariously ranted that his AI agent has become so incredibly powerful, *he's* now the bottleneck! Talk about a first-world problem, right? 😂
 
-25. **Concept Ablation Fine-tuning (CAFT)** makes large models generalize better and more predictably! CAFT uses interpretability tools to control LLM generalization without needing to modify training data. It guides the model by removing concepts linked to undesirable generalization during the fine-tuning process. [🔗 Project Repository](https://arxiv.org/abs/2507.16795)
+27. **Free Gradient Background Assets Are Here!** 🎉🎨
+    Xiangyang Qiaomu has dropped over 40 free gradient background assets! Get ready to jazz up your designs. So cool! ✨ [Video Demo](https://video.twimg.com/tweet_video/GwmccMDawAAR_PB.mp4) [🔗 Get Link](https://grainient.supply/freebies)
 
-26. Say goodbye to context limits with the **Threaded Inference Model (TIM)**! The TIM model and its runtime, TIMRUN, break through context length restrictions by modeling natural language as inference trees. [🔗 Project Repository](https://arxiv.org/abs/2507.16784)
+28. **Linear Data Visualization Tool Unleashes New Dashboard Feature!** 📊📈
+    Linear's fresh new dashboard feature lets you dive deep into key metrics, making problem-solving a breeze. Get ready to visualize your data like never before! 🚀 [Video Demo](https://video.twimg.com/amplify_video/1948392385378983936/vid/avc1/3840x1920/kPRIaKBy62rFU390.mp4?tag=21)
 
-27. **Zero-Shot Quantization-Aware Training (ZSQ)** makes object detection lighter and more efficient! The ZSQ method quantizes models using synthetic data generated from pre-trained models, meaning no real training data is needed. [🔗 Project Repository](https://github.com/DFQ-Dojo/dfq-toolkit) [🔗 Project Repository](https://arxiv.org/abs/2507.16782)
+29. **AI Design Agent Lovart Officially Launched!** 🤖🎨
+    Karl's AI Watts has announced that their AI design agent, Lovart, is officially live, complete with 11 test cases. Time to get creative! 🖼️✨ [Video Demo](https://video.twimg.com/ext_tw_video/1948044497851420672/pu/vid/avc1/1280x720/MqRCZ-UoG0AKUOe8.mp4?tag=12)
 
-28. Can robots learn from "experience"? Enter the **ExpTeach framework**! This framework empowers robots to master skills through self-learning, picking up lessons from both successes and failures, and meticulously recording their experiences. [🔗 Paper Link](https://arxiv.org/abs/2507.16713)
+30. **Community Success Story: Persistence Pays Off!** 🎉💪
+    Ge Fei shared an inspiring tale about a community member who totally crushed it through continuous effort. Now that's what we call dedication! 🌟
 
-29. Talking AI is here with **Step-Audio 2**! This powerful multimodal large language model can perform speech recognition, understand emotions and speaking styles, and even call external tools. [🔗 Project Repository](https://github.com/stepfun-ai/Step-Audio2) [▶️ Video Demo](假设这里有一个演示视频的链接)
+31. **KANO Model: Unlocking User Needs!** 🤔📊
+    Dashuai Laoyuan introduced the KANO model, a super handy tool for analyzing user needs. Get ready to understand your users like never before! 🧐
 
-30. Has **AI truly revolutionized software engineering**? Some folks think AI-assisted programming is just a minor upgrade, not a complete revolution, viewing AI more as a helpful tool than a game-changer.
+32. **Minimalist Typing App: Cool But Flawed!** ⌨️✨
+    Tw93 gave a shoutout to Monotype, a minimalist typing app that's pretty fun, but here's the catch: it doesn't support Chinese. Bummer! 😔 [▶️ Video Demo](https://video.twimg.com/amplify_video/1946930938358747136/vid/avc1/1920x1080/9bouDkDOHgDRdTUk.mp4?tag=21)
 
-31. The simple beauty of the **macOS Dock**! Dashuai Laoyuan shared his super clean macOS Dock setup. ![Image](https://pbs.twimg.com/media/GwkG5S5bQAAycdk?format=jpg&name=orig)
-
-32. **Warp** is getting a lot of flak for feature bloat. wwwgoubuli complained that Warp is packing in so many features it's actually become harder to use than iTerm2.
-
-33. The **Lovable AI website builder** is a true miracle! Gefei shared the astonishing news that the Lovable AI website building platform hit over $100 million ARR in just 8 months. Wow! ![Image](https://pbs.twimg.com/media/Gwjea_aa4AAmrlP?format=jpg&name=orig) ![Image](https://pbs.twimg.com/media/GwjebA9aEAAd-cf?format=jpg&name=orig) ![Image](https://pbs.twimg.com/media/GwjebBob0AAcHYb?format=jpg&name=orig)
-
-34. **JianYing automation** is here to free up your hands! Huang Yun shared a JianYing draft generation package that can fully automate video generation and mixed editing. [🔗 Project Repository](https://github.com/GuanYixuan/pyJianYingDraft)
-
-35. This **online puzzle tool** is a real gem: simplicity is king! Tw93 recommended an online puzzle tool that truly shines with its straightforward, easy-to-use design. ![Image](https://pbs.twimg.com/media/GwTh-KebwAAe8qL?format=jpg&name=orig)
+33. **Meta Drops Super Cool Bracelet That Recognizes Hand Gestures & Open-Sources Models!** 🤔😄
+    Meta has just released an absolutely wicked bracelet that can recognize hand gestures, and get this: they've even open-sourced the models and training code! This is huge for interaction tech. Whoa! 🤯 [▶️ Video Demo](https://video.twimg.com/amplify_video/1948386837917265920/vid/avc1/1280x720/5e8oits4QQ1i7yyz.mp4?tag=21) [🔗 Project Repository](https://github.com/facebookresearch/generic-neuromotor-interface)
