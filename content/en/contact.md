@@ -6,9 +6,9 @@ sidebar:
 ---
 # Contact Me 👋
 
-Ready to connect? I'm genuinely thrilled to hear your thoughts and suggestions. Whether you've got questions, collaboration ideas, or need support, don't hesitate to reach out using the contact methods below!
+Got questions, wild ideas, or just wanna chat? I'm all ears and would absolutely love to hear from you! Please feel free to reach out using the methods below.
 
-And about getting back to you? You can count on me to reply to your emails super quickly! 🚀
+I'll shoot you a reply ASAP! ⚡
 
 ---
 
@@ -18,5 +18,5 @@ And about getting back to you? You can count on me to reply to your emails super
     *   [764165941@qq.com](mailto:764165941@qq.com)
 
 *   **Office Hours:**
-    *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Weekends and public holidays: Chillin' out! 😎)
+    *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
+    *   (Weekends and public holidays: Chillin' out! 🏖️)
