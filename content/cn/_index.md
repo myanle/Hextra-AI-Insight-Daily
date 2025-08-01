@@ -2,7 +2,6 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /2025-07/2025-07-31
 description: "每日精选AI行业要闻、开源热点、学术前沿及大V观点。AI资讯；AI日报；AI知识库；AI教程；AI资讯日报；AI工具；AI Daily News"
 cascade:
   type: docs
