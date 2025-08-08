@@ -6,15 +6,17 @@ sidebar:
 ---
 # Contact Me
 
-I'm super keen to hear from you! If you've got questions, partnership ideas, or need a hand with something, feel free to reach out using the info below. I promise to get back to your emails pronto! 🚀
+I'd love to hear from you! 👋 If you have any questions, partnership ideas, or need support, here's how to reach me.
+
+I promise to get back to you ASAP.
 
 ---
 
-## **Contact Information**
+## **Contact Info**
 
 *   **Email:**
     *   [764165941@qq.com](mailto:764165941@qq.com)
 
-*   **Office Hours:**
+*   **Office Hours:** ⏰
     *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Closed on weekends and public holidays)
+    *   Just a heads-up, I'm usually off on weekends and public holidays.
