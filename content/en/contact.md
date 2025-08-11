@@ -6,9 +6,7 @@ sidebar:
 ---
 # Contact Me
 
-Hey there! 👋 I'd absolutely love to hear from you. Got a question, a cool collaboration idea, or just need some support? Hit me up!
-
-I'll make sure to get back to your emails ASAP.
+Hey there! I'd absolutely love to hear from you. If you've got any questions, brilliant ideas for collaboration, or need a hand with something, feel free to hit me up using the deets below. I promise I'll get back to your emails super quickly.
 
 ---
 
@@ -18,5 +16,5 @@ I'll make sure to get back to your emails ASAP.
     *   [764165941@qq.com](mailto:764165941@qq.com)
 
 *   **Office Hours:**
-    *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Closed on weekends and public holidays)
+    *   My standard working hours are Monday to Friday, from 9:00 AM to 6:00 PM (GMT+8)
+    *   (Just a heads-up, I'm usually off on weekends and public holidays.)
