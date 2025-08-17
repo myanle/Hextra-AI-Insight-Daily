@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Get in Touch!
+# Get In Touch
 
-I'm all ears for your thoughts and suggestions! If you've got any questions, brilliant partnership ideas, or just need some support, please feel free to reach out using the deets below.
+Got questions, wild ideas for a partnership, or just need a hand? I'm all ears! Seriously, I'd love to hear your thoughts and feedback. Hit me up using the deets below.
 
-I promise to get back to your emails ASAP. 🚀
+And hey, I promise to get back to your emails super fast. No ghosting here! 😉
 
 ---
 
@@ -18,5 +18,5 @@ I promise to get back to your emails ASAP. 🚀
     *   [764165941@qq.com](mailto:764165941@qq.com)
 
 *   **Office Hours:**
-    *   You can usually catch me Monday to Friday, from 9:00 AM - 6:00 PM (GMT+8).
-    *   Just a heads-up: I'm off on weekends and public holidays. 😴
+    *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
+    *   (Closed on weekends and public holidays)
