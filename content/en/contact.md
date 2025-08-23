@@ -4,15 +4,15 @@ type: page
 sidebar:
   exclude: true
 ---
-# Get in Touch! 👋
+# Contact Me
 
-Got something on your mind? I'm always thrilled to hear your thoughts, feedback, or any cool ideas you've got brewing! Whether it's questions, partnership vibes, or you just need some support, don't hesitate to reach out using the deets below.
+Hey there! I'm always stoked to hear from you. 🙌 Got questions, a brilliant collaboration idea, or just need some support? Don't hesitate to reach out! 👇
 
-I promise to get back to your emails pronto! 🚀
+I promise to hit you back on emails ASAP! 🚀
 
 ---
 
-## **How to Reach Me**
+## **Contact Info**
 
 *   **Email:**
     *   [764165941@qq.com](mailto:764165941@qq.com)
