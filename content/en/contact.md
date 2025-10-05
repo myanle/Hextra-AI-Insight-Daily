@@ -6,9 +6,9 @@ sidebar:
 ---
 # Contact Me
 
-Got questions, brilliant ideas, or just need some support? I'm always thrilled to hear from you, so hit me up using the info below!
+Hey there! 👋 I'm super excited to hear from you – your thoughts and suggestions are always welcome. Got questions? Ideas for collaboration? Need some support? Don't hesitate to hit me up using the deets below.
 
-And don't worry, your emails? I'll get back to you ASAP!
+And hey, I totally promise to get back to your emails ASAP! 🚀
 
 ---
 
@@ -19,4 +19,4 @@ And don't worry, your emails? I'll get back to you ASAP!
 
 *   **Office Hours:**
     *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Closed on weekends and public holidays)
+    *   (Weekends and public holidays: Chillin' out! 🌴)
