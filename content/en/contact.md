@@ -6,9 +6,9 @@ sidebar:
 ---
 # Contact Me
 
-I'm super keen to hear your thoughts and suggestions! If you've got any questions, brilliant ideas for collaboration, or just need a hand, feel free to reach out using the deets below.
+I'm always stoked to hear your thoughts and suggestions! If you've got any questions, a cool partnership idea, or just need some support, feel free to reach out using the info below.
 
-Your emails? I'll hit you back ASAP! 🚀
+You can bet I'll get back to your emails ASAP. 🚀
 
 ---
 
