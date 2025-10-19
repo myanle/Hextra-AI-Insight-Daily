@@ -4,17 +4,17 @@ type: page
 sidebar:
   exclude: true
 ---
-# Contact Me
+# Let's Connect! 👋
 
-I'd love to hear your thoughts, feedback, and suggestions! If you have any questions, partnership opportunities, or need support, please don't hesitate to reach out.
+I'm always keen to hear your thoughts and ideas! Whether you have questions, collaboration interests, or need some support, feel free to reach out via the methods below.
 
-You can count on me to respond to your emails as quickly as possible.
+I promise to get back to your emails pronto!
 
 ---
 
-## **Contact Details**
+## **How to Reach Me**
 
-*   **Email:**
+*   **Email:** 📧
     *   [764165941@qq.com](mailto:764165941@qq.com)
 
 *   **Office Hours:**
