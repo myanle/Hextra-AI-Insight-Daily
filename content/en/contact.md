@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Let's Connect!
+# Get in Touch
 
-Got questions, brilliant ideas, or just wanna chat about potential collaborations or support? I'm all ears! Seriously, hit me up.
+I'm super keen to hear from you! If you've got questions, partnership ideas, or just need some support, hit me up using the details below.
 
-Your emails? I promise to get back to you super fast!
+I promise to get back to your emails ASAP.
 
 ---
 
@@ -18,5 +18,5 @@ Your emails? I promise to get back to you super fast!
     *   [764165941@qq.com](mailto:764165941@qq.com)
 
 *   **Office Hours:**
-    *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Closed on weekends and public holidays)
+    *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
+    *   (I'm off on weekends and public holidays)
