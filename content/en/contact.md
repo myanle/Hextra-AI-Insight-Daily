@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Get in Touch
+# Get In Touch
 
-I'm super keen to hear from you! If you've got questions, partnership ideas, or just need some support, hit me up using the details below.
+Hey there! 👋 I'm super keen to hear your thoughts and suggestions. Whether you've got questions, brilliant collaboration ideas, or need a little support, just hit me up using the details below!
 
-I promise to get back to your emails ASAP.
+Quick heads-up: I promise to get back to your emails ASAP! 🚀
 
 ---
 
@@ -19,4 +19,4 @@ I promise to get back to your emails ASAP.
 
 *   **Office Hours:**
     *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (I'm off on weekends and public holidays)
+    *   (Closed on weekends and public holidays)
