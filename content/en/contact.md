@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Contact Me
+# Get In Touch
 
-Hey there! I'm always stoked to hear from you. Got a question, a killer collab idea, or just need some support? Don't hesitate to reach out using the info below!
+Got questions, feedback, or need some help? 🤔 I'd absolutely love to hear from you! Please feel free to connect with me using the methods below for any inquiries, partnerships, or support you might need.
 
-You can totally count on me to hit you back ASAP via email.
+I'm super quick with replies! 🚀 Expect to hear back from me ASAP.
 
 ---
 
@@ -19,4 +19,4 @@ You can totally count on me to hit you back ASAP via email.
 
 *   **Office Hours:**
     *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Weekends and public holidays are my off-duty chill time!)
+    *   (Weekends and public holidays are my downtime. 🧘‍♀️)
