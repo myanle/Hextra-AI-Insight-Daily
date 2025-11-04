@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Contact Me 👋
+# Get In Touch
 
-I'd absolutely love to hear from you! Got questions, fresh ideas for collaboration, or need a little support? Please don't hesitate to reach out.
+Reach out! 👋 I'm always happy to hear your thoughts and suggestions. Whether you have questions, collaboration ideas, or need support, please contact me using the methods below.
 
-Emails? I promise to get back to you ASAP! 🚀
+I promise to get back to you ASAP! 🚀 Your emails will receive my prompt attention.
 
 ---
 
@@ -19,4 +19,4 @@ Emails? I promise to get back to you ASAP! 🚀
 
 *   **Office Hours:**
     *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Heads up: I'm off on weekends and public holidays!)
+    *   (Closed on weekends and public holidays)
