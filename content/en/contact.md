@@ -6,9 +6,9 @@ sidebar:
 ---
 # Contact Me
 
-Got questions? Ideas for collaboration? Need support? Just hit me up! I'm always stoked to hear your feedback and suggestions.
+Got questions, collaboration ideas, or need some support? Feel free to reach out! I'm super keen to hear your thoughts and suggestions.
 
-I promise to get back to your emails ASAP.
+I promise to get back to your emails super fast.
 
 ---
 
@@ -19,4 +19,4 @@ I promise to get back to your emails ASAP.
 
 *   **Office Hours:**
     *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Closed on weekends and public holidays)
+    *   Weekends and public holidays are my chill-out days! 🏖️
