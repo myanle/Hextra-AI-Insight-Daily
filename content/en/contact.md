@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Get In Touch!
+# Get in Touch! 👋
 
-I'd absolutely love to hear from you! If you have any questions, brilliant collaboration ideas, or need a hand with anything, just ping me using the details below. 👇
+I'd absolutely love to hear your thoughts and ideas! Got questions? Brainstorming a cool collaboration? Or just need a hand? Don't hesitate to reach out using the methods below.
 
-I promise to get back to your emails super pronto!
+I promise to get back to your emails ASAP! 🚀
 
 ---
 
@@ -19,4 +19,4 @@ I promise to get back to your emails super pronto!
 
 *   **Office Hours:**
     *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Closed on weekends and public holidays)
+    *   Heads up: I take weekends and public holidays off to recharge! 🔋
