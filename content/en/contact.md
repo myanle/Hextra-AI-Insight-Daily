@@ -6,9 +6,9 @@ sidebar:
 ---
 # Get in Touch! 👋
 
-I'd absolutely love to hear your thoughts and ideas! Got questions? Brainstorming a cool collaboration? Or just need a hand? Don't hesitate to reach out using the methods below.
+Hey there! I'm always super keen to hear your thoughts and suggestions. Whether you've got questions, partnership ideas, or need some support, here's how you can hit me up.
 
-I promise to get back to your emails ASAP! 🚀
+Rest assured, I promise to get back to your emails lickety-split!
 
 ---
 
@@ -18,5 +18,5 @@ I promise to get back to your emails ASAP! 🚀
     *   [764165941@qq.com](mailto:764165941@qq.com)
 
 *   **Office Hours:**
-    *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   Heads up: I take weekends and public holidays off to recharge! 🔋
+    *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
+    *   (Closed on weekends and public holidays) 🏖️
