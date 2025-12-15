@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Get in Touch! 👋
+# Get in Touch! 🎉
 
-Hey there! I'm always super keen to hear your thoughts and suggestions. Whether you've got questions, partnership ideas, or need some support, here's how you can hit me up.
+I'm always stoked to hear from you! If you've got questions, collabs in mind, or need some support, just hit me up using the deets below.
 
-Rest assured, I promise to get back to your emails lickety-split!
+I promise to get back to your emails pronto!
 
 ---
 
@@ -19,4 +19,4 @@ Rest assured, I promise to get back to your emails lickety-split!
 
 *   **Office Hours:**
     *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Closed on weekends and public holidays) 🏖️
+    *   (Chillin' on weekends & public holidays!)
