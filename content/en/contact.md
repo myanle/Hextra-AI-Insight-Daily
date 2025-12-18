@@ -4,15 +4,15 @@ type: page
 sidebar:
   exclude: true
 ---
-# Get in Touch! 👋
+# Contact Me
 
-I'm all ears for your feedback and suggestions! Whether you've got questions, collaboration ideas, or need support, hit me up using the info below.
+I'd love to hear from you! 👋 Whether you've got questions, brilliant collaboration ideas, or need a hand, just hit me up using the methods below.
 
-I'll make sure to get back to your emails super fast.
+I promise to reply to your emails pronto. 🚀
 
 ---
 
-## **How to Reach Me**
+## **Contact Info**
 
 *   **Email:**
     *   [764165941@qq.com](mailto:764165941@qq.com)
