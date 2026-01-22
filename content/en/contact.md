@@ -4,15 +4,15 @@ type: page
 sidebar:
   exclude: true
 ---
-# Get In Touch 👋
+# Get in Touch! 🚀
 
-I'm super stoked to hear from you! Got questions, awesome collab ideas, or need a hand with something? Just hit me up using the deets below.
+I'm always keen to hear from you! Whether you've got questions, partnership ideas, or just need some support, hit me up using the deets below.
 
-I promise to get back to your emails ASAP.
+📧 I promise to get back to your emails pronto!
 
 ---
 
-## **Contact Info**
+## **How to Reach Me**
 
 *   **Email:**
     *   [764165941@qq.com](mailto:764165941@qq.com)
