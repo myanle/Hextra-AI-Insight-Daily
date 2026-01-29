@@ -6,9 +6,9 @@ sidebar:
 ---
 # Contact Me
 
-I'm always super stoked to hear from you! Whether you've got questions, brilliant collaboration ideas, or just need some support, don't hesitate to reach out using the deets below.
+I'm super stoked to hear from you! 👋 Whether you've got questions, a collaboration idea brewing, or need some support, don't hesitate to reach out using the deets below.
 
-You can count on me to respond to your emails as quickly as possible! 🚀
+I promise I'll get back to your emails ASAP! 🚀
 
 ---
 
