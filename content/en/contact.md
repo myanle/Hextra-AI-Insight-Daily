@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Contact Me
+# Let's Connect! 🤝
 
-Hey there! 👋 I'm always stoked to hear from you. Got questions, cool collaboration ideas, or need a little support? Just hit me up using the deets below.
+I'm genuinely keen to hear from you! Whether you've got questions, a cool collaboration idea, or just need a bit of support, reaching out is super easy. Just use the contact deets below.
 
-Your emails? 📧 I promise to get back to you as quickly as humanly possible.
+I promise to shoot back a reply to your emails pronto. 🚀
 
 ---
 
@@ -19,4 +19,4 @@ Your emails? 📧 I promise to get back to you as quickly as humanly possible.
 
 *   **Office Hours:**
     *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Just a heads-up: I'm chilling on weekends and public holidays!)
+    *   (Closed on weekends and public holidays)
