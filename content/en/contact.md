@@ -6,9 +6,9 @@ sidebar:
 ---
 # Get In Touch
 
-I'm always eager to hear from you! 👋 Whether you've got questions, brilliant collaboration ideas, or just need a helping hand, feel free to reach out using the methods below.
+Hey there! Got some thoughts, questions, or a cool project in mind? Maybe you just need a hand? Whatever it is, I'd absolutely love to hear from you!
 
-Your emails? I promise to get back to you super quickly. 🚀
+Your emails? Expect a speedy reply! I'm committed to getting back to you ASAP.
 
 ---
 
@@ -19,4 +19,4 @@ Your emails? I promise to get back to you super quickly. 🚀
 
 *   **Office Hours:**
     *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Weekends and public holidays are chill time! 😎)
+    *   (Closed on weekends and public holidays)
