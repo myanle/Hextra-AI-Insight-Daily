@@ -6,13 +6,13 @@ sidebar:
 ---
 # Contact Me
 
-Got questions? Ideas for collaboration? Need some help? I'm all ears and super keen to hear from you and your feedback! Just hit me up using the details below. 👇
+I'd love to hear from you! 👋 Whether you've got questions, brilliant ideas for collaboration, or need a little support, just reach out using the deets below.
 
-Expect a speedy reply to your emails! ⚡
+I'm committed to getting back to your emails ASAP! 🚀
 
 ---
 
-## **Get in Touch**
+## **Get in Touch!**
 
 *   **Email:**
     *   [764165941@qq.com](mailto:764165941@qq.com)
