@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Get In Touch
+# Get in Touch
 
-Hey there! 👋 I'd absolutely love to hear your thoughts and suggestions. Whether you've got questions, some cool collaboration ideas, or just need a bit of support, feel free to hit me up using the details below.
+I'd absolutely love to hear from you! If you've got any burning questions, brilliant collaboration ideas, or just need a bit of support, don't hesitate to reach out using the details below. 👇
 
-My promise? I'll get back to your emails super quickly! 🚀
+And hey, I promise to get back to your emails ASAP.
 
 ---
 
