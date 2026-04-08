@@ -6,9 +6,9 @@ sidebar:
 ---
 # Get in Touch
 
-I'd absolutely love to hear from you! If you've got any burning questions, brilliant collaboration ideas, or just need a bit of support, don't hesitate to reach out using the details below. 👇
+I'm genuinely stoked to hear from you! 🎉 Got questions, awesome collaboration ideas, or need a little help? Don't be shy, just hit me up using the deets below.
 
-And hey, I promise to get back to your emails ASAP.
+You can bet I'll get back to your emails ASAP! ⚡
 
 ---
 
