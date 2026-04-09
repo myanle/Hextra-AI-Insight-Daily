@@ -4,171 +4,171 @@ type: page
 sidebar:
   exclude: true
 ---
+# Privacy Policy
 
-# 隐私政策
-
-*最后更新日期：2025年7月16日*
+*Last updated: July 16, 2025*
 
 ---
 
-本隐私政策描述了当您使用本服务时，我们关于收集、使用和披露您信息的政策和程序，并告知您所享有的隐私权以及法律如何保护您。
+This Privacy Policy is all about how we handle your info. It lays out our policies and procedures for collecting, using, and dishing out your data when you use our Service. Plus, we'll let you know your privacy rights and how the law has your back. 🤝
 
-我们使用您的个人数据来提供和改进本服务。使用本服务即表示您同意我们根据本隐私政策收集和使用信息。
+Your personal data? We're using it to power up and polish our Service. When you use the Service, you're essentially giving us a thumbs-up to collect and use your info according to this Privacy Policy. Cool? 😎
 
-## 解释与定义
+## Interpretations and Definitions
 
-### 解释
-首字母大写的词语具有在以下条件下定义的含义。无论其以单数还是复数形式出现，下列定义均具有相同的含义。
+### Interpretations
+Capitalized words? They've got specific meanings, defined right here. And hey, whether they pop up in singular or plural, these definitions stay the same, no surprises! 😉
 
-### 定义
-为本隐私政策之目的：
+### Definitions
+For the purpose of this Privacy Policy:
 
-- **账户** 指为您创建的用于访问我们服务或服务部分内容的唯一账户。
+- **Account**: This is your unique spot, set up just for you to hop into our Service or parts of it. Think of it as your personal key! 🔑
 
-- **关联公司** 指控制一方、被一方控制或与一方共同受控的实体，其中“控制”指拥有50%或以上的股份、股权或其他有权投票选举董事或其他管理机构的证券。
+- **Affiliate**: Basically, it's any entity that's got control over us, we control, or that shares common control with us. "Control" here means owning 50% or more of the voting shares, equity, or other securities. We're talking family ties, business-style! 🤝
 
-- **公司** (在本协议中称为“公司”、“我们”或“我们的”) 指 **猿思网 AI 日报**。
+- **Company**: That's us! (Aka "the Company," "We," "Us," or "Our" in this whole shindig). We're **Yuan Siwang AI Daily**! 🤖
 
-- **Cookies** 是网站放置在您的计算机、移动设备或任何其他设备上的小文件，其中包含您在该网站上的浏览历史详情等多种用途。
+- **Cookies**: These are those tiny files websites stash on your computer, phone, or any other device. They hold bits of your browsing history on that site, among other things. Nifty little trackers! 🍪
 
-- **国家** 指：美国加利福尼亚州。
+- **Country**: We're talking California, USA. 🇺🇸☀️
 
-- **设备** 指任何可以访问本服务的设备，如计算机、手机或数字平板电脑。
+- **Device**: Think any gadget you can use to hit up our Service – like your computer, phone, or tablet. If it connects, it's a device! 💻📱
 
-- **个人数据** 是与已识别或可识别的个人相关的任何信息。
+- **Personal Data**: This is any info that points directly to you or could identify you. Your digital fingerprint, if you will! 🕵️‍♀️
 
-- **服务** 指本网站。
+- **Service**: Simple! It's just our Website. 🌐
 
-- **服务提供商** 指代表公司处理数据的任何自然人或法人。它指代由公司聘请的第三方公司或个人，以协助提供服务、代表公司提供服务、执行与服务相关的服务或协助公司分析服务使用情况。
+- **Service Provider**: This is anyone (a person or a company) who processes data for us. Think of them as the awesome third-party folks or individuals we hire to help us run, provide, support, or analyze our Service. They've got our back! 💪
 
-- **使用数据** 指自动收集的数据，这些数据由使用服务或服务基础设施本身生成（例如，页面访问的持续时间）。
+- **Usage Data**: This is the data that gets automatically scooped up when you use our Service or from the Service's tech backbone itself. We're talking stuff like how long you chilled on a page. 📊
 
-- **网站** 指 **猿思网的 AI 日报**，可从 `https://yuansiwang.netlify.app/` 访问。
+- **Website**: This is **Yuan Siwang's AI Daily**, and you can check it out at `https://yuansiwang.netlify.app/`. Hop on over! 🚀
 
-- **您** 指访问或使用本服务的个人，或代表该个人访问或使用本服务的公司或其他法律实体。
+- **You**: That's you, buddy! The person hitting up or using our Service. Or, if you're representing them, the company or legal entity doing the accessing. 👋
 
-## 收集和使用您的个人数据
+## Collecting and Using Your Personal Data
 
-### 收集的数据类型
+### Types of Data We Collect
 
-#### 个人数据
-在使用我们的服务时，我们可能会要求您提供某些可用于联系或识别您的个人身份信息。个人身份信息可能包括但不限于：
+#### Personal Data
+Personal Data? When you're using our Service, we might ask you to share some info that can help us get in touch or figure out who you are. This 'personally identifiable information' could be things like, but not limited to: 👇
 
-- 电子邮件地址
-- 使用数据
+- Email address
+- Usage Data
 
-#### 使用数据
-使用服务时会自动收集使用数据。
+#### Usage Data
+Usage Data? It's automatically scooped up the moment you start using our Service. No extra effort from your end! 🪄
 
-使用数据可能包括您设备的互联网协议地址（例如 IP 地址）、浏览器类型、浏览器版本、您访问我们服务的页面、您访问的时间和日期、在这些页面上花费的时间、唯一设备标识符和其他诊断数据。
+Usage Data might spill the beans on things like your Device's IP address, browser type and version, which pages of our Service you're checking out, when and how long you visit, your unique device ID, and other techy diagnostic info. It's all about understanding how you roll! 🕵️‍♀️
 
-当您通过移动设备访问服务时，我们可能会自动收集某些信息，包括但不限于您使用的移动设备类型、您的移动设备唯一ID、您移动设备的IP地址、您的移动操作系统、您使用的移动互联网浏览器类型、唯一设备标识符和其他诊断数据。
+Mobile device access? When you're hitting up the Service on your phone or tablet, we might automatically grab some deets. This includes (but isn't limited to!) your mobile device type, its unique ID, IP address, operating system, the mobile browser you're rocking, unique device identifiers, and other diagnostic data. We like to know what you're working with! 📱
 
-当您访问我们的服务或通过移动设备访问服务时，我们也可能收集您的浏览器发送的信息。
+Your browser? It sends us info whenever you visit our Service, whether you're on a desktop or mobile. We might just scoop that up too! 🕵️‍♂️
 
-### 追踪技术和 Cookies
-我们使用 Cookies 和类似的追踪技术来追踪我们服务上的活动并存储某些信息。使用的追踪技术包括信标、标签和脚本，用于收集和追踪信息，并改进和分析我们的服务。我们使用的技术可能包括：
+### Tracking Technologies and Cookies
+Cookies and similar tracking technologies? We're all about 'em! We use these to keep tabs on what's happening on our Service and to stash away some info. We're talking beacons, tags, and scripts – all used to collect and track data, helping us make our Service even better and understand how you're using it. Here's a peek at what we're using: 👇
 
-- **Cookies 或浏览器 Cookies**：Cookie 是放置在您设备上的一个小文件。您可以指示您的浏览器拒绝所有 Cookies 或在发送 Cookie 时进行提示。但是，如果您不接受 Cookies，您可能无法使用我们服务的某些部分。除非您已调整浏览器设置以拒绝 Cookies，否则我们的服务可能会使用 Cookies。
-- **Web Beacons**：我们服务的某些部分和我们的电子邮件可能包含称为网络信标的小型电子文件（也称为透明GIF、像素标签和单像素GIF），这些文件允许公司（例如）统计访问过这些页面或打开过电子邮件的用户，并用于其他相关的网站统计（例如，记录某个部分的受欢迎程度并验证系统和服务器的完整性）。
+- **Cookies or Browser Cookies**: A Cookie is just a tiny file that gets plonked on your Device. You can totally tell your browser to reject all Cookies or give you a heads-up when one's coming your way. But heads up: if you don't play nice with Cookies, some parts of our Service might not work for you. Unless you've already tweaked your browser settings to say "no thanks" to Cookies, our Service will likely be using them. Just sayin'! 😉
+- **Web Beacons**: Our Service (and some of our emails) might hide tiny electronic files called web beacons – you might also hear them called clear GIFs, pixel tags, or single-pixel GIFs. These bad boys let us do cool stuff like count how many users visited a page or opened an email, plus they help with other website stats, like seeing which sections are super popular and making sure our systems are humming along nicely! 🕵️‍♀️
 
-Cookies 可以是“持久性”或“会话性”Cookies。当您离线时，持久性 Cookies 会保留在您的个人计算机或移动设备上，而会话性 Cookies 会在您关闭网络浏览器后立即删除。
+Cookies? They come in two flavors: 'Persistent' or 'Session' Cookies. Persistent Cookies stick around on your computer or phone even after you've logged off. Session Cookies, on the other hand, vanish the moment you shut down your browser. Poof! 👻
 
-我们出于以下目的同时使用会话性和持久性 Cookies：
+Session and Persistent Cookies? We use both for these reasons: 👇
 
-- **必要/基本 Cookies**
-  - **类型**：会话 Cookies
-  - **管理者**：我们
-  - **目的**：这些 Cookies 对于通过网站向您提供可用服务以及使您能够使用其某些功能至关重要。它们有助于验证用户身份并防止欺诈性使用用户账户。没有这些 Cookies，您所要求的服务将无法提供，我们仅使用这些 Cookies 为您提供这些服务。
+- **Necessary / Essential Cookies**
+  - **Type**: Session Cookies
+  - **Administered by**: Us
+  - **Purpose**: Essential Cookies are the absolute must-haves for making sure you get the services available on our Website and can use its cool features. They're like the bouncers at the door, helping to authenticate users and stop any shady, fraudulent account use. No these Cookies, no service for you! We only use 'em to deliver what you asked for. Plain and simple. ✅
 
-- **Cookies 政策 / 通知接受 Cookies**
-  - **类型**：持久性 Cookies
-  - **管理者**：我们
-  - **目的**：这些 Cookies 用于识别用户是否已接受在网站上使用 Cookies。
+- **Cookies Policy / Acceptance Cookies**
+  - **Type**: Persistent Cookies
+  - **Administered by**: Us
+  - **Purpose**: These Cookies are basically our little reminder that you've given us the green light to use Cookies on the Website. Once you've clicked 'accept', we remember! 👍
 
-- **功能性 Cookies**
-  - **类型**：持久性 Cookies
-  - **管理者**：我们
-  - **目的**：这些 Cookies 使我们能够记住您在使用网站时所做的选择，例如记住您的登录信息或语言偏好。这些 Cookies 的目的是为您提供更个性化的体验，避免您每次使用网站时都必须重新输入您的偏好。
+- **Functionality Cookies**
+  - **Type**: Persistent Cookies
+  - **Administered by**: Us
+  - **Purpose**: These Cookies are super handy because they help us recall your choices while you're cruising around the Website – like your login info or language settings. Their whole point? To give you a smoother, more personalized experience so you don't have to keep punching in your preferences every single time. 🙌
 
-有关我们使用的 Cookies 和您关于 Cookies 的选择的更多信息，请访问我们的 Cookies 政策或我们隐私政策的 Cookies 部分。
+More info on Cookies and your choices? Pop over to our Cookies Policy or the Cookies section of this Privacy Policy. It's all there, waiting for ya! 🧐
 
-### 您个人数据的使用
-公司可能为以下目的使用个人数据：
+### How We Use Your Personal Data
+Personal Data? Here's how the Company might use it: 👇
 
-- **为提供和维护我们的服务**，包括监控我们服务的使用情况。
-- **为管理您的账户**：管理您作为服务用户的注册。您提供的个人数据可以使您访问作为注册用户可用的不同功能。
-- **为履行合同**：为您购买的产品、物品或服务制定、遵守和履行购买合同，或通过本服务与我们签订的任何其他合同。
-- **为与您联系**：通过电子邮件、电话、短信或其他等效的电子通信形式（如移动应用程序的推送通知）与您联系，告知与功能、产品或已签约服务相关的更新或信息性通信，包括安全更新，当这些是必要或合理的时候。
-- **为您提供新闻**、特别优惠和关于我们提供的其他商品、服务和活动的一般信息，这些信息与您已购买或查询的类似，除非您选择不接收此类信息。
-- **为管理您的请求**：处理和管理您向我们提出的请求。
-- **为业务转让**：我们可能使用您的信息来评估或进行合并、剥离、重组、改组、解散或其他部分或全部资产的出售或转让，无论是以持续经营的方式还是作为破产、清算或类似程序的一部分，其中我们持有的关于我们服务用户的个人数据是转让的资产之一。
-- **为其他目的**：我们可能将您的信息用于其他目的，如数据分析、识别使用趋势、确定我们促销活动的有效性，以及评估和改进我们的服务、产品、营销和您的体验。
+- **To provide and maintain our Service**: This includes keeping an eye on how our Service is being used, making sure everything's running smoothly! 🛠️
+- **To manage your Account**: We use your Personal Data to handle your registration as a user. This info lets you tap into all the cool features only registered users can access. Sweet! ✨
+- **For the performance of a contract**: This means we use your data to get those purchase contracts (for products, items, or services you snagged) all set up, followed, and fulfilled. Or any other contract you make with us through the Service. Business is business! 💼
+- **To contact you**: We might reach out via email, phone calls, SMS, or other digital pings (like push notifications from our mobile app). This is usually for updates or important info about features, products, or services you've signed up for – including those crucial security updates – whenever it's necessary or makes sense. We'll keep you in the loop! 📧📞
+- **To provide you with news**: We love sharing the latest! We'll send you news, special offers, and general info about other awesome goods, services, and events that are similar to what you've already bought or shown interest in. Of course, you can always opt out if you're not feeling it. Your call! 🗞️✨
+- **To manage your requests**: Got a question or a request? We use your data to handle and manage whatever you throw our way. We're here to help! 🙋‍♀️
+- **For business transfers**: If we ever go through a merger, sale, restructuring, or anything like that (whether it's business as usual or a bankruptcy situation), we might use your info to evaluate or complete the deal. Your Personal Data could be one of the assets transferred in such a scenario. Just keepin' it real! 🏢➡️💼
+- **For other purposes**: We might also use your info for other cool stuff, like data analysis, spotting usage trends, figuring out if our promotions are hitting the mark, and generally boosting our Service, products, marketing, and your overall experience. It's all about getting better! 📈✨
 
-我们可能在以下情况下共享您的个人信息：
+Your personal information? We might share it when these situations pop up: 👇
 
-- **与服务提供商共享**：我们可能与服务提供商共享您的个人信息，以监控和分析我们服务的使用情况，并与您联系。
-- **为业务转让**：我们可能在任何合并、公司资产出售、融资或将我们全部或部分业务收购给另一家公司的谈判期间或过程中共享或转让您的个人信息。
-- **与关联公司共享**：我们可能与我们的关联公司共享您的信息，在这种情况下，我们将要求这些关联公司遵守本隐私政策。关联公司包括我们的母公司和任何其他子公司、合资伙伴或我们控制的或与我们共同受控的其他公司。
-- **与业务伙伴共享**：我们可能与我们的业务伙伴共享您的信息，以便为您提供某些产品、服务或促销活动。
-- **与其他用户共享**：当您在公共区域与其他用户共享个人信息或进行互动时，这些信息可能被所有用户查看，并可能在外部公开发布。
-- **经您同意**：经您同意，我们可能为任何其他目的披露您的个人信息。
+- **With Service Providers**: We might hand over your personal info to our Service Providers. They help us keep an eye on how the Service is being used and might even get in touch with you. Teamwork makes the dream work! 🤝
+- **For business transfers**: If we're talking mergers, selling off assets, financing, or another company buying us out, we might share or transfer your personal info during those discussions or actual transactions. It's part of the game! 🎢
+- **With Affiliates**: We might also share your info with our affiliates. Don't worry, we'll make sure they play by the rules of this Privacy Policy too! Affiliates are basically our parent company, any sister companies, joint venture buddies, or any other companies we control or that are under common control with us. All in the fam! 👨‍👩‍👧‍👦
+- **With business partners**: We could team up with our business partners and share your info to bring you certain products, services, or sweet promotions. Who doesn't love a good deal? 😉
+- **With other users**: If you're chilling in public areas of our Service and sharing personal info or interacting with other users, just know that info might be seen by everyone and could even get shared publicly outside the Service. So, keep it cool! 🗣️
+- **With your consent**: Hey, if you give us the thumbs-up, we might just spill your personal info for any other reason. It's all up to you! 👍
 
-### 您个人数据的保留
-公司将仅在本隐私政策所述目的所必需的期限内保留您的个人数据。我们将在遵守我们的法律义务（例如，如果我们需要保留您的数据以遵守适用法律）、解决争议和执行我们的法律协议和政策所需的范围内保留和使用您的个人数据。
+### Retention of Your Personal Data
+Your personal data? The Company will only hold onto it for as long as we need it for the purposes laid out in this Privacy Policy. We'll also keep and use your personal data to meet our legal duties (like obeying applicable laws), iron out any disagreements, and make sure our legal agreements and policies are followed. We play by the rules! ⚖️
 
-公司还将为内部分析目的保留使用数据。使用数据通常保留较短时间，除非这些数据用于加强我们服务的安全性或改进其功能，或者我们有法律义务将这些数据保留更长时间。
+Usage Data? The Company holds onto this for our internal analysis too. Generally, it doesn't stick around too long, *unless* we're using it to beef up our Service's security, boost its features, or if we're legally on the hook to keep it for a longer stretch. Gotta cover our bases! 🔒
 
-### 您个人数据的传输
-您的信息（包括个人数据）在公司的运营办公室以及参与处理的各方所在的任何其他地方进行处理。这意味着这些信息可能会被传输到并保存在您所在州、省、国家或其他政府管辖区之外的计算机上，这些地方的数据保护法可能与您管辖区的法律不同。
+### Transfer of Your Personal Data
+Your information (yep, that includes your Personal Data!) gets processed right here at the Company's offices, and wherever else the folks handling it are located. This means your info might get shipped off and stored on computers outside your state, province, or even country – places where data protection laws might be a bit different from yours. Just a heads-up! 🌍
 
-您同意本隐私政策并提交此类信息，即表示您同意该传输。
+Your consent to this Privacy Policy and then hitting 'submit' on your info basically means you're cool with that transfer happening. Got it? 👍
 
-公司将采取一切合理必要的措施，确保您的数据得到安全处理并符合本隐私政策，除非有足够的控制措施（包括对您的数据和其他个人信息的安全保障），否则不会将您的个人数据传输到任何组织或国家。
+The Company is committed to taking all reasonable steps to make sure your data is handled securely and according to this Privacy Policy. We won't transfer your Personal Data to any organization or country unless we're absolutely sure there are solid controls in place, especially when it comes to keeping your data and other personal info safe and sound. Security first! 🛡️
 
-### 删除您的个人数据
-您有权删除或请求我们协助删除我们收集的关于您的个人数据。
+### Deleting Your Personal Data
+You've got the power! You can totally delete your Personal Data that we've collected, or just ask us to lend a hand with the deletion. Your data, your rules! ✨
 
-我们的服务可能使您能够从服务内部删除有关您的某些信息。
+Our Service might even let you delete some of your info right there, from inside the Service itself. Handy, right? 🤳
 
-您可以随时登录您的账户（如果您有），并访问允许您管理个人信息的账户设置部分，来更新、修改或删除您的信息。您也可以联系我们，请求访问、更正或删除您提供给我们的任何个人信息。
+You can tweak, change, or delete your info anytime! Just log into your Account (if you have one, of course) and hit up the account settings where you can manage all your personal deets. Or, hey, just shoot us a message to ask for access, correct, or delete any personal info you've given us. Easy peasy! 📝
 
-但请注意，当我们有法律义务或合法依据时，我们可能需要保留某些信息。
+But hold up! We might need to keep some info around if we have a legal obligation or a legit reason to do so. Just a heads-up! 😅
 
-### 您个人数据的披露
+### Disclosure of Your Personal Data
 
-#### 商业交易
-如果公司涉及合并、收购或资产出售，您的个人数据可能会被转移。我们将在您的个人数据被转移并受制于不同的隐私政策之前发出通知。
+#### Business Transactions
+Your personal data? If the Company ever gets into a merger, acquisition, or sells off assets, your data might get transferred. But don't sweat it – we'll give you a heads-up before your Personal Data moves and falls under a different Privacy Policy. Promise! 📣
 
-#### 执法
-在某些情况下，如果法律要求或应公共机构（如法院或政府机构）的有效请求，公司可能被要求披露您的个人数据。
+#### Law Enforcement
+The Company might have to spill your Personal Data if the law demands it, or if public authorities (like a court or government agency) come knocking with a valid request. Sometimes, we just gotta comply! 👮‍♀️
 
-#### 其他法律要求
-公司可能出于善意相信此类行动是必要的，从而披露您的个人数据，以：
-- 遵守法律义务
-- 保护和捍卫公司的权利或财产
-- 防止或调查与服务相关的可能的不当行为
-- 保护服务用户或公众的人身安全
-- 防范法律责任
+#### Other Legal Requirements
+The Company might also dish out your personal data if we genuinely believe it's necessary to: 👇
+- Comply with a legal obligation
+- Protect and defend the rights or property of the Company
+- Prevent or investigate possible wrongdoing in connection with the Service
+- Protect the personal safety of Users of the Service or the public
+- Protect against legal liability
 
-### 您个人数据的安全
-您的个人数据的安全对我们很重要，但请记住，没有任何通过互联网传输的方法或电子存储方法是100%安全的。虽然我们努力使用商业上可接受的方式来保护您的个人数据，但我们不能保证其绝对安全。
+### Security of Your Personal Data
+Your Personal Data's security? Super important to us! 🚨 But let's be real: no internet transmission or electronic storage method is ever 100% bulletproof. We seriously hustle to use top-notch, commercially acceptable ways to protect your Personal Data, but we just can't give a rock-solid guarantee of absolute security. It's the internet, after all! 🤷‍♀️
 
-## 儿童隐私
-我们的服务不针对13岁以下的任何人。我们不会故意收集13岁以下任何人的个人身份信息。如果您是父母或监护人，并且您知道您的孩子向我们提供了个人数据，请与我们联系。如果我们发现我们在未经父母同意验证的情况下收集了13岁以下任何人的个人数据，我们将采取措施从我们的服务器中删除该信息。
+## Children's Privacy
 
-如果我们需要依赖同意作为处理您信息的法律依据，并且您所在的国家/地区要求父母同意，我们可能会在收集和使用该信息之前要求您父母的同意。
+Our Service isn't for kids under 13 – period. We absolutely do not knowingly collect any personal info from anyone that young. If you're a parent or guardian and realize your little one has somehow slipped us their Personal Data, please, please get in touch! If we find out we've collected Personal Data from a kid under 13 without verified parental consent, we'll quickly boot that info off our servers. No funny business! 🚫👶
 
-## 指向其他网站的链接
-我们的服务可能包含指向非我们运营的其他网站的链接。如果您点击第三方链接，您将被引导至该第三方的网站。我们强烈建议您查看您访问的每个网站的隐私政策。
+Parental consent? If we need your 'okay' as a legal reason to process your info, and your country says parents need to sign off, then yep, we might need your parent's permission before we collect and use that data. Rules are rules! 📝👨‍👩‍👧
 
-我们无法控制任何第三方网站或服务的内容、隐私政策或做法，也不承担任何责任。
+## Links to Other Websites
 
-## 本隐私政策的变更
-我们可能会不时更新我们的隐私政策。我们将通过在此页面上发布新的隐私政策来通知您任何变更。
+Our Service might have links to other websites that aren't run by us. Just a heads-up: if you click one of those third-party links, you'll be whisked away to *their* site. We seriously recommend you take a peek at the Privacy Policy of every single website you visit. Stay safe out there! 🔗
 
-在变更生效前，我们将通过电子邮件和/或我们服务上的显著通知告知您，并更新本隐私政策顶部的“最后更新日期”。
+Third-party websites or services? We've got zero control over their content, privacy policies, or practices, and we can't take responsibility for them either. They're on their own! 🤷‍♂️
 
-建议您定期查看本隐私政策以了解任何变更。本隐私政策的变更在发布于此页面时生效。
+## Changes to This Privacy Policy
 
+Our Privacy Policy? We might tweak it from time to time. When we do, we'll let you know about any changes by simply posting the fresh new Privacy Policy right here on this page. Easy! 🔄
 
+Changes? Before anything new kicks in, we'll give you a heads-up via email and/or a big announcement on our Service. We'll also update that 'Last updated' date right at the top of this Privacy Policy. You'll be in the know! 🗓️
+
+This Privacy Policy? We suggest you peek at it regularly to catch any changes. Any updates to this Privacy Policy go live the moment they're posted on this page. So, keep an eye out! 👀
