@@ -6,17 +6,17 @@ sidebar:
 ---
 # Contact Me
 
-Got questions, collaboration ideas, or need some support? Don't hesitate to reach out using the methods below! I'm always super happy to hear your thoughts and suggestions.
+I'm always eager to hear your thoughts and suggestions. Feel free to reach out using the methods below for any questions, collaboration opportunities, or support you might need.
 
-You can bet I'll get back to your emails ASAP! Promise. ✨
+I promise to get back to your emails ASAP! 📧
 
 ---
 
-## **How to Reach Me**
+## **Get In Touch**
 
 *   **Email:**
     *   [764165941@qq.com](mailto:764165941@qq.com)
 
 *   **Office Hours:**
-    *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Heads up: I'm off on weekends and public holidays! ⛱️)
+    *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
+    *   Weekends and Public Holidays: Closed
