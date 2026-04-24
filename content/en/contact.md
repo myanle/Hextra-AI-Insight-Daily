@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Contact Me
+# Get in Touch
 
-Got questions, wild collaboration ideas, or just need some support? 🚀 Seriously, hit me up! I'm always super keen to hear your thoughts and suggestions.
+Got questions, collaboration ideas, or just need some support? Hit me up! I'm genuinely stoked to hear your feedback and suggestions.
 
-I promise to get back to you super fast. Expect a prompt reply to your emails! ⚡
+I promise to get back to your emails ASAP. 🚀
 
 ---
 
@@ -19,4 +19,4 @@ I promise to get back to you super fast. Expect a prompt reply to your emails! �
 
 *   **Office Hours:**
     *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Weekends and public holidays are chill time! 🌴)
+    *   (Closed on weekends and public holidays)
