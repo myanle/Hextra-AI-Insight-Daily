@@ -6,9 +6,9 @@ sidebar:
 ---
 # Get in Touch! 👋
 
-Got questions, collaboration ideas, or need some support? Hit me up! I'm always stoked to hear your thoughts and suggestions.
+I'm always stoked to hear your thoughts and suggestions! If you've got any questions, collaboration ideas, or need some support, feel free to hit me up using the details below.
 
-Emails? I'll get back to you ASAP, promise!
+I promise to get back to your emails ASAP. Seriously, I'm pretty quick! ⚡
 
 ---
 
@@ -19,4 +19,4 @@ Emails? I'll get back to you ASAP, promise!
 
 *   **Office Hours:**
     *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (FYI: Weekends and public holidays are my 'do not disturb' days! 😉)
+    *   (Closed on weekends and public holidays)
