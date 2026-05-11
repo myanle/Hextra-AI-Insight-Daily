@@ -4,19 +4,19 @@ type: page
 sidebar:
   exclude: true
 ---
-# Contact Me 👋
+# Contact Me 📧
 
-Got questions, collaboration ideas, or need some support? I'm super excited to hear from you and your thoughts! Don't hesitate to drop me a line using the details below.
+Get in touch! I'm super eager to hear your thoughts and feedback. If you've got any questions, brilliant collaboration ideas, or need some support, don't hesitate to hit me up using the methods below.
 
-Your emails? I promise to get back to you ASAP. 🚀
+You can definitely count on me to reply to your emails ASAP!
 
 ---
 
-## **Get in Touch!**
+## **Contact Info**
 
 *   **Email:**
     *   [764165941@qq.com](mailto:764165941@qq.com)
 
 *   **Office Hours:**
     *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (We're chilling on weekends and public holidays! 🏖️)
+    *   (Closed on weekends and public holidays)
