@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Contact Me 👋
+# Contact Me
 
-I'm super happy to hear your feedback and suggestions! If you've got questions, want to collaborate, or need support, just reach out using the info below. 👇
+Wanna chat? I'm all ears for your thoughts and ideas! Got questions, a collab in mind, or need some support? Hit me up using the deets below.
 
-I promise to get back to your emails ASAP! 🚀
+I promise to get back to you ASAP. Seriously, your emails won't gather dust in my inbox! 😉
 
 ---
 
@@ -19,4 +19,4 @@ I promise to get back to your emails ASAP! 🚀
 
 *   **Office Hours:**
     *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Closed on weekends and public holidays)
+    *   Weekends and public holidays: Chillin' out! 😎
