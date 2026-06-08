@@ -4,19 +4,20 @@ type: page
 sidebar:
   exclude: true
 ---
-# Contact Me 🤙
 
-Your feedback is always welcome! If you've got any questions, collaboration ideas, or need some support, just hit me up using the details below 👇.
+# 联系我
 
-I promise to reply to your emails super fast.
+我非常乐意听取您的意见和建议。如果您有任何问题、合作意向或需要支持，请通过以下方式与我联系。
+
+我承诺会尽快回复您的邮件。
 
 ---
 
-## **Contact Details**
+## **联系方式**
 
-*   **Email:** 📧
+*   **电子邮件 (Email):**
     *   [764165941@qq.com](mailto:764165941@qq.com)
 
-*   **Office Hours:** ⏰
-    *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Closed on weekends and public holidays)
+*   **工作时间 (Office Hours):**
+    *   周一至周五, 上午 9:00 - 下午 6:00 (GMT+8)
+    *   (周末及法定节假日休息)
