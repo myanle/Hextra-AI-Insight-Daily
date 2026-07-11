@@ -6,9 +6,9 @@ sidebar:
 ---
 # Contact Me
 
-Hey there! 👋 I'm super excited to hear your thoughts and suggestions. If you've got any questions, cool collaboration ideas, or need a hand with something, just hit me up using the methods below.
+I'm always thrilled to hear from you and super keen on your feedback and suggestions! 💬 If you've got any questions, brilliant ideas for collaboration, or just need a bit of support, don't hesitate to reach out via the methods below.
 
-I promise to get back to your emails ASAP! 🚀
+I promise I'll get back to your emails ASAP! ⚡
 
 ---
 
