@@ -4,48 +4,34 @@ type: page
 sidebar:
   exclude: true
 ---
+# Terms of Service
 
-# 服务条款
-
-*生效日期：2025年7月16日*
+*Effective Date: July 16, 2025*
 
 ---
 
-欢迎访问本网站（以下简称“**本站**”或“**我们**”）。请在使用本站服务之前，仔细阅读以下服务条款。您访问或使用本站即表示您同意并接受本条款。
+Hey there! Welcome to our website (we'll call it "the Site" or "us" from now on). Before you dive in, please take a moment to read through these Terms of Service. By accessing or using our Site, you're totally agreeing to these terms.
 
-## 1. 服务简介
-本站为用户提供付费订阅内容和会员服务，包括但不限于博客文章、专属资源、电子书、社区互动等。部分内容仅限订阅用户访问。
+## 1. Service Overview
+Our Site hooks you up with paid subscription content and member services. Think blog posts, exclusive resources, e-books, and even community interactions. Heads up: some of this awesome content is only for our subscribed users.
 
-## 2. 用户注册与账户
-- 用户需提供有效的电子邮件地址和设置密码以注册账户。
-- 用户应对其账户的安全性和所有活动负责，**禁止**将账户转让或共享。
-- 本站有权在用户违反本条款的情况下，**暂停或终止**其账户。
+## 2. User Registration & Accounts
+To get started, you'll need to register for an account with a valid email and a password. So, Your Account – it's your responsibility! You're in charge of keeping it secure and for all the activity happening on it. Absolutely **no transferring or sharing** your account with anyone else. If you ever break these rules, we reserve the right to **pause or even terminate** your account.
 
-## 3. 付费订阅服务
-- 订阅服务基于月度/年度计费，费用在结算页面明示。
-- 所有付款通过第三方支付平台（如 Stripe、PayPal）完成，本站不存储您的支付信息。
-- 订阅将**自动续费**，除非您在当前计费周期结束前取消。
-- 除非法律强制或在特定促销中另有说明，付款后**不予退款**。
+## 3. Paid Subscription Services
+Our Subscription Services are billed monthly or annually, with all prices clearly shown on the checkout page. Payment for these services goes through third-party platforms like Stripe or PayPal – we never store your payment info. Just so you know, your subscription will **automatically renew** unless you cancel before your current billing cycle ends. And generally, once you've paid, **no refunds** are given unless required by law or specified in a special promotion.
 
-## 4. 内容使用与知识产权
-- 所有原创内容**版权归本站所有**，未经授权不得复制、转载或用于商业用途。
-- 用户仅获得**非排他、不可转让的访问权**，用于个人学习和阅读。
-- 如需商业用途或大量引用，请联系本站获取授权。
+## 4. Content Usage & Intellectual Property
+Regarding our Content, all original stuff is **copyrighted by us**! Please don't copy, repost, or use it for commercial purposes without permission. As a user, you only get **non-exclusive, non-transferable access** to our content for your personal learning and reading. If you're looking to use it commercially or quote large sections, hit us up for authorization.
 
-## 5. 用户行为规范
-- **禁止**上传、发布或传播任何非法、骚扰、虚假、攻击性、侵犯他人权利的内容。
-- **禁止**通过技术手段批量下载、抓取、破解会员内容。
-- 本站有权移除不当内容并**封禁违规用户**。
+## 5. User Conduct Rules
+When it comes to Your Conduct on the Site, here's the deal: You **can't** upload, post, or spread any illegal, harassing, fake, offensive, or rights-infringing content. Also, **no using technical tricks** to bulk download, scrape, or hack our member content. If you break these rules, we've got the right to yank inappropriate content and **ban offending users**! 🚫
 
-## 6. 服务变更与中断
-- 我们保留随时更改、暂停或终止部分或全部服务的权利，恕不另行通知。
-- 如因不可抗力、服务器故障或第三方服务中断导致内容暂时无法访问，本站**不承担赔偿责任**。
+## 6. Service Changes & Interruptions
+Our Services might change! We reserve the right to tweak, pause, or even completely stop any part or all of our services at any time, without giving you a heads-up. And hey, if content is temporarily unavailable due to stuff like force majeure, server issues, or third-party service outages, we're **not liable for compensation**.
 
-## 7. 免责声明
-- 本站提供的信息仅供参考，**不构成**任何专业建议（如财务、法律、医疗等）。
-- 对于用户因使用本站内容或服务所产生的任何直接或间接损失，本站**概不负责**。
+## 7. Disclaimer
+Disclaimer time! The info we dish out on this Site is purely for reference; it **doesn't count** as any kind of professional advice (like financial, legal, or medical stuff). Also, we're **not responsible** for any direct or indirect losses you might rack up from using our content or services. Just keeping it real!
 
-## 8. 法律适用
-- 本服务条款适用美国加利福尼亚州法律，并按其解释，不考虑法律冲突原则。
-- 因本条款引起的或与本条款相关的任何争议，双方应首先友好协商解决；若协商未果，您同意提交加利福尼亚州圣克拉拉县具有管辖权的法院解决。
-
+## 8. Governing Law
+Alright, for all the Legal Stuff: These Terms of Service are governed by and interpreted under the laws of the State of California, USA, without regard to its conflict of law principles. If any disputes pop up because of or related to these terms, we both agree to try and sort it out amicably first. If that doesn't work, you agree to submit to the jurisdiction of the courts located in Santa Clara County, California.
