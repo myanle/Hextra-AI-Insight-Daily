@@ -10,141 +10,140 @@ sidebar:
 
 ---
 
-This Privacy Policy is all about how we handle your info – what we collect, how we use it, and when we might share it – when you use our service. We'll also tell you about your privacy rights and how the law has got your back. 😉
+This Privacy Policy describes our policies and procedures regarding the collection, use, and disclosure of your information when you use the Service. It also informs you about your privacy rights and how the law protects you.
 
-Your personal data helps us big time to run and jazz up our service. By using our service, you're essentially saying 'Yep, I'm cool with you collecting and using my info as laid out in this policy.' 👍
+We use your personal data to provide and improve the Service. By using the Service, you agree to our collection and use of information in accordance with this Privacy Policy.
 
-## Explanations and Definitions
+## Interpretation and Definitions
 
-### Explanations
-So, you'll see some words with capital letters popping up here and there. Those fancy capitalized words have meanings defined under these specific conditions, whether they're singular or plural – the definition stays the same, got it? 😉
+### Interpretation
+Words capitalized have meanings defined under the following conditions. The following definitions have the same meaning regardless of whether they appear in singular or plural.
 
 ### Definitions
 For the purposes of this Privacy Policy:
 
 - **Account** means a unique account created for you to access our Service or parts of our Service.
 
-- **Affiliate** means an entity that controls, is controlled by, or is under common control with a party. Here, "control" implies owning 50% or more of shares, equity interest, or other securities that carry voting rights for the election of directors or other managing authority.
+- **Affiliate** means an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest, or other securities entitled to vote for election of directors or other managing authority.
 
 - **Company** (referred to as "the Company," "We," "Us," or "Our" in this Agreement) refers to **Yuan Siwang AI Daily**.
 
-- **Cookies** are small files placed on your computer, mobile device, or any other device by a website. They contain details of your browsing history on that website, among other things.
+- **Cookies** are small files placed on your computer, mobile device, or any other device by a website, containing details of your browsing history on that website among its many uses.
 
 - **Country** refers to: California, United States.
 
-- **Device** means any gadget that can access the Service, like a computer, a mobile phone, or a digital tablet.
+- **Device** means any device that can access the Service, such as a computer, a cellphone, or a digital tablet.
 
-- **Personal Data** is any information relating to an identified or identifiable individual.
+- **Personal Data** is any information that relates to an identified or identifiable individual.
 
 - **Service** refers to the Website.
 
-- **Service Provider** means any natural or legal person who processes data on behalf of the Company. It refers to third-party companies or individuals hired by the Company to help provide the Service, perform services related to the Service, or assist the Company in analyzing how the Service is used.
+- **Service Provider** means any natural or legal person who processes data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service, or to assist the Company in analyzing how the Service is used.
 
-- **Usage Data** refers to data collected automatically, generated either by the use of the Service or from the Service infrastructure itself (for instance, the duration of a page visit).
+- **Usage Data** refers to data collected automatically, generated either by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
 
-- **Website** refers to **Yuan Siwang's AI Daily**, accessible from `https://yuansiwang.netlify.app/`.
+- **Website** refers to **Yuan Siwang AI Daily**, accessible from `https://yuansiwang.netlify.app/`.
 
 - **You** means the individual accessing or using the Service, or the company or other legal entity on behalf of which such individual is accessing or using the Service.
 
 ## Collecting and Using Your Personal Data
 
-### Types of Data We Collect
+### Types of Data Collected
 
 #### Personal Data
-When you're using our Service, we might ask you for some personally identifiable information that helps us get in touch or figure out who you are. This 'Personal Data' could include, but isn't limited to: 📝
+When you use our Service, we may ask you to provide certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to:
 
 - Email address
 - Usage Data
 
 #### Usage Data
-Usage Data gets automatically scooped up whenever you use the Service. Just a heads up!
+Usage Data is collected automatically when using the Service.
 
-Usage Data might include things like your device's Internet Protocol address (that's your IP address, for short), browser type, browser version, which pages of our Service you visit, the time and date of your visit, how much time you spend chilling on those pages, unique device identifiers, and other bits of diagnostic data. Pretty standard stuff! 🌐
+Usage Data may include information such as your Device's Internet Protocol address (e.g., IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers, and other diagnostic data.
 
-Oh, and when you access the Service through a mobile device, we might automatically grab some extra info. This includes, but isn't limited to, the type of mobile device you're using, its unique ID, your mobile device's IP address, your mobile operating system, the type of mobile internet browser you're rocking, unique device identifiers, and other diagnostic data. You know, all the techy bits that help us make things smoother for you. 📱
+When you access the Service by or through a mobile device, we may collect certain information automatically. This information may include, but is not limited to, the type of mobile device you use, your mobile device's unique ID, your mobile device's IP address, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers, and other diagnostic data.
 
-Basically, whenever you visit our Service (whether on your computer or mobile), we might also collect the information your browser sends our way. It's just how the internet works! ✨
+We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device.
 
 ### Tracking Technologies and Cookies
-We're big fans of Cookies and other similar tracking technologies to keep an eye on activity within our Service and store some info. These tracking tech tools include things like beacons, tags, and scripts, all used to collect and track data, helping us seriously improve and analyze our Service. The tech we use could include: 👇
+We use Cookies and similar tracking technologies to track activity on our Service and store certain information. The tracking technologies used include beacons, tags, and scripts, which are employed to collect and track information and to improve and analyze our Service. The technologies we use may include:
 
-- **Cookies (or Browser Cookies)**: A Cookie is a tiny file dropped onto your Device. You can totally tell your browser to refuse all Cookies or to give you a heads-up when one is being sent. But, heads up, if you don't accept Cookies, you might not be able to use certain awesome parts of our Service. Unless you've adjusted your browser settings to give Cookies the cold shoulder, our Service will likely be using them.
-- **Web Beacons**: Some sections of our Service and our emails might have these tiny electronic files called Web Beacons (also known as clear gifs, pixel tags, and single-pixel gifs). These little guys let the Company (for example) count users who have visited those pages or opened an email, and for other cool website statistics (like tracking a section's popularity and checking system and server integrity).
+- **Cookies or Browser Cookies**: A Cookie is a small file placed on your Device. You can instruct your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if you do not accept Cookies, you might not be able to use some parts of our Service. Unless you have adjusted your browser setting so that it will refuse Cookies, our Service may use Cookies.
+- **Web Beacons**: Certain sections of our Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs). These web beacons permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (e.g., recording the popularity of a certain section and verifying system and server integrity).
 
-Now, Cookies come in two main flavors: 'Persistent' or 'Session' Cookies. Persistent Cookies chill on your personal computer or mobile device even when you're offline, while Session Cookies vanish the moment you close your web browser. Poof! 💨
+Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on your personal computer or mobile device when you go offline, while Session Cookies are deleted as soon as you close your web browser.
 
-We use both Session and Persistent Cookies for some specific reasons, and here they are: 👇
+We use both Session and Persistent Cookies for the purposes set out below:
 
 - **Necessary / Essential Cookies**
   - **Type**: Session Cookies
-  - **Managed by**: Us
-  - **Purpose**: These Cookies are absolutely crucial for giving you the services available through the Website and letting you use some of its cool features. They help authenticate users and keep an eye out for fraudulent use of user accounts. Without these Cookies, the services you've asked for simply can't be provided, and we only use these Cookies to deliver those essential services to you.
+  - **Administered by**: Us
+  - **Purpose**: These Cookies are essential to provide you with services available through the Website and to enable you to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that you have asked for cannot be provided, and we only use these Cookies to provide you with those services.
 
 - **Cookies Policy / Notice Acceptance Cookies**
   - **Type**: Persistent Cookies
-  - **Managed by**: Us
-  - **Purpose**: These Cookies are here to figure out if users have given their thumbs-up to the use of Cookies on the Website.
+  - **Administered by**: Us
+  - **Purpose**: These Cookies identify if users have accepted the use of cookies on the Website.
 
 - **Functionality Cookies**
   - **Type**: Persistent Cookies
-  - **Managed by**: Us
-  - **Purpose**: These Cookies let us remember the choices you make when you use the Website, like recalling your login deets or language preferences. The whole point of these Cookies is to give you a more personalized experience and save you the hassle of having to re-enter your preferences every single time you use the Website. Sweet! 🧠
+  - **Administered by**: Us
+  - **Purpose**: These Cookies allow us to remember the choices you make when you use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time you use the Website.
 
-Wanna dig deeper into the Cookies we use and your options regarding them? Just swing by our Cookies Policy or the Cookies section of our Privacy Policy. It's all there! 📖
+For more information about the Cookies we use and your choices regarding Cookies, please visit our Cookies Policy or the Cookies section of our Privacy Policy.
 
-### How We Use Your Personal Data
-The Company might use Personal Data for these cool reasons: 👇
+### Use of Your Personal Data
+The Company may use Personal Data for the following purposes:
 
-- **To provide and maintain our Service**, which includes keeping an eye on how our Service is being used.
-- **To manage Your Account**: This is all about handling your registration as a user of the Service. The Personal Data you provide gives you access to the various functionalities available to registered users.
-- **For the performance of a contract**: This involves the development, compliance, and undertaking of the purchase contract for products, items, or services You've bought, or any other contract with Us through the Service.
-- **To contact You**: We might reach out to you via email, phone calls, SMS, or other equivalent electronic communication methods (like push notifications from a mobile app). This is usually for updates or informative communications related to functionalities, products, or contracted services, including security updates, when it's necessary or reasonable.
-- **To provide You with news**, special offers, and general info about other goods, services, and events we offer that are similar to what you've already bought or asked about, unless you've opted out of receiving such info.
-- **To manage Your requests**: This means handling and managing all your requests to Us.
-- **For business transfers**: We might use Your info to evaluate or go through with a merger, divestiture, restructuring, reorganization, dissolution, or any other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets being transferred. Phew, that's a mouthful! 😅
-- **For other purposes**: We might use your information for other cool stuff like data analysis, spotting usage trends, figuring out how effective our promotional campaigns are, and generally evaluating and sprucing up our Service, products, marketing, and your overall experience.
+- **To provide and maintain our Service**, including monitoring the usage of our Service.
+- **To manage your Account**: This involves managing your registration as a user of the Service. The Personal Data you provide can give you access to different functionalities of the Service that are available to you as a registered user.
+- **For the performance of a contract**: This includes the development, compliance, and undertaking of the purchase contract for the products, items, or services you have purchased or any other contract with Us through the Service.
+- **To contact You**: This involves contacting you by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications, regarding updates or informative communications related to the functionalities, products, or contracted services, including security updates, when necessary or reasonable for their implementation.
+- **To provide You with news**, special offers, and general information about other goods, services, and events which we offer that are similar to those that you have already purchased or inquired about unless you have opted not to receive such information.
+- **To manage Your requests**: This involves attending to and managing your requests to us.
+- **For business transfers**: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
+- **For other purposes**: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns, and to evaluate and improve our Service, products, marketing, and your experience.
 
-Now, there are some scenarios where we might share your personal information. Check it out: 👇
+We may share your personal information in the following situations:
 
-- **With Service Providers**: We may share your Personal Information with Service Providers to monitor and analyze the use of our Service, and to contact you.
-- **For business transfers**: We may share or transfer your Personal Information during, or in anticipation of, any merger, sale of Company assets, financing, or acquisition of all or a portion of our business by another company.
-- **With Affiliates**: We might share your info with our Affiliates. If we do, we'll make sure those Affiliates play by the rules of this Privacy Policy. Affiliates include our parent company and any other subsidiaries, joint venture partners, or other companies that we control or that are under common control with us.
-- **With business partners**: We might share your info with our business partners to offer you certain products, services, or cool promotions.
-- **With other users**: When you share personal information or otherwise interact in the public areas with other users, that info may be seen by all users and could even be publicly distributed outside. So, share wisely! 😉
-- **With Your consent**: We might spill your Personal Information for any other purpose if you give us your explicit consent to do so.
+- **With Service Providers**: We may share Your personal information with Service Providers to monitor and analyze the use of our Service and to contact You.
+- **For business transfers**: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
+- **With Affiliates**: We may share Your information with Our Affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners, or other companies that We control or that are under common control with Us.
+- **With business partners**: We may share Your information with Our business partners to offer You certain products, services, or promotions.
+- **With other users**: When You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly available to external parties.
+- **With Your Consent**: We may disclose Your personal information for any other purpose with Your consent.
 
 ### Retention of Your Personal Data
-The Company will only keep your Personal Data for as long as it's needed for the purposes laid out in this Privacy Policy. We'll also hang onto and use your Personal Data to the extent necessary to meet our legal obligations (like if we need to keep your data to follow applicable laws), sort out disputes, and enforce our legal agreements and policies. Keeping things legit, you know? ⚖️
+The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
-The Company will also keep Usage Data for our internal analytical deep dives. Generally, Usage Data is kept for a shorter time, unless it's used to beef up the security or improve the functionality of our Service, or if we're legally obligated to hold onto it for longer. Safety first! 🔒
+The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer periods.
 
 ### Transfer of Your Personal Data
-So, your information (Personal Data included!) gets processed at the Company's operating offices and wherever else the parties involved in processing that data are located. This basically means your info might get transferred to – and kept on – computers outside of your State, Province, Country, or other governmental jurisdiction. Just a heads up that data protection laws in those places might be a bit different from your jurisdiction. Global data vibes! 🌍
+Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. This means that this information may be transferred to and maintained on computers located outside of Your state, province, country, or other governmental jurisdiction where the data protection laws may differ from those of Your jurisdiction.
 
-By agreeing to this Privacy Policy and handing over your info, you're giving us your nod of approval for that transfer. Cool? Cool. ✅
+Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
 
-The Company promises to take all reasonably necessary steps to make sure your data is handled super securely and totally aligns with this Privacy Policy. We won't transfer your Personal Data to any organization or country unless there are adequate controls in place, including top-notch security for your data and other personal information. Your security is our jam! 🛡️
+The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy. No transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place, including the security of Your data and other personal information.
 
 ### Deleting Your Personal Data
-You've totally got the right to delete or ask us for a hand in deleting any Personal Data we've collected about you. It's your data, after all! 💪
+You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
 
-Our Service might even let you delete some of your info right from inside the Service itself. How convenient is that? ✨
+Our Service may provide You with the ability to delete certain information about You from within the Service.
 
-You can always update, tweak, or delete your info by logging into your account (if you've got one, of course!) and heading over to the account settings section where you can manage all your personal deets. Or, hey, you can just reach out to us and ask to access, correct, or delete any personal info you've given us. Easy peasy! 📧
+You can update, modify, or delete Your information at any time by signing into Your Account (if you have one) and visiting the account settings section that allows You to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.
 
-Just a quick note, though: we might need to hold onto certain information if we have a legal obligation or a legitimate reason to do so. Some things just have to stay! 📜
+Please note, however, that We may need to retain certain information when we have a legal obligation or a lawful basis to do so.
 
 ### Disclosure of Your Personal Data
 
 #### Business Transactions
-If the Company ever gets into a merger, an acquisition, or an asset sale, your Personal Data might get transferred. Don't worry, we'll give you a heads-up before your Personal Data is moved and becomes subject to a different Privacy Policy. Transparency is key! 🤝
+If the Company is involved in a merger, acquisition, or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
-#### Law Enforcement
-Okay, in some rare cases, the Company might have to spill your Personal Data if the law demands it, or if public authorities (like a court or a government agency) come knocking with a valid request. We gotta play by the rules! 👮‍♀️
+#### Law enforcement
+Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g., a court or a government agency).
 
 #### Other Legal Requirements
-The Company might also disclose your Personal Data if we genuinely believe such an action is necessary to: 👇
-
+The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
 - Comply with a legal obligation
 - Protect and defend the rights or property of the Company
 - Prevent or investigate possible wrongdoing in connection with the Service
@@ -152,21 +151,21 @@ The Company might also disclose your Personal Data if we genuinely believe such 
 - Protect against legal liability
 
 ### Security of Your Personal Data
-Look, the security of your Personal Data is super important to us! But let's be real, no method of zapping stuff over the Internet or storing it electronically is ever 100% totally foolproof. While we work hard to use commercially acceptable ways to keep your Personal Data safe and sound, we just can't guarantee its absolute security. We're trying our best, though! 🙏
+The security of Your Personal Data is important to Us. However, remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
 ## Children's Privacy
-Our Service isn't aimed at anyone under 13 years old. We seriously don't knowingly collect personally identifiable information from anyone under 13. If you're a parent or guardian and you know your kiddo has given us Personal Data, please get in touch with us ASAP! If we ever find out we've collected Personal Data from anyone under 13 without verifiable parental consent, we'll jump into action to delete that info from our servers. Kids' privacy is serious business! 👶🚫
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We will take steps to remove that information from Our servers.
 
-If we need to rely on your 'okay' as the legal green light to process your info, and your country requires a parent's thumbs-up, we might just ask for your parent's consent before we collect and use that information. Better safe than sorry! 👍
+If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
 
 ## Links to Other Websites
-Our Service might have links that take you to other websites that aren't run by us. If you click on a third-party link, you'll be whisked away to that third party's site. We seriously recommend you check out the Privacy Policy of every single site you visit. Stay safe out there! 🔗
+Our Service may contain links to other websites that are not operated by Us. If You click on a third-party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
-Just so you know, we've got absolutely no control over, and take zero responsibility for, the content, privacy policies, or practices of any third-party sites or services. It's their playground! 🤷‍♀️
+We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ## Changes to This Privacy Policy
-We might totally update our Privacy Policy every now and then. We'll let you know about any changes by posting the new Privacy Policy right here on this page. Easy peasy! 📢
+We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
 
-Before any changes kick in, we'll give you a heads-up via email and/or a prominent notice on our Service. Plus, we'll update that 'Last updated date' at the very top of this Privacy Policy. You'll always be in the loop! 🗓️
+Before the change takes effect, We will let You know via email and/or a prominent notice on Our Service, and update the "Last updated date" at the top of this Privacy Policy.
 
-We recommend you give this Privacy Policy a little peek periodically to stay on top of any changes. Changes to this Privacy Policy are effective when they're posted on this page. So keep your eyes peeled! 👀
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
