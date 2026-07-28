@@ -4,19 +4,19 @@ type: page
 sidebar:
   exclude: true
 ---
-# Reach Out
+# Get in Touch! 👋
 
-I'm always stoked to hear your thoughts and suggestions! If you've got questions, collaboration ideas, or need some support, hit me up using the deets below.
+I'm super keen to hear from you! Whether you've got questions, brilliant ideas for collaboration, or need some support, hit me up using the deets below.
 
-I promise to get back to your emails ASAP.
+I'll make sure to get back to your emails ASAP. 🚀
 
 ---
 
-## **How to Connect**
+## **Contact Info**
 
 *   **Email:**
     *   [764165941@qq.com](mailto:764165941@qq.com)
 
-*   **Working Hours:**
-    *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Closed on weekends and public holidays)
+*   **Office Hours:**
+    *   Our office hours are Monday to Friday, 9:00 AM to 6:00 PM (GMT+8).
+    *   Just a heads-up, we're closed on weekends and public holidays. 🏖️
