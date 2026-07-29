@@ -6,17 +6,17 @@ sidebar:
 ---
 # Get in Touch! 👋
 
-I'm super keen to hear from you! Whether you've got questions, brilliant ideas for collaboration, or need some support, hit me up using the deets below.
+Hey there! I'm always super keen to hear your thoughts and ideas. Got a burning question, a cool collaboration in mind, or just need a bit of support? Don't hesitate to reach out using the deets below. 👇
 
-I'll make sure to get back to your emails ASAP. 🚀
+I promise to get back to you ASAP. Seriously, your emails won't be left hanging! 📧
 
 ---
 
-## **Contact Info**
+## **How to Reach Me**
 
-*   **Email:**
+*   **Email:** 📧
     *   [764165941@qq.com](mailto:764165941@qq.com)
 
-*   **Office Hours:**
-    *   Our office hours are Monday to Friday, 9:00 AM to 6:00 PM (GMT+8).
-    *   Just a heads-up, we're closed on weekends and public holidays. 🏖️
+*   **Office Hours:** ⏰
+    *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
+    *   (Taking a chill on weekends and public holidays! 🏖️)
