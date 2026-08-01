@@ -5,69 +5,44 @@ breadcrumbs: false
 next: /en/2025-08/2025-08-15
 description: Daily selection of AI industry news, open source hot spots, academic
   frontiers and big V opinions. AI information; AI daily; AI knowledge base; AI tutorials;
-  AI information daily; AI tools;Claude Code just dropped a new "learning mode" 🤖
-  to tackle that dreaded "AI-induced skill atrophy" from relying too much on AI. Instead
-  of spoon-feeding answers, this mode acts like your personal coding gym buddy, pausing
-  you at key steps to get your hands dirty and truly master those programming...
+  AI information daily; AI tools;Claude Code just dropped a brand-new "learning mode"!
+  This cool feature is all about tackling the infamous "AI brain drain" that comes
+  from leaning too hard on AI. Instead of just handing out answers, it acts like your
+  personal coding "fitness coach," guiding you to pause at crucial steps and get...
 cascade:
   type: docs
 ---
-## Yuansi Network Insight Daily 2025/8/17
+## Yuan Si Network Insight Daily 2025/8/17
 
-> Yuansi Daily
+> `Yuan Si Daily`
 
-### **AI Content Summary**
+### AI Content Summary
 
 ```
-Claude Code rolled out a "learning mode" to help users dodge skill degradation from AI reliance. Google open-sourced the lightweight large model Gemma 3 270M, which rocks with excellent performance and easy deployment. OpenAI's ambitious roadmap includes multi-trillion dollar investments and diving into brain-computer interfaces, with CEO Altman feeling AI development is at a critical, internet-bubble-like moment.
-
-Meanwhile, Xinzhiyuan celebrated its tenth anniversary, kicking off the ASI era and hunting for AI talent. We're also seeing cool progress in various open-source projects and AI tech applications like the Hi3DEval evaluation system and the Auto-RCA framework.
-
-On the flip side, Li Feifei and Hinton are split on AI safety risks; she's all about governance and values, while he's sweating over superintelligence going rogue. And guess what? A new AI benchmark, FormulaOne, just made top large models, including GPT-5, totally flunk with zero scores!
+Claude Code just dropped a "learning mode" to fight off "AI brain drain" from over-reliance. Meanwhile, Google's open-sourced Gemma 3 270M, a tiny but mighty model, is killing it with impressive performance and super easy deployment. OpenAI's Sam Altman is dreaming big, talking trillions in investments, brain-computer interfaces, and even shaking up search and social media – he sees AI at a critical, internet-bubble-esque moment. On the home front, Xinzhiyuan is celebrating its tenth anniversary, kicking off the ASI era, and hiring some awesome AI talent. Plus, we've got some cool open-source projects and AI tech making waves, like the Hi3DEval assessment system and the Auto-RCA framework. Finally, the AI safety debate heats up with Li Feifei focused on governance and Hinton worried about runaway superintelligence, while a new benchmark, FormulaOne, just made top-tier LLMs totally "wipe out."
 ```
 
-### **Today's AI News**
+### Today's AI News
 
-1.  **Claude Code** just dropped a new "learning mode" 🤖 to tackle that dreaded "AI-induced skill atrophy" from relying too much on AI. Instead of spoon-feeding answers, this mode acts like your personal coding gym buddy, pausing you at key steps to get your hands dirty and truly master those programming skills.
-
-2.  **Gemma 3 270M**, Google's open-source lightweight large model, is a little powerhouse! 🚀 Clocking in at just 270M parameters, it crushes instruction following and text structuring tasks, even outshining some beefier models. Plus, its low power consumption means it can run on your phone or Raspberry Pi – perfect for snappy, budget-friendly AI apps.
-
-3.  **OpenAI CEO Altman** laid out OpenAI's epic blueprint: think trillions of dollars pumped into data centers and new AI hardware, even dabbling in brain-computer interfaces to totally shake up search and social media. 🤯 He reckons we're in a wild, internet-bubble-esque era for AI, and GPT-5's launch? That's the signal for "the best of times, the worst of times."
-
-4.  **Xinzhiyuan** is throwing a massive tenth-anniversary bash 🎉, marking the dawn of the ASI era! And guess what? They're on the hunt for AI talent – from industry reporters to senior video editors and interns. If you're an AI enthusiast, they're warmly inviting you to join the squad! [🔗 Xinzhiyuan Recruitment Information](Please insert Xinzhiyuan official website recruitment link here, not provided in original)
-
-5.  **Hi3DEval** is here to level up 3D generation assessments! ✨ This snazzy, more scientific, and comprehensive evaluation system, cooked up by Shanghai AI Lab and a bunch of universities, uses a three-tier protocol (object-, component-, and material-level) to dissect 3D models. It dives deep into their overall form, local structure, and material realism from every angle. [🔗 Hi3DEval Project Homepage](https://zyh482.github.io/Hi3DEval/) [🔗 3D Generation Leaderboard](https://huggingface.co/spaces/3DTopia/3DGen-Leaderboard)
-
-6.  **The `build-your-own-x` GitHub project** is your go-to for hands-on learning! 🛠️ It lays out learning paths to build all sorts of tech from scratch, helping you truly nail programming skills by getting down to business. [🔗 Project Repository](https://github.com/codecrafters-io/build-your-own-x)
-
-7.  **`90DaysOfCyberSecurity`** is serving up an intense 90-day cybersecurity bootcamp! 🛡️ It covers everything you need to know, from foundational certs to advanced hacks, making sure you're cyber-savvy from top to bottom. [🔗 Project Repository](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
-
-8.  **`awesome-mac`** is a Mac user's dream come true! 🍎 This repository is jam-packed with all sorts of awesome software for macOS, truly a treasure trove for anyone looking to boost their Mac game. [🔗 Project Repository](https://github.com/jaywcjlove/awesome-mac)
-
-9.  **`parlant`** is making LLM apps a breeze! 🤖 This LLM agent is designed to simplify large language model (LLM) applications, making them super easy to deploy and use. [🔗 Project Repository](https://github.com/emcie-co/parlant)
-
-10. **`magic`** is your new go-to open-source AI productivity platform! ✨ It's a powerhouse, integrating AI agents, a slick workflow engine, IM, and an online collaborative office system all in one neat package. [🔗 Project Repository](https://github.com/dtyq/magic)
-
-11. **DeepMind Chief Scientist Denny Zhou** dropped some serious knowledge 🧠 on large language model (LLM) reasoning mechanisms during his Stanford CS25 course. He highlighted that LLMs reason by churning out a series of intermediate tokens and also delved into cool techniques like reinforcement learning fine-tuning. [▶️ Video Demo](https://www.youtube.com/watch?v=ebnX5Ur1hBk)
-
-12. **Li Feifei and Hinton** are totally on different pages when it comes to AI safety! 🤔 Li Feifei is all about design, governance, and values, while Hinton is seriously sweating about superintelligence going rogue and thinks we should build AI that genuinely cares about humanity. The two big baddies for AI risk? "Goal misgeneralization" and "tool convergence."
-
-13. **FormulaOne**, a brand-spanking-new AI evaluation benchmark, just made top large models, including GPT-5, totally flunk! 📉 It features 220 wicked graph-structured dynamic programming problems, and guess what? Every single one of them scored a big fat zero! Talk about a reality check. [FormulaOne](https://image.jiqizhixin.com/uploads/editor/656fe086-cbec-46b3-b135-a600f7a68fda/640.png) [🔗 FormulaOne Leaderboard](https://huggingface.co/spaces/double-ai/FormulaOne-Leaderboard)
-
-14. **Gaode Map's ST-MAC technology** is here to supercharge your travels! 🗺️ This tech intelligently maps out your routes based on your needs and pulls in all sorts of life services, giving you a smooth, personalized, and super convenient journey. ![Gaode Map ST-MAC](https://image.jiqizhixin.com/uploads/editor/3fbd1c8f-32ce-4283-8c09-c6baf2b73609/640.png)
-
-15. **Google just dropped Gemma 3 270M**, their open-source model! 🎉 It's tiny in parameters but mighty in performance, making it perfect for zipping along on your phone and other devices. [Image: https://image.jiqizhixin.com/uploads/editor/e092f14d-e613-4506-8847-ddbeb85982bd/640.png]
-
-16. **The Auto-RCA framework** is a game-changer! 🤩 It leverages AI to diagnose telecom network faults, boosting accuracy from a respectable 62.54% all the way up to an impressive 91.79%. Talk about a glow-up! [Image: https://image.jiqizhixin.com/uploads/editor/1a79ce5a-bed6-43f8-a438-24cead877fa4/640.png]
-
-17. **Netizens** are weighing in! 🤔 They're suggesting "mental model" should be translated as "心智模型" (xin zhi mo xing) instead of "心理模型" (xin li mo xing). Good to know the semantic nuances! [Image: https://pbs.twimg.com/media/GyhcqxyXUAA4U4R?format=jpg&name=orig]
-
-18. **California's tech industry job slump** is a tangled mess! 📉 It's a cocktail of factors: the "zero-interest rate era" ending, a talent glut, the rise of remote work, AI hitting the scene, tax reform bills, and more. Ouch!
-
-19. **BigYe Chengpu** spilled the beans! 🤫 He shared a nifty trick about VSCode and Cursor's built-in intranet tunneling feature. Super handy! [Image: https://cdnv2.ruguoapp.com/Fk0gK2JJ7K_4A-9wBnc5OPR9Hq2iv3.jpg]
-
-20. **Xiaohongshu** has hit a snag! 😬 A bunch of accounts selling "suggestive content" (擦边素材) have popped up, definitely crossing the line. [Image: https://pbs.twimg.com/media/GyhKdvUaMAEwI_A?format=jpg&name=orig][Image: https://pbs.twimg.com/media/GyhKdvMb0AAxyG8?format=jpg&name=orig][Image: https://pbs.twimg.com/media/GyhKdyla8AA7WeA?format=jpg&name=orig][Image: https://pbs.twimg.com/media/GyhKdw1bUAAKreF?format=jpg&name=orig]
-
-21. **YouTube** messing with videos using AI is stirring up some serious drama! 😳 This raises big questions about AI tech misuse and whether creators' rights are getting trampled. Yikes! [🔗 Video Link](https://youtu.be/86nhP8tvbLY?si=qCw8un0e85D3PVzb)
-
-22. **The real magic that sets humans apart from AI**? ✨ It's our uncanny ability to spin and understand stories, and the deep empathy that blossoms from it. Take that, robots! ![AI and Stories](https://pbs.twimg.com/media/GygzjpVaUAAfJsk?format=jpg&name=orig)
+1.  Claude Code just dropped a brand-new **"learning mode"**! This cool feature is all about tackling the infamous **"AI brain drain"** that comes from leaning too hard on AI. Instead of just handing out answers, it acts like your personal coding "fitness coach," guiding you to pause at crucial steps and get hands-on with tasks. The goal? To truly nail those programming skills. 💪
+2.  **Gemma 3 270M**, Google's open-source, super-lightweight large model, is a real game-changer! Weighing in at just 270M parameters, it totally shines in **instruction following** and **text structuring** tasks, even outperforming some much bigger models. Its low-power vibe means you can run this bad boy on devices like your phone or a Raspberry Pi, making it perfect for whipping up light, fast, and budget-friendly AI applications. 🚀
+3.  **OpenAI's CEO, Sam Altman**, has just laid out a seriously ambitious blueprint for the company. We're talking trillions of dollars in investments to build out data centers and develop cutting-edge AI hardware, even diving into the **brain-computer interface** arena, all aimed at disrupting search and social media. Altman reckons we're smack dab in the middle of a crucial AI era, kinda like the dot-com bubble days, and the release of GPT-5? Well, that just screams, "It was the best of times, it was the worst of times." 🤯
+4.  Get ready to party because **Xinzhiyuan is celebrating its tenth anniversary and kicking off the ASI Era**! 🎉 They're currently on the hunt for awesome AI talent, including AI industry report lead writers, senior video editors, senior editors/editors, and editorial interns. If you're passionate about AI, they're extending a warm invite for you to join their crew! [🔗 Xinzhiyuan Recruitment Information](<!-- URL not provided in original text -->)
+5.  **Hi3DEval** is making waves as a seriously scientific and comprehensive 3D generation quality evaluation system! Developed by Shanghai AI Lab in collaboration with several universities, this bad boy uses a three-tier assessment protocol—object-level, component-level, and material-theme—to dive deep into 3D models. It offers a multi-dimensional analysis of overall form, local structure, and material authenticity. Pretty neat, right? ✨ [🔗 Hi3DEval Project Homepage](https://zyh482.github.io/Hi3DEval/) [🔗 3D Generation Leaderboard](https://huggingface.co/spaces/3DTopia/3DGen-Leaderboard)
+6.  The **build-your-own-x GitHub project** is your ultimate guide to mastering programming skills! It offers hands-on learning paths to build all sorts of tech from scratch, helping users really get down and dirty with practical application. Go check it out! 🛠️ [🔗 Project Repository](https://github.com/codecrafters-io/build-your-own-x)
+7.  If you're looking to level up your cyber security game, **90DaysOfCyberSecurity** has got you covered! This project dishes out a 90-day learning plan that spans every nook and cranny of cybersecurity, from foundational certifications to advanced tricks. Time to get hacking! 🔒 [🔗 Project Repository](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+8.  Mac users, rejoice! **awesome-mac** is your go-to treasure trove for a ton of advanced software for macOS. Seriously, it's a goldmine! 💎 [🔗 Project Repository](https://github.com/jaywcjlove/awesome-mac)
+9.  Meet **parlant**, an awesome LLM agent designed to simplify large language model (LLM) applications. It's super easy to deploy and a breeze to use – making your LLM life much smoother! ✨ [🔗 Project Repository](https://github.com/emcie-co/parlant)
+10. Check out **magic**, an open-source AI productivity platform that's seriously packed with features! It integrates AI agents, a workflow engine, IM, and an online collaborative office system. Talk about a one-stop shop for getting things done! 🚀 [🔗 Project Repository](https://github.com/dtyq/magic)
+11. **DeepMind Chief Scientist Denny Zhou** dropped some serious knowledge bombs in his Stanford CS25 course, explaining the **large language model (LLM) reasoning mechanism**. He highlighted that LLM reasoning actually works by generating a series of **intermediate tokens**, and he dove into techniques like reinforcement learning fine-tuning. Mind blown! 🤯 [▶️ Video Demonstration](https://www.youtube.com/watch?v=ebnX5Ur1hBk)
+12. When it comes to AI safety, **Li Feifei and Hinton** have some pretty different takes. Li Feifei is all about **design, governance, and values**, while Hinton is seriously worried about runaway superintelligence and suggests designing **AI that actually cares about humanity**. "Goal misgeneralization" and "instrumental convergence" are the two big core concepts when we're talking about AI's potential risks.
+13. Brace yourselves! **FormulaOne**, a brand-new AI evaluation benchmark, just dropped and it's got 220 graph-structured dynamic programming problems. The kicker? Even top-tier large models like GPT-5 totally "wiped out" on this one, scoring a big fat zero across the board! 🏎️💨 [FormulaOne](https://image.jiqizhixin.com/uploads/editor/656fe086-cbec-46b3-b135-a600f7a68fda/640.png) [🔗 FormulaOne Leaderboard](https://huggingface.co/spaces/double-ai/FormulaOne-Leaderboard)
+14. **Amap's ST-MAC technology** is here to revolutionize your travel experience! This smart tech can plan your routes based on your specific needs and even integrate all sorts of lifestyle services, making your journeys way more convenient and personalized. Pretty cool, huh? 🗺️ ![Amap ST-MAC](https://image.jiqizhixin.com/uploads/editor/3fbd1c8f-32ce-4283-8c09-c6baf2b73609/640.png)
+15. Big news! **Google has open-sourced Gemma 3 270M**, a model that's small in parameters but mighty in performance! This little powerhouse is perfect for running on devices like mobile phones. Get ready to experiment! ✨ [Image: https://image.jiqizhixin.com/uploads/editor/e092f14d-e613-4506-8847-ddbeb85982bd/640.png]
+16. The **Auto-RCA framework** is seriously stepping up the game in diagnosing telecom network faults! By leveraging AI, it's boosted accuracy from a respectable 62.54% all the way up to an impressive 91.79%. Talk about a glow-up! 📈 [Image: https://image.jiqizhixin.com/uploads/editor/1a79ce5a-bed6-43f8-a438-24cead877fa4/640.png]
+17. A savvy netizen has weighed in on the translation of "mental model," suggesting we go with "**心智模型**" (xīnzhì móxíng) instead of "心理模型" (xīnlǐ móxíng). It’s all about getting that nuance just right! 🧠 [Image: https://pbs.twimg.com/media/GyhcqxyXUAA4U4R?format=jpg&name=orig]
+18. So, what's behind **California's tech industry job slump**? It's a tangled web of factors, folks! We're talking the end of the "zero interest rate era," a talent glut, the rise of remote work, the undeniable impact of AI, and even tax reform legislation. Phew, that's a lot! 📉
+19. Psst! **BigYe Chengpu** just dropped a cool little tip about VSCode and Cursor's built-in intranet penetration feature. Who knew, right? Time to explore! 💻 [Image: https://cdnv2.ruguoapp.com/Fk0gK2JJ7K_4A-9wBnc5OPR9Hq2iv3.jpg]
+20. Uh oh, it looks like **Xiaohongshu has been seeing a rise in accounts peddling inappropriate content**, and these definitely cross the line with platform violations. Not cool, folks. 🚩 [Image: https://pbs.twimg.com/media/GyhKdvUaMAEwI_A?format=jpg&name=orig][Image: https://pbs.twimg.com/media/GyhKdvMb0AAxyG8?format=jpg&name=orig][Image: https://pbs.twimg.com/media/GyhKdyla8AA7WeA?format=jpg&name=orig][Image: https://pbs.twimg.com/media/GyhKdw1bUAAKreF?format=jpg&name=orig]
+21. There's some buzz and a bit of worry going around about **YouTube using AI to modify videos**. This raises some serious questions about potential AI tech abuse and creator rights. Food for thought, right? 🧐 [🔗 Video Link](https://youtu.be/86nhP8tvbLY?si=qCw8un0e85D3PVzb)
+22. Here's a thought: **what really sets us humans apart from AI**? It boils down to our incredible ability to tell and understand stories, and the empathy that naturally springs from that. It's all about connection! ❤️ ![AI and Stories](https://pbs.twimg.com/media/GygzjpVaUAAfJsk?format=jpg&name=orig)
