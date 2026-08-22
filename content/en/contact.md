@@ -4,15 +4,15 @@ type: page
 sidebar:
   exclude: true
 ---
-# Contact Me 📧
+# Contact Me
 
-**Reach out to me!** I'm super keen to hear your thoughts and suggestions. Whether you've got questions, want to collaborate, or just need some support, feel free to get in touch using the deets below.
+I'm super keen to hear from you and what's on your mind! Got questions, cool ideas for a collab, or just need a hand? Don't hesitate to hit me up using the details below! 👇
 
-**My promise to you?** I'll make sure to get back to your emails ASAP! 🚀
+I promise to get back to your emails ASAP.
 
 ---
 
-## **Contact Info**
+## **Get in Touch** 📧
 
 *   **Email:**
     *   [764165941@qq.com](mailto:764165941@qq.com)
