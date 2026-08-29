@@ -2,67 +2,70 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /ja/2025-08/2025-08-15
-description: AI 業界のニュース、オープンソースのホットスポット、学術的フロンティア、ビッグ V の意見を毎日厳選。AI 情報、AI デイリー、AI
-  ナレッジ ベース、AI チュートリアル、AI 情報デイリー、AI ツール;Claude Code が、AIへの長期依存による「AI脳萎縮」問題を解決するべく、新しい「学習モード」をリリース！🎉
-  このモードは、単に答えをポンと出すんじゃなくて、まるでプログラミングの「パーソナルトレーナー」みたいに、肝心なところで手を止めて、自分でタスクをクリアするようガイドしてくれるんだ。これで、マジでプログラミングスキルが身につくってわけ！💻✨
+next: /2025-08/2025-08-15
+description: "每日精选AI行业要闻、开源热点、学术前沿及大V观点。AI资讯；AI日报；AI知识库；AI教程；AI资讯日报；AI工具；AI Daily News"
 cascade:
   type: docs
 ---
-## 猿思ネット洞察日報 2025/8/17
 
-> 猿思日報
+## 猿思网洞察日报 2025/8/17
 
-### **AIコンテンツ要約**
+>  `猿思 日报` 
+
+
+
+### **AI内容摘要**
 
 ```
-Claude CodeがAI依存によるスキル低下を防ぐ「学習モード」をリリース。Googleは軽量大規模モデルGemma 3 270Mをオープンソース化し、優れた性能と簡単なデプロイを実現。OpenAIのサム・アルトマンCEOは、データセンターへの巨額投資や脳機インターフェースへの参入など、AIの壮大な未来図を描き、現在のAI開発は重要な時期にあると語った。
-新智元は10周年記念式典を開催し、ASI（汎用人工知能）時代への突入を宣言するとともに、AI関連の人材を募集中。Hi3DEval評価システムやAuto-RCAフレームワークなど、多数のオープンソースプロジェクトとAI技術の応用が進展している。
-李飛飛氏とヒントン氏はAIの安全リスクについて異なる見解を示し、李飛飛氏はガバナンスを重視する一方、ヒントン氏は超知能の制御不能を懸念。新しいAI評価基準FormulaOneでは、GPT-5を含むトップクラスの大規模モデルが軒並み失敗する結果となった。
+Claude Code推出"学习模式”，帮助用户避免AI依赖导致的技能退化；谷歌开源轻量级大模型Gemma 3 270M，性能出色且易于部署。OpenAI宏伟蓝图涵盖巨额投资、脑机接口等，奥特曼认为AI发展正处关键时期。
+新智元十周年庆典暨ASI纪元开启，同时招聘AI相关人才；多项开源项目及AI技术应用进展，例如Hi3DEval评估体系、Auto-RCA框架等。
+李飞飞和Hinton对AI安全风险持有不同观点，前者关注治理，后者担忧超级智能失控；新的AI评测基准FormulaOne让顶尖大模型"翻车”。
 ```
 
-### **今日のAIニュース**
 
-1.  `Claude Code` が、AIへの長期依存による「AI脳萎縮」問題を解決するべく、新しい**「学習モード」**をリリース！🎉 このモードは、単に答えをポンと出すんじゃなくて、まるでプログラミングの「パーソナルトレーナー」みたいに、肝心なところで手を止めて、自分でタスクをクリアするようガイドしてくれるんだ。これで、マジでプログラミングスキルが身につくってわけ！💻✨
 
-2.  `Gemma 3 270M` って知ってる？🚀 Googleがオープンソースにした超軽量な大規模モデルなんだけど、パラメータ数はなんとたったの270M！なのに、「指示の追従」とか「テキスト構造化」タスクでは、もっとデカいモデルより優秀な成績を出すんだって。しかも、消費電力が少ないから、スマホやラズパイみたいなデバイスでも動いちゃう。軽くて爆速、しかもローコストなAIアプリ開発にはマジで最適だね！📱✨
+### **今日AI资讯**
 
-3.  `OpenAI` のCEO、サム・アルトマン氏が、とんでもない壮大な未来図を語ったよ！💰🌌 数兆ドルを投じてデータセンターや新型AIハードウェアを構築し、さらには「脳機インターフェース」の分野にまで進出して、検索やソーシャルメディアを根底からひっくり返す計画なんだって。彼は、今のAIはまるでインターネットバブルの時のような、まさに「最高の時代でもあり、最悪の時代でもある」重要な時期だと考えているんだ。GPT-5の発表がその証拠だね。🤔
+1. 🤖🧠**Claude Code** 推出了全新的 **"学习模式”**，旨在解决长期依赖 AI 导致的 **"AI 脑萎缩”** 问题。该模式并非直接给出答案，而是像编程"健身私教”一样，引导用户在关键步骤停下来，动手完成任务，从而真正掌握编程技能。
 
-4.  `新智元` が10周年記念式典を開催し、ASI（汎用人工知能）時代の幕開けを宣言したよ！🎉 編集者やライター、ビデオエディター、インターンなど、AI関連の様々な職種で新しい仲間を募集しているんだって！AIに情熱があるなら、ぜひ応募してみてね！✨ [🔗 新智元 採用情報](此处应插入新智元官网招聘链接，原文未提供)
+2. 🐯🚀**Gemma 3 270M** 是谷歌开源的一个轻量级大模型，参数量仅为 270M，但在 **指令跟随** 和 **文本结构化** 任务上表现出色，甚至超过了一些更大规模的模型。其低功耗特性使其可以在手机或树莓派等设备上运行，适合构建轻量、快速且低成本的 AI 应用。
 
-5.  `Hi3DEval` っていう新しい評価システムが登場！✨ これは上海人工知能研究所と複数の大学が一緒に開発した、もっと科学的で超包括的な3D生成品質評価システムなんだ。オブジェクト、パーツ、マテリアルの3つのレベルでガッツリ評価してくれるから、3Dモデルの全体的な形、細かい構造、そして材質のリアルさまで、隅々までチェックできるってわけ！すごいね！😎 [🔗 Hi3DEval プロジェクトページ](https://zyh482.github.io/Hi3DEval/) [🔗 3D生成ランキング](https://huggingface.co/spaces/3DTopia/3DGen-Leaderboard)
+3. 💰🌌**OpenAI** CEO 奥特曼描绘了 OpenAI 的宏伟蓝图：投资数万亿美元建设数据中心和开发新型 AI 硬件，甚至进军 **脑机接口** 领域，计划颠覆搜索和社交媒体。他认为，我们正处于类似互联网泡沫的 AI 关键时期，GPT-5 的发布标志着"这是最好的时代，也是最坏的时代”。
 
-6.  `build-your-own-x` っていうGitHubプロジェクト、知ってる？💪 いろんな技術をゼロから自分で作れる学習パスを提供してるんだ。実践しながらプログラミングスキルをガッツリ習得したい人にはマジでおすすめ！ [🔗 プロジェクトリポジトリ](https://github.com/codecrafters-io/build-your-own-x)
+4. 🎉🥳新智元十周年庆典暨ASI纪元开启！新智元正在招聘AI产业报道主笔、高级视频编辑、高级编辑/编辑以及编辑实习生等多个岗位，诚邀热爱AI的你加入！[🔗 新智元招聘信息](此处应插入新智元官网招聘链接，原文未提供)
 
-7.  「90DaysOfCyberSecurity」っていう90日間のサイバーセキュリティ学習プランがあるんだって！🚀 基礎的な認証から超高度なテクニックまで、サイバーセキュリティのあらゆる側面を網羅してるから、これでサイバーセキュリティマスターを目指せるかもね！ [🔗 プロジェクトリポジトリ](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
+5. 😎**Hi3DEval** 是上海人工智能实验室联合多所高校推出的一套更科学、更全面的3D生成质量评估体系，采用对象级、部件级和材质主题三层评测协议，对3D模型的整体形态、局部结构和材质真实性进行多维度分析。[🔗 Hi3DEval项目主页](https://zyh482.github.io/Hi3DEval/) [🔗 3D生成榜单](https://huggingface.co/spaces/3DTopia/3DGen-Leaderboard)
 
-8.  `awesome-mac` は、Macユーザー必見！🍎 Macで使える超優秀なソフトウェアを山ほど集めた、まさに宝物みたいなリポジトリだよ！ [🔗 プロジェクトリポジトリ](https://github.com/jaywcjlove/awesome-mac)
+6. 💪**build-your-own-x**  GitHub 项目提供从零开始构建各种技术的学习路径，帮助用户在实践中掌握编程技能。[🔗 项目仓库](https://github.com/codecrafters-io/build-your-own-x)
 
-9.  `parlant` っていうLLMエージェント、知ってる？🤖 大規模言語モデル（LLM）のアプリ開発をもっとシンプルにしてくれるんだ。デプロイも利用も超簡単だから、ぜひチェックしてみて！ [🔗 プロジェクトリポジトリ](https://github.com/emcie-co/parlant)
+7. 🚀**90DaysOfCyberSecurity** 提供一个为期 90 天的网络安全学习计划，涵盖网络安全方方面面，从基础认证到高级技巧。[🔗 项目仓库](https://github.com/farhanashrafdev/90DaysOfCyberSecurity)
 
-10. `magic` っていうオープンソースのAI生産性プラットフォームが登場！🤔 AIエージェント、ワークフローエンジン、IM、そしてオンラインでの共同作業システムまで、全部一つにまとまってるんだって。これは仕事がはかどりそう！ [🔗 プロジェクトリポジトリ](https://github.com/dtyq/magic)
+8. 🍎**awesome-mac** 收集了各种Mac上的高级软件，是Mac用户的宝藏仓库。[🔗 项目仓库](https://github.com/jaywcjlove/awesome-mac)
 
-11. `DeepMind` の主任科学者、デニー・ジョウ氏が、スタンフォード大学CS25の授業で**大規模言語モデル（LLM）の推論メカニズム**について超わかりやすく解説してくれたんだって！🤯 LLMの推論って、実はたくさんの「中間トークン」を生成することで行われるらしい。強化学習によるファインチューニングとか、いろんな技術についても深掘りしてるから、興味ある人はぜひ見てみて！ [▶️ 動画デモ](https://www.youtube.com/watch?v=ebnX5Ur1hBk)
+9. 🤖**parlant** 是一个简化大型语言模型 (LLM) 应用的 LLM 代理，易于部署和使用。[🔗 项目仓库](https://github.com/emcie-co/parlant)
 
-12. `李飛飛` 氏と `ヒントン` 氏の間で、AI安全問題に関する見解に違いがあるみたいだよ。🤖 李飛飛氏は「設計、ガバナンス、価値観」にフォーカスしているのに対し、ヒントン氏は「超知能の制御不能」を心配していて、「人類を思いやるAI」を作るべきだと提唱しているんだ。「目標の誤った一般化」と「ツールの収束」が、AIの潜在的なリスクにおける二つの重要なキーワードみたいだね。
+10. 🤔**magic** 是一个开源的AI生产力平台，集成了AI代理、工作流引擎、IM和在线协同办公系统。[🔗 项目仓库](https://github.com/dtyq/magic)
 
-13. `FormulaOne` っていう新しいAI評価ベンチマークが爆誕！🤔 220問のグラフ構造動的計画法問題が用意されてるんだけど、なんとGPT-5を含むトップクラスの大規模モデルが軒並み「玉砕」、スコアは全部ゼロだったんだって！🤯 これはAIの限界を示してるのかも…？ ![フォーミュラワン](https://image.jiqizhixin.com/uploads/editor/656fe086-cbec-46f3-b135-a600f7a68fda/640.png) [🔗 FormulaOne リーダーボード](https://huggingface.co/spaces/double-ai/FormulaOne-Leaderboard)
+11. 🤯DeepMind首席科学家Denny Zhou在斯坦福CS25课程上讲解了**大语言模型(LLM)**推理机制，指出LLM的推理通过生成一系列**中间token**实现，并探讨了强化学习微调等技术。[▶️ 视频演示](https://www.youtube.com/watch?v=ebnX5Ur1hBk)
 
-14. `高徳地図ST-MAC` 技術がすごい！🚀 ユーザーの要望に合わせて、賢く移動ルートを計画してくれるだけじゃなくて、いろんな生活サービスも連携してくれるんだ。これで、もっと便利で自分にぴったりの移動体験ができちゃうね！ ![高徳地図ST-MAC](https://image.jiqizhixin.com/uploads/editor/3fbd1c8f-32ce-4283-8c09-c6baf2b73609/640.png)
+12. 🤖李飞飞和Hinton对AI安全问题的观点存在差异，李飞飞关注**设计、治理和价值观**，Hinton则担忧超级智能失控，建议设计出**关心人类的AI**。"目标错误泛化”和"工具趋同”是AI潜在风险的两大核心概念。
 
-15. `Google` が `Gemma 3 270M` をオープンソース化したよ！🎉 パラメータ数は少ないのに、性能はバッチリ！スマホみたいなデバイスでもサクサク動いちゃうんだって。 ![GoogleオープンソースGemma 3 270M](https://image.jiqizhixin.com/uploads/editor/e092f14d-e613-4506-8847-ddbeb85982bd/640.png)
+13. 🤔**FormulaOne** 是一个新的 AI 评测基准，包含 220 道图结构动态规划问题，让包括 GPT-5 等顶尖大模型全部"翻车”，成绩全部为零！[FormulaOne](https://image.jiqizhixin.com/uploads/editor/656fe086-cbec-46b3-b135-a600f7a68fda/640.png) [🔗 FormulaOne Leaderboard](https://huggingface.co/spaces/double-ai/FormulaOne-Leaderboard)
 
-16. `Auto-RCA` フレームワークがすごすぎる！👏 AIを使って通信ネットワークの故障を診断するんだけど、なんとその正確率が62.54%から91.79%に爆上がりしたんだって！これはマジで画期的だね。 ![Auto-RCA フレームワークの画像](https://image.jiqizhixin.com/uploads/editor/1a79ce5a-bed6-43f8-a438-24cead877fa4/640.png)
+14. 🚀**高德地图ST-MAC** 技术能够根据用户的需求，智能规划出行路线，并整合各种生活服务，提供更加便捷和个性化的出行体验。![高德地图ST-MAC](https://image.jiqizhixin.com/uploads/editor/3fbd1c8f-32ce-4283-8c09-c6baf2b73609/640.png)
 
-17. `ネットユーザー` からの提案なんだけど、「mental model」って、これからは「心理モデル」じゃなくて「心智モデル」って訳すべきだってさ！🤔 なるほど、たしかにそっちの方がしっくりくるかもね。 ![心智モデルの翻訳に関する画像](https://pbs.twimg.com/media/GyhcqxyXUAA4U4R?format=jpg&name=orig)
+15. 🎉**谷歌开源Gemma 3 270M**，参数量小，性能强，适合在手机等设备上运行。[图片: https://image.jiqizhixin.com/uploads/editor/e092f14d-e613-4506-8847-ddbeb85982bd/640.png]
 
-18. `カリフォルニアのハイテク業界` での雇用不振って、実は色々な理由が重なってるんだって。🤔 「ゼロ金利時代」の終わり、人材過多、リモートワークの普及、AIの衝撃、そして税制改革法案なんかもあるみたい。複雑な問題だね。
+16. 👏**Auto-RCA** 框架将AI用于诊断电信网络故障，将准确率从62.54%提升到91.79%。[图片: https://image.jiqizhixin.com/uploads/editor/1a79ce5a-bed6-43f8-a438-24cead877fa4/640.png]
 
-19. `BigYe程普` さんが、VScodeとCursorに元々ついてる「内網穿透機能」の裏技を教えてくれたよ！🤫 これは知っておくと便利かもね！ ![VScodeとCursorの裏技に関する画像](https://cdnv2.ruguoapp.com/Fk0gK2JJ7K_4A-9wBnc5OPR9Hq2iv3.jpg)
+17. 🤔网友建议将"mental model”翻译成"心智模型”，而不是"心理模型”。[图片: https://pbs.twimg.com/media/GyhcqxyXUAA4U4R?format=jpg&name=orig]
 
-20. `小紅書` で、際どいコンテンツを売るアカウントがいくつか見つかって、規約違反行為をしてるんだって。😈 ちょっと問題になってるみたいだね。 ![小紅書の際どいコンテンツに関する画像](https://pbs.twimg.com/media/GyhKdvUaMAEwI_A?format=jpg&name=orig)![小紅書の際どいコンテンツに関する画像](https://pbs.twimg.com/media/GyhKdvMb0AAxyG8?format=jpg&name=orig)![小紅書の際どいコンテンツに関する画像](https://pbs.twimg.com/media/GyhKdyla8AA7WeA?format=jpg&name=orig)![小紅書の際どいコンテンツに関する画像](https://pbs.twimg.com/media/GyhKdw1bUAAKreF?format=jpg&name=orig)
+18. 🤔加州科技行业就业低迷是多种因素交织的结果，包括"零利率时代”的终结、人才过剩、远程办公、AI 的冲击、税改法案等。
 
-21. `YouTube` がAIを使って動画を修正してる件、ちょっと心配されてるみたいだよ。🤔 AI技術の悪用とか、クリエイターの権利問題とか、色々議論されてるんだ。 [🔗 動画リンク](https://youtu.be/86nhP8tvbLY?si=qCw8un0e85D3PVzb)
+19. 🤫BigYe程普分享了VScode 和 Cursor 自带内网穿透功能的小技巧。[图片: https://cdnv2.ruguoapp.com/Fk0gK2JJ7K_4A-9wBnc5OPR9Hq2iv3.jpg]
 
-22. `人間がAIと決定的に違う` のは、物語を語ったり理解したりする力、そしてそこから生まれる共感力なんだって。📖✨ AIにはまだ真似できない、人間ならではの強みだね。 ![AIと物語](https://pbs.twimg.com/media/GygzjpVaUAAfJsk?format=jpg&name=orig)
+20. 😈小红书上出现了一批卖擦边素材的账号，存在违规行为。[图片: https://pbs.twimg.com/media/GyhKdvUaMAEwI_A?format=jpg&name=orig][图片: https://pbs.twimg.com/media/GyhKdvMb0AAxyG8?format=jpg&name=orig][图片: https://pbs.twimg.com/media/GyhKdyla8AA7WeA?format=jpg&name=orig][图片: https://pbs.twimg.com/media/GyhKdw1bUAAKreF?format=jpg&name=orig]
+
+21. 🤔YouTube 利用 AI 修改视频引发担忧，涉及 AI 技术滥用以及创作者权益问题。[🔗 视频链接](https://youtu.be/86nhP8tvbLY?si=qCw8un0e85D3PVzb)
+
+22. 📖✨人类区别于AI的关键在于讲述和理解故事的能力以及由此带来的共情能力。![AI与故事](https://pbs.twimg.com/media/GygzjpVaUAAfJsk?format=jpg&name=orig)
