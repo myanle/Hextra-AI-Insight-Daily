@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Contact Me
+# Contact Me 👋
 
-Want to chat? I'm always stoked to hear your thoughts and ideas! Whether you've got burning questions, a brilliant collaboration proposal, or just need a hand, hit me up using the details below. 👇
+Wanna chat? I'm totally stoked to hear your thoughts and suggestions. If you've got questions, collaboration ideas, or need a hand, just reach out using the deets below. 👇
 
-I promise to get back to your emails super promptly – consider it done! 🚀
+And hey, I promise to get back to your emails pronto! ✨
 
 ---
 
@@ -18,5 +18,5 @@ I promise to get back to your emails super promptly – consider it done! 🚀
     *   [764165941@qq.com](mailto:764165941@qq.com)
 
 *   **Office Hours:**
-    *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Closed on weekends and public holidays)
+    *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
+    *   (Weekends and public holidays off)
