@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Get In Touch! 👋
+# Get in Touch
 
-Your thoughts and ideas: I'm always super keen to hear them! Whether you have questions, a killer partnership concept, or just need some support, don't hesitate to hit me up using the info below! 👇
+Want to connect? I'm always super stoked to hear your thoughts and suggestions! 🤩 If you've got questions, collaboration ideas, or need a hand, just check out the ways below to get in touch.
 
-My reply: I promise to get back to your emails super quickly. Like, seriously fast. 💨
+Emails? I'll shoot you a reply pronto, I promise! 📧
 
 ---
 
@@ -19,4 +19,4 @@ My reply: I promise to get back to your emails super quickly. Like, seriously fa
 
 *   **Office Hours:**
     *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Yeah, I chill out on weekends and public holidays! 😎)
+    *   (Heads up: I'm off on weekends and public holidays! 🏖️)
