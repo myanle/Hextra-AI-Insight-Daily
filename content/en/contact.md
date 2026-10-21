@@ -4,18 +4,18 @@ type: page
 sidebar:
   exclude: true
 ---
-# Contact Me
+# Contact Me! 👋
 
-Want to connect? I'm always thrilled to hear your thoughts and suggestions! Whether you've got questions, brilliant collaboration ideas, or need some tech backup, feel free to hit me up using the details below. 👇
+Want to get in touch? I'm genuinely thrilled to hear your thoughts and suggestions. If you've got questions, brilliant collaboration ideas, or need a hand, just hit me up using the methods below. 👇
 
-Response time? Consider it snappy! I promise to get back to your emails ASAP. 🚀
+Regarding your emails? I promise to get back to you super quickly! 🚀
 
 ---
 
-## **Contact Info**
+## **Get In Touch!**
 
 *   **Email:**
-    *   [764165941@qq.com](mailto:764165941@qq.com)
+    *   `[764165941@qq.com](mailto:764165941@qq.com)`
 
 *   **Office Hours:**
     *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
