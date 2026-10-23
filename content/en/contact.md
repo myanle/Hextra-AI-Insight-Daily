@@ -6,8 +6,7 @@ sidebar:
 ---
 # Contact Me 👋
 
-I'd love to hear from you! If you have any questions, collaboration ideas, or need support, just reach out using the methods below.
-I promise to get back to your emails ASAP.
+I'd love to hear from you! Whether you have questions, collaboration ideas, or need support, don't hesitate to reach out. I promise to get back to your emails ASAP.
 
 ---
 
@@ -17,5 +16,5 @@ I promise to get back to your emails ASAP.
     *   [764165941@qq.com](mailto:764165941@qq.com)
 
 *   **Office Hours:**
-    *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
+    *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
     *   (Closed on weekends and public holidays)
