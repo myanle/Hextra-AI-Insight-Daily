@@ -6,9 +6,9 @@ sidebar:
 ---
 # Get in Touch
 
-Feel free to reach out! 👋 I'd absolutely love to hear your thoughts and suggestions. Whether you've got questions, a collaboration idea brewing, or need some support, just hit me up using the info below.
+Got questions? Ideas? Looking to team up or just need a hand? I'm all ears and always stoked to hear from you! Just hit me up using the info below. 👇
 
-You can bet I'll get back to your emails super quickly! 🚀
+You can count on me to get back to your emails ASAP! 🚀
 
 ---
 
@@ -19,4 +19,4 @@ You can bet I'll get back to your emails super quickly! 🚀
 
 *   **Office Hours:**
     *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   Heads up: I'm off on weekends and public holidays. 🏖️
+    *   (Catch me chilling on weekends and public holidays!)
