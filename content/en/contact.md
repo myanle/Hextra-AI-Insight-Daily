@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Let's Connect
+# Get In Touch
 
-I'd love to hear from you! Got questions, collaboration ideas, or need some support? Just ping me using the options below.
+I'm always stoked to hear your thoughts and ideas! Whether you've got questions, brilliant collaboration ideas, or just need a little backup, feel free to reach out using the details below.
 
-I promise to hit you back ASAP via email. ⚡
+You can count on me to hit you back on emails super fast! 🚀
 
 ---
 
@@ -18,5 +18,5 @@ I promise to hit you back ASAP via email. ⚡
     *   [764165941@qq.com](mailto:764165941@qq.com)
 
 *   **Office Hours:**
-    *   You can find me crunching numbers (or code!) Monday to Friday, from 9:00 AM - 6:00 PM (GMT+8).
-    *   Weekends and public holidays are my chill time! 🏖️
+    *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
+    *   (Weekends & public holidays are for chilling! 🌴)
