@@ -4,15 +4,15 @@ type: page
 sidebar:
   exclude: true
 ---
-# Get in Touch 👋
+# Let's Connect!
 
-Hey there! I'm always stoked to hear your thoughts and ideas. Got a question, a project to collaborate on, or just need some help? Hit me up through the channels below!
+Got questions? Collaboration ideas? Or just wanna chat about something cool? I'm all ears! Reach out using the deets below.
 
-You can count on a speedy reply from me; I promise to get back to your emails pronto!
+I'll make sure to hit you back on emails ASAP. Promise!
 
 ---
 
-## **How to Reach Me**
+## **Get in Touch**
 
 *   **Email:**
     *   [764165941@qq.com](mailto:764165941@qq.com)
