@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Let's Connect!
+# Let's Connect! 🤙
 
-Got questions? Ideas? Want to team up or need some help? I'm always stoked to hear from you! Hit me up using the details below.
+I'm always stoked to hear your thoughts and suggestions! Got questions, partnership ideas, or just need some support? I'm here for it – hit me up using the deets below.
 
-I promise to get back to your emails pronto! ⚡
+I'll definitely make sure to get back to your emails pronto! 🚀
 
 ---
 
@@ -19,4 +19,4 @@ I promise to get back to your emails pronto! ⚡
 
 *   **Office Hours:**
     *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   Just a heads-up: I'm usually chilling on weekends and public holidays. 🌴
+    *   (Just a heads-up: I'm usually off on weekends and public holidays! Time to recharge, ya know? 😉)
