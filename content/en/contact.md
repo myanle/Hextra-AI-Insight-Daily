@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Contact Me
+# Let's Connect! 👋
 
-I'm absolutely stoked to hear from you, whether you've got questions, a cool collaboration idea, or just need a hand. Seriously, hit me up using the info below!
+Reach out to me! I'd absolutely love to hear your thoughts and suggestions. If you've got any questions, brilliant collaboration ideas, or need some support, don't hesitate to contact me using the deets below.
 
-I promise to get back to your emails super fast. ⚡️
+Your emails? I promise to get back to them ASAP! 🚀
 
 ---
 
@@ -19,4 +19,4 @@ I promise to get back to your emails super fast. ⚡️
 
 *   **Office Hours:**
     *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Taking a break on weekends and public holidays! 😎)
+    *   Weekends & Public Holidays: I'm off! 😎
